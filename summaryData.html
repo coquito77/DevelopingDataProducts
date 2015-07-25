@@ -135,9 +135,18 @@ str(data)</code></pre>
 ##  $ EntityCounty                  : Factor w/ 56 levels &quot;Alameda&quot;,&quot;Alpine&quot;,..: 1 1 1 1 1 1 1 1 1 1 ...
 ##  $ SpecialDistrictActivities     : logi  NA NA NA NA NA NA ...</code></pre>
 <pre class="r"><code>library(tidyr)
-library(dplyr)
-
-# summarize the data
+library(dplyr)</code></pre>
+<pre><code>## 
+## Attaching package: 'dplyr'
+## 
+## The following object is masked from 'package:stats':
+## 
+##     filter
+## 
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union</code></pre>
+<pre class="r"><code># summarize the data
 
 summarydata &lt;- data %&gt;% 
   select(EntityName, DepartmentSubdivision, OvertimePay, TotalWages) %&gt;% 
@@ -150,7 +159,7 @@ summarydata &lt;- data %&gt;%
 
 # export summarized data
 
-write.table(summarydata, file = &quot;./summarydata.txt&quot;, sep=&quot;\t&quot;, na = &quot;0&quot;, row.names = FALSE)</code></pre>
+write.table(summarydata, file = &quot;./data/summarydata.txt&quot;, sep=&quot;\t&quot;, na = &quot;0&quot;, row.names = FALSE)</code></pre>
 
 
 </div>

@@ -39,7 +39,7 @@ summarydata <- data %>%
 
 # export summarized data
 
-write.table(summarydata, file = "./summarydata.txt", sep="\t", na = "0", row.names = FALSE)
+write.table(summarydata, file = "./data/summarydata.txt", sep="\t", na = "0", row.names = FALSE)
 
 
 ```

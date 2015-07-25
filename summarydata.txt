@@ -1,0 +1,3385 @@
+"EntityName"	"DepartmentSubdivision"	"count"	"medianOT"	"medianTotalPay"
+"Alameda"	"AC Central Collections"	36	0	59558
+"Alameda"	"ACERA"	89	0	74838
+"Alameda"	"Adult and Aging Services"	512	0	56461
+"Alameda"	"Agency Administration"	343	0	57387
+"Alameda"	"Agency Director & Asst Director"	2	0	145179
+"Alameda"	"Aging"	11	0	83895
+"Alameda"	"Art Commission"	4	0	64651.5
+"Alameda"	"Assessor"	173	0	57845
+"Alameda"	"Auditor-Controller Office"	97	0	67619
+"Alameda"	"Auditor-Controller Recorder"	74	0	57515.5
+"Alameda"	"BHCS Grants"	3	0	84689
+"Alameda"	"Board wide"	2	0	65152
+"Alameda"	"Building Maintenance"	148	353.5	72099
+"Alameda"	"CAL ID -Alameda Co"	10	6319	58787.5
+"Alameda"	"CDA-Agency Admin & Finance"	21	0	77495
+"Alameda"	"CDA-Agriculture Commissioner"	7	0	56892
+"Alameda"	"CDA-Construction Department"	4	0	131103
+"Alameda"	"CDA-Lead"	10	0	65114
+"Alameda"	"CDA-Sealer of Weight & Msres"	8	0	66569.5
+"Alameda"	"CDA Agri Weights Grts"	36	0	45949.5
+"Alameda"	"CDA Housing and Community Dev"	11	0	78758
+"Alameda"	"CDA Housing Grants"	5	0	78330
+"Alameda"	"CDA LPPP Grants"	4	0	96551
+"Alameda"	"Child Support Services"	230	0	57009
+"Alameda"	"Children and Family Services"	554	0	74923
+"Alameda"	"CO Admstr-Clerk Of The Board"	25	0	5400
+"Alameda"	"Co Wide-Animal Control"	13	1335	48951
+"Alameda"	"Co Wide-Civil"	25	2415	59037
+"Alameda"	"Co Wide-Coroner-Pub Admstr"	32	6848.5	107177
+"Alameda"	"Co Wide-Crime Lab"	32	130	90447.5
+"Alameda"	"Co Wide-OES"	14	494.5	109943.5
+"Alameda"	"Communications"	1	5738	47614
+"Alameda"	"Coop Extension"	1	0	12995
+"Alameda"	"County Administrator's Office"	23	0	86356
+"Alameda"	"County Administrator-EDAB"	8	0	76037.5
+"Alameda"	"County Counsel"	55	0	138381
+"Alameda"	"County Library"	293	0	24615
+"Alameda"	"Court Services"	129	4520	102657
+"Alameda"	"Det & Corr-Glenn E Dyer Fac"	148	9751	78353.5
+"Alameda"	"Det & Corr-Jail Support"	57	11305	114092
+"Alameda"	"Det & Corr-Sta Rita Jail"	497	9656	85373
+"Alameda"	"Development Services"	41	0	86831
+"Alameda"	"District Attorney"	385	0	82294
+"Alameda"	"Employee Benefits Center"	16	0	74361
+"Alameda"	"Engineering and Construction"	80	0	84782.5
+"Alameda"	"Environmental Hlth Svcs"	94	0	81410.5
+"Alameda"	"Environmental Hth Proj Grants"	6	1057.5	86569.5
+"Alameda"	"Family Justice Center"	7	0	45196
+"Alameda"	"Fire District - ALACO"	1	0	42010
+"Alameda"	"Flood Control Zone 7"	113	0	102389
+"Alameda"	"Grand Jury"	2	0	115740
+"Alameda"	"GSA-Parking Facilities"	4	67	39547.5
+"Alameda"	"GSA-Property & Salvage"	14	0	37879.5
+"Alameda"	"GSA-Purchasing"	43	0	61418
+"Alameda"	"GSA-Veterans' Memorial Bldg"	4	0	1560
+"Alameda"	"GSA Admin/Ops Support"	27	0	76693
+"Alameda"	"HCSA-Behavioral Care"	543	0	73573
+"Alameda"	"HCSA Administration"	27	0	64496
+"Alameda"	"HCSA Human Resources"	15	0	66254
+"Alameda"	"Health Prot CSA EM-1983-1"	31	0	78545
+"Alameda"	"Health Prot CSA VC-1984-1"	27	795	67859
+"Alameda"	"Health Protection CSA L-1991-1"	11	0	78280
+"Alameda"	"HRS-Conference Center"	9	0	71331
+"Alameda"	"Human Resource Services"	66	0	54168.5
+"Alameda"	"Information Technology"	185	0	94463
+"Alameda"	"Injury Prevention"	5	0	50282
+"Alameda"	"Janitorial Services"	122	1618.5	42409.5
+"Alameda"	"Juv Field-Juvenile Svcs"	114	0	80234
+"Alameda"	"Juv Field -TANF"	1	0	61205
+"Alameda"	"Juv Inst-Administration"	17	5008	44890
+"Alameda"	"Juv Inst-Camp Sweeney"	28	4403	81185
+"Alameda"	"Juv Inst-Juvenile Hall"	207	12016	75503
+"Alameda"	"Labor Relations"	10	0	55888.5
+"Alameda"	"Law Enf-Consolidated Dispatch"	32	10420	83822.5
+"Alameda"	"Law Enf-Dublin Services"	55	20632	127555
+"Alameda"	"Law Enf-ETS"	205	20496	120679
+"Alameda"	"Maintenance and Operations"	138	194.5	67620
+"Alameda"	"Management Services"	58	0	41767.5
+"Alameda"	"Medical Services Program Admin"	61	0	61333
+"Alameda"	"Motor Pool"	21	0	58193
+"Alameda"	"Planning Comm-Adm"	39	0	68189
+"Alameda"	"Port of Oakland"	79	13762	80734
+"Alameda"	"Probation-Administration"	63	0	64702
+"Alameda"	"Probation-Adult"	147	0	85884
+"Alameda"	"Probt Grants"	31	0	86371
+"Alameda"	"Pub Hlth-Communicable Disease"	61	0	57908
+"Alameda"	"Pub Hlth-HIV-AIDS Services"	14	0	75973.5
+"Alameda"	"Public Defender"	168	0	112541.5
+"Alameda"	"Public Health-Famil Health Svs"	209	0	57407
+"Alameda"	"Public Health-Field Services"	56	0	82695.5
+"Alameda"	"Public Health Administration"	78	0	75587.5
+"Alameda"	"Public Health Grants"	1	0	25982
+"Alameda"	"Public Health Project Grants"	125	0	51610
+"Alameda"	"Public Hlth-Community Hlth Svs"	46	0	61222
+"Alameda"	"RDA Successor Agency"	7	0	79910
+"Alameda"	"Registrar of Voters"	31	0	50738
+"Alameda"	"Risk Management"	12	0	91764.5
+"Alameda"	"RTC"	85	0	32069
+"Alameda"	"Sheriff's-Administration"	104	0	64485.5
+"Alameda"	"Sheriff's-CIB"	11	10137	68149
+"Alameda"	"Sheriff's -Contracts"	78	15623.5	117079.5
+"Alameda"	"Step Up Program"	3	0	37211
+"Alameda"	"Superior Court Judges"	77	0	10248
+"Alameda"	"Supervisorial District No. 1"	8	0	75916.5
+"Alameda"	"Supervisorial District No. 2"	7	0	63571
+"Alameda"	"Supervisorial District No. 3"	7	0	69827
+"Alameda"	"Supervisorial District No. 4"	9	0	73614
+"Alameda"	"Supervisorial District No. 5"	7	0	90065
+"Alameda"	"Surplus Property Authority"	1	0	164394
+"Alameda"	"TAP Program"	557	0	16992
+"Alameda"	"Technical Service Division"	28	0	91299.5
+"Alameda"	"Treasurer Tax-Collector"	59	0	57234
+"Alameda"	"Unemployment Insurance"	1	0	79202
+"Alameda"	"Warrants Rec and Crime Analys"	17	4520	59935
+"Alameda"	"Weapons Screening"	48	0	37598
+"Alameda"	"Welfare Fraud Investigation"	13	0	81436
+"Alameda"	"Welfare to Work"	539	0	48609
+"Alameda"	"Workforce and Resource Dev"	255	0	55452
+"Alameda"	"Workforce Invest Board Grant"	20	0	67326.5
+"Alpine"	"Assessor"	3	0	54991
+"Alpine"	"Auditor"	4	0	68545
+"Alpine"	"Behavioral Health"	9	0	43284
+"Alpine"	"Board of Supervisors"	9	0	23642
+"Alpine"	"Community Development"	23	0	38178
+"Alpine"	"County Clerk"	2	0	66766
+"Alpine"	"County Counsel"	1	0	36943
+"Alpine"	"District Attorney"	3	0	43950
+"Alpine"	"Eastern Alpine Fire Dept"	1	0	84539
+"Alpine"	"Health & Human Services"	16	0	47457
+"Alpine"	"Human Resources"	1	0	60043
+"Alpine"	"Library"	5	0	20275
+"Alpine"	"Museum"	2	0	11088
+"Alpine"	"Planning Commission"	4	0	960
+"Alpine"	"Probation"	1	0	38888
+"Alpine"	"Recorder"	1	0	44206
+"Alpine"	"School Board"	5	0	2016
+"Alpine"	"Sheriff/Coroner"	17	9183	78389
+"Alpine"	"Treasurer/Tax Collector/Recorder"	1	0	51383
+"Amador"	"Administrative Officer"	4	0	60459
+"Amador"	"Ag Commissioner-Sealer"	5	0	65379
+"Amador"	"Airport"	1	0	77570
+"Amador"	"Amador Air District"	2	0	56030.5
+"Amador"	"Amador Fire Protection"	1	0	48704
+"Amador"	"Animal Control"	8	855.5	43546.5
+"Amador"	"Assessor"	12	0	58829.5
+"Amador"	"Auditor Controller"	8	0	48585
+"Amador"	"Board of Supervisors"	7	0	67832
+"Amador"	"Building Department"	5	0	52293
+"Amador"	"Code Enforcement"	3	0	70729
+"Amador"	"Coroner"	1	8088	105251
+"Amador"	"County Counsel"	5	0	84425
+"Amador"	"County Library"	9	0	39348
+"Amador"	"District Attorney"	25	0	81065
+"Amador"	"Drug/Alcohol"	3	0	62752
+"Amador"	"Elections"	4	0	14786.5
+"Amador"	"Emergency Services"	1	9236	107233
+"Amador"	"Environmental Health"	8	0	65695
+"Amador"	"Facilities Maintenance"	12	0	33139.5
+"Amador"	"General Services Administration Motor Pool"	5	0	58099
+"Amador"	"General Services Administration Support Services"	6	0	43159.5
+"Amador"	"Health Department"	15	0	53609
+"Amador"	"Information Technology"	7	0	67343
+"Amador"	"Jail"	30	3181	62276
+"Amador"	"Local Community Correction"	4	767	62919.5
+"Amador"	"Mental Health"	27	0	44860
+"Amador"	"Narcotics Task Force"	1	0	26565
+"Amador"	"Personnel"	4	0	46927
+"Amador"	"Planning Department"	3	0	67631
+"Amador"	"Probation"	16	400.5	71763
+"Amador"	"Public Conservator"	2	351.5	63420
+"Amador"	"Public Works"	33	182	53112
+"Amador"	"Recorder"	5	0	48189
+"Amador"	"Records Management"	1	0	50807
+"Amador"	"Sheriff"	49	3487	78682
+"Amador"	"Sheriff (Court Bailiffs)"	11	0	23410
+"Amador"	"Sheriff Dispatching"	11	683	55057
+"Amador"	"Social Services"	49	30	40136
+"Amador"	"Surveying & Engineering"	3	0	81950
+"Amador"	"Treasurer-Tax Collector"	5	0	43846
+"Amador"	"Veterans Service Officer"	2	0	30253.5
+"Amador"	"Victim/Witness Program"	1	0	74139
+"Amador"	"Waste Management"	1	0	86754
+"Amador"	"Workmen's Compensation"	1	0	85114
+"Butte"	"Administration"	34	0	49909
+"Butte"	"Agriculture"	33	0	27342
+"Butte"	"Assessor"	53	0	37429
+"Butte"	"Auditor/Controller"	33	0	25672
+"Butte"	"Behavioral Health"	594	0	30395.5
+"Butte"	"Board of Supervisors"	14	0	39845
+"Butte"	"Child Support Services"	136	0	31111
+"Butte"	"Clerk-Recorder"	25	49	39876
+"Butte"	"County Counsel"	11	0	52196
+"Butte"	"Development Services"	37	0	42938
+"Butte"	"District Attorney"	128	0	41881
+"Butte"	"Employment and Social Services"	875	0	32558
+"Butte"	"Farm and Home Advisor"	7	0	16459
+"Butte"	"General Services"	71	0	36091
+"Butte"	"Human Resources"	31	0	31735
+"Butte"	"Information Systems"	30	0	67747.5
+"Butte"	"Library"	134	0	10464
+"Butte"	"Probation"	216	56.5	38881.5
+"Butte"	"Public Health"	187	0	37900
+"Butte"	"Public Works"	153	32	42928
+"Butte"	"Sheriff-Coroner"	343	3188	54951
+"Butte"	"Treasurer-Tax Collector"	44	0	18610
+"Butte"	"Water Services"	12	0	47263
+"Calaveras"	"Administration"	7	0	61012
+"Calaveras"	"Agriculture"	4	0	50909.5
+"Calaveras"	"Air Pollution"	1	0	43280
+"Calaveras"	"Airport"	2	0	34183.5
+"Calaveras"	"Animal Control"	12	0	15086
+"Calaveras"	"Assessor"	15	0	45474
+"Calaveras"	"Auditor/Controller"	11	0	48966
+"Calaveras"	"Behavioral Health Services"	47	0	34585
+"Calaveras"	"Board Of Supervisors"	7	0	49442
+"Calaveras"	"Building"	8	0	49511.5
+"Calaveras"	"Building And Grounds"	9	0	31489
+"Calaveras"	"Calmet"	3	7623	71385
+"Calaveras"	"Calworks & Human Services"	75	111	43706
+"Calaveras"	"Clerk"	3	0	33944
+"Calaveras"	"Cneu"	4	13180.5	78878
+"Calaveras"	"Code Compliance"	2	0	60016.5
+"Calaveras"	"Coroner"	1	0	62471
+"Calaveras"	"County Counsel"	8	0	67902.5
+"Calaveras"	"Dispatch"	17	3142	50059
+"Calaveras"	"District Attorney"	14	0	62090.5
+"Calaveras"	"Elections"	3	90	25960
+"Calaveras"	"Environmental Managt Agency"	9	0	53503
+"Calaveras"	"Equipment Service Center"	7	1247	39595
+"Calaveras"	"Gis"	2	0	67925.5
+"Calaveras"	"Human Resources"	7	0	48081
+"Calaveras"	"Integrated Waste Management"	17	191	43429
+"Calaveras"	"Jail"	31	2400	49324
+"Calaveras"	"Library"	12	0	11911.5
+"Calaveras"	"Literacy Program"	1	0	36987
+"Calaveras"	"Marine Safety"	2	15362.5	88214
+"Calaveras"	"Museum"	1	0	19982
+"Calaveras"	"Oes"	2	5611	63680.5
+"Calaveras"	"Onsite Wastewater"	2	0	57146
+"Calaveras"	"Planning"	12	0	44417
+"Calaveras"	"Probation"	27	0	31412
+"Calaveras"	"Public Access Tv"	6	0	7159.5
+"Calaveras"	"Public Authority Ihss"	2	0	59453
+"Calaveras"	"Public Health"	22	0	37812.5
+"Calaveras"	"Public Works Administration"	7	0	58080
+"Calaveras"	"Recorder"	4	0	40434
+"Calaveras"	"Roads & Bridges"	77	0	36776
+"Calaveras"	"Sheriff"	56	5273	68574
+"Calaveras"	"Substance Abuse"	11	0	36295
+"Calaveras"	"Technology Services"	14	0	35017.5
+"Calaveras"	"Treasurer/Tax Collector"	6	0	39821.5
+"Calaveras"	"Victim/Witness Program"	1	0	48532
+"Colusa"	"AG Admin Services"	5	0	47343
+"Colusa"	"AG Commissioner"	9	0	46390
+"Colusa"	"Air Pollution"	3	761	50397
+"Colusa"	"Animal Control"	5	0	7096
+"Colusa"	"Assessor"	12	0	46976
+"Colusa"	"Auditor/Controller"	13	87	43683
+"Colusa"	"Behavioral Health Admin"	5	0	90482
+"Colusa"	"Board of Supervisors"	5	0	41553
+"Colusa"	"Boating"	2	4735.5	52494.5
+"Colusa"	"Central Services"	2	0	27142.5
+"Colusa"	"Child Support"	7	531	43696
+"Colusa"	"Clerk/Recorder"	8	342	47910
+"Colusa"	"Communications"	9	760	49684
+"Colusa"	"Cooperative Extension"	3	0	46272
+"Colusa"	"Coroner"	1	2431	68092
+"Colusa"	"County Counsel"	4	0	61341.5
+"Colusa"	"Court Bailiff"	3	77	54401
+"Colusa"	"Custodians"	4	0	24018.5
+"Colusa"	"District Attorney"	11	0	64743
+"Colusa"	"Drug Enforcement"	3	6553	81985
+"Colusa"	"Edhs Admin"	9	0	51108
+"Colusa"	"Elections"	1	0	100
+"Colusa"	"Environmental Health"	6	119.5	55503.5
+"Colusa"	"Health"	15	0	41763
+"Colusa"	"Insurance"	2	0	55411.5
+"Colusa"	"IT"	3	0	64095
+"Colusa"	"Jail"	19	1152	59887
+"Colusa"	"Library"	18	0	9424
+"Colusa"	"Maintenance"	4	0	26842
+"Colusa"	"Mental Health"	50	0	44272
+"Colusa"	"Migrant Housing"	4	0	33404
+"Colusa"	"Owes"	1	4316	60156
+"Colusa"	"Personnel"	7	0	13238
+"Colusa"	"Planning & Building"	8	0	52068
+"Colusa"	"Probation"	26	237	46560
+"Colusa"	"Public Works"	34	0	48336.5
+"Colusa"	"Revenue & Recovery"	1	0	55827
+"Colusa"	"Senior Nutrition"	2	82	12444
+"Colusa"	"Sheriff"	34	2400.5	73968.5
+"Colusa"	"Sheriff-Indian Gaming"	2	945	38688.5
+"Colusa"	"Solid Waste"	2	1236.5	15728
+"Colusa"	"Substance Abuse"	2	1074	46259
+"Colusa"	"Surveyor"	1	0	9897
+"Colusa"	"Transit"	15	0	44304
+"Colusa"	"Treasurer"	5	0	50508
+"Colusa"	"Veteran's Services"	1	0	55549
+"Colusa"	"Victim Witness"	1	0	59520
+"Colusa"	"Welfare"	45	573	42579
+"Contra Costa"	"Agriculture-Weights/Meas"	54	530	33526.5
+"Contra Costa"	"Airport Operations"	16	5887	49917.5
+"Contra Costa"	"Alcohol & Other Drugs Svc"	29	491	54654
+"Contra Costa"	"Animal Services"	102	728.5	36629.5
+"Contra Costa"	"Assessor"	123	381	51433
+"Contra Costa"	"Auditor - Controller"	52	376	52898
+"Contra Costa"	"Building Maintenance"	196	4227.5	41679
+"Contra Costa"	"Cal Hlth Bnft Marketplace"	165	184	12639
+"Contra Costa"	"CCC Dept Child Spprt Svcs"	177	274	46973
+"Contra Costa"	"Ccc Fire Protection District"	330	29660.5	125895.5
+"Contra Costa"	"Child Development"	106	69.5	27996
+"Contra Costa"	"Clerk Of The Board"	7	0	36875
+"Contra Costa"	"Comm Coll Child Dev"	4	3	26124
+"Contra Costa"	"Community Services"	363	65	21091
+"Contra Costa"	"Conservation And Development"	170	183	57789.5
+"Contra Costa"	"Contra Costa Health Plan"	224	1445.5	42244.5
+"Contra Costa"	"County Administrator"	22	0	79173
+"Contra Costa"	"County Counsel"	50	10.5	100651.5
+"Contra Costa"	"D A Revenue Narcotics"	1	396	48006
+"Contra Costa"	"D A Welfare Fraud"	1	0	127139
+"Contra Costa"	"Department Of Supervisors"	37	0	64621
+"Contra Costa"	"District Attorney"	223	1147	70582
+"Contra Costa"	"EHSD-Administrative Svcs"	191	1297	56063
+"Contra Costa"	"Ehsd-Adult & Aging Svcs"	220	927	45760.5
+"Contra Costa"	"EHSD-Child & Family Svcs"	311	1151	55854
+"Contra Costa"	"EHSD-Workforce Services"	995	1363.5	42525
+"Contra Costa"	"EHSD WFRC Investment Brd"	143	591	6477
+"Contra Costa"	"Elections"	55	434.5	37538
+"Contra Costa"	"Emergency Services"	28	3482.5	72611
+"Contra Costa"	"General Services Admin"	1	0	9020
+"Contra Costa"	"Health Svcs-Environ Hlth"	100	1383	81817.5
+"Contra Costa"	"Health Svcs-Public Health"	409	237	45333
+"Contra Costa"	"Health Svcs Consv/Guard"	24	191.5	48049
+"Contra Costa"	"Hlth Svcs-Calif Child Svcs"	66	75.5	51271.5
+"Contra Costa"	"Hlth Svcs-Detentn Inmates"	115	2297	64347
+"Contra Costa"	"Hlth Svcs-Hospital Entrprs"	2944	1025	48823.5
+"Contra Costa"	"Hlth Svcs Homeless Program"	10	322	35437.5
+"Contra Costa"	"Hlth Svcs Mentl Hlth"	516	433	49317.5
+"Contra Costa"	"Human Resources"	44	290	43956.5
+"Contra Costa"	"Information Technology"	59	233.5	67604
+"Contra Costa"	"ISF Fleet Services"	19	1399.5	49624
+"Contra Costa"	"Law & Justice Systems Dev"	2	0	76530
+"Contra Costa"	"Library-Admin & Supp Svcs"	126	180	27710.5
+"Contra Costa"	"Library-Community Svcs"	325	261	8259
+"Contra Costa"	"Long Term Disablty Ins Tr"	12	0	22102.5
+"Contra Costa"	"Npp"	2	0	63989.5
+"Contra Costa"	"Personnel Merit Board"	5	0	450
+"Contra Costa"	"Print & Mail Svcs"	21	804	35439
+"Contra Costa"	"Prisoners Welfare"	9	0	18367
+"Contra Costa"	"Probation Facilities"	214	5776	53978
+"Contra Costa"	"Probation Programs"	191	1159	68502
+"Contra Costa"	"Public Administrator"	2	0	73823
+"Contra Costa"	"Public Defender"	126	773	61660.5
+"Contra Costa"	"Public Works"	265	860	54918
+"Contra Costa"	"Purchasing"	6	0	67848
+"Contra Costa"	"Recorder"	41	90.5	40702
+"Contra Costa"	"Recorder Micro/Modernzatn"	10	18	42004
+"Contra Costa"	"Retirement Payroll"	58	463	51873.5
+"Contra Costa"	"Risk Management"	31	0	59879
+"Contra Costa"	"Serv Area Em-1 Zone B"	8	0	80479
+"Contra Costa"	"Sheriff"	473	9760.5	81460
+"Contra Costa"	"Sheriff Coroner"	8	15665	100570
+"Contra Costa"	"Sheriff Detention"	408	10722	75644
+"Contra Costa"	"Sheriff Law Enforce Trng Centr"	38	835.5	4578.5
+"Contra Costa"	"Sheriff Pol Area 5 Rnd Hill"	2	54534	142880.5
+"Contra Costa"	"Sheriff Police Services"	216	8817	90015
+"Contra Costa"	"Sheriff Serv Area P-2 Zone A"	2	36138	131229.5
+"Contra Costa"	"Sheriff Serv Area P-2 Zone B"	1	6226	92547
+"Contra Costa"	"Telecommunications"	22	11690	76252
+"Contra Costa"	"Treasurer-Tax Collector"	31	198	50466
+"Contra Costa"	"Trial Court Programs"	4	0	10458.5
+"Contra Costa"	"Veterans Service Office"	9	48	40147
+"Contra Costa"	"Zero Tolerance-Dom Violence"	1	0	74700
+"Del Norte"	"Administration"	9	0	37302
+"Del Norte"	"Agriculture"	5	0	39781
+"Del Norte"	"Animal Control"	1	1509	23034
+"Del Norte"	"Assessor"	8	0	45441.5
+"Del Norte"	"Auditor"	7	0	49097
+"Del Norte"	"Bar-O"	13	1702	36597
+"Del Norte"	"Board of Supervisors"	5	0	37262
+"Del Norte"	"Boating"	2	935.5	35985.5
+"Del Norte"	"Building Inspection"	2	0	46124.5
+"Del Norte"	"Building Maintenance"	13	0	25935
+"Del Norte"	"Chat"	1	0	33907
+"Del Norte"	"Child Support Services"	22	0	30048.5
+"Del Norte"	"Clerk Recorder"	4	26.5	31911
+"Del Norte"	"Community Development"	6	0	32506.5
+"Del Norte"	"Coroner"	1	0	41216
+"Del Norte"	"County Counsel"	3	0	64683
+"Del Norte"	"District Attorney"	13	0	36173
+"Del Norte"	"Drug and Alcohol"	9	0	22174
+"Del Norte"	"Education Culture"	1	0	15742
+"Del Norte"	"Elections"	1	0	11673
+"Del Norte"	"Engineering"	3	0	43274
+"Del Norte"	"Environmental Health"	2	0	55562.5
+"Del Norte"	"Health"	13	0	32277
+"Del Norte"	"Information Technology"	8	0	51905.5
+"Del Norte"	"Jail"	29	1229	36335
+"Del Norte"	"Juvenile Hall"	15	3882	33925
+"Del Norte"	"Mental Health"	9	0	31804
+"Del Norte"	"Mental Health-LPS"	2	8.5	18493.5
+"Del Norte"	"Mental Health Services Act"	20	0	36272.5
+"Del Norte"	"OES"	1	2490	54029
+"Del Norte"	"Parks"	1	0	25935
+"Del Norte"	"Planning"	1	0	51351
+"Del Norte"	"Probation"	23	501	38722
+"Del Norte"	"Public Nuisance"	1	0	45438
+"Del Norte"	"Recreation"	1	0	40235
+"Del Norte"	"Roads"	17	335	37440
+"Del Norte"	"Sheriff"	32	2922	50416
+"Del Norte"	"Treasurer"	4	0	55124.5
+"Del Norte"	"TUPP"	3	0	23753
+"Del Norte"	"Veterans Services"	2	0	28556
+"Del Norte"	"Victim Witness"	1	0	50096
+"Del Norte"	"Welfare Admin"	107	0	34757
+"El Dorado"	"Agriculture"	16	0	48709.5
+"El Dorado"	"Air Quality Management"	7	563	59682
+"El Dorado"	"Assessor"	39	0	49549
+"El Dorado"	"Auditor Controller"	27	0	52876
+"El Dorado"	"Board of Supervisors"	18	0	51584.5
+"El Dorado"	"Chief Administration"	80	0	40839
+"El Dorado"	"Child Support Services"	69	77	40362
+"El Dorado"	"Community Development Agency - Development Services"	99	139	53320
+"El Dorado"	"Community Development Agency - Environmental Management"	38	87.5	42562
+"El Dorado"	"Community Development Agency - Transportation"	187	1193	50907
+"El Dorado"	"County Counsel"	22	0	61315.5
+"El Dorado"	"District Attorney"	75	0	59118
+"El Dorado"	"Health And Human Services"	62	279.5	54524
+"El Dorado"	"Health And Human Services - Community Services"	106	0	28907.5
+"El Dorado"	"Health And Human Services - Mental Health"	139	0	20846
+"El Dorado"	"Health And Human Services - Public Health"	89	0	40618
+"El Dorado"	"Health And Human Services - Social Services"	281	1004	31717
+"El Dorado"	"Human Resources"	17	0	47978
+"El Dorado"	"Information Technologies"	43	18	73016
+"El Dorado"	"Library"	82	0	10051
+"El Dorado"	"Probation"	157	643	46821
+"El Dorado"	"Public Defender"	26	0	96335
+"El Dorado"	"Recorder Clerk"	22	0	29653
+"El Dorado"	"Recorder Clerk Elections"	28	0	1565
+"El Dorado"	"Sheriffs Department"	428	2213	57981
+"El Dorado"	"Surveyor"	12	0	80098
+"El Dorado"	"Treasurer Tax Collector"	28	0	41225.5
+"El Dorado"	"Veterans Services"	6	7	29364
+"El Dorado"	"Water Agency"	5	23	78044
+"Fresno"	"Assessor-Recorder"	118	0	46254
+"Fresno"	"Auditor-Controller/Treasurer-Tax Collector"	104	0	39271
+"Fresno"	"Behavioral Health"	504	0	45942
+"Fresno"	"Board of Supervisors"	22	0	49612
+"Fresno"	"Cooperative Extension"	3	0	25868
+"Fresno"	"Coroner-Public Administration/Guardian"	21	0	46696
+"Fresno"	"County Administrative Office"	13	0	67522
+"Fresno"	"County Clerk - Elections"	95	285	2343
+"Fresno"	"County Counsel"	34	0	66877.5
+"Fresno"	"Department of Agriculture"	143	185	34601
+"Fresno"	"Department of Personnel Services"	28	0	44486
+"Fresno"	"Department of Public Health"	542	0	44894
+"Fresno"	"Department of Social Services"	2371	330	41103
+"Fresno"	"Dept of Child Support Services"	215	11	43012
+"Fresno"	"District Attorney"	307	0	47454
+"Fresno"	"IHSS - Public Authority"	7	0	33342
+"Fresno"	"Internal Services Department"	107	13	72670
+"Fresno"	"Internal Services Department-Radio Operations"	4	7146	63899.5
+"Fresno"	"Internal Services Department -  Facility Services"	112	241	29422.5
+"Fresno"	"Internal Services Department -  Fleet Services"	35	0	40267
+"Fresno"	"Internal Services Department -  Graphic Comm Service"	17	0	30089
+"Fresno"	"Internal Services Department -  Purchasing"	14	0	37402.5
+"Fresno"	"Internal Services Department - Telecommunications"	4	80	42209.5
+"Fresno"	"LAFCO Support"	2	0	50726
+"Fresno"	"Library"	1	0	121960
+"Fresno"	"Library Measure B"	310	0	30785.5
+"Fresno"	"PeopleSoft Operations"	2	5320	71957.5
+"Fresno"	"Personnel Services-Risk Management"	32	0	46393
+"Fresno"	"Planning-Parks and Grounds"	61	108	8249
+"Fresno"	"Probation"	278	616.5	47622.5
+"Fresno"	"Probation-Juvenile Justice Campus"	319	5134	54961
+"Fresno"	"Public Defender"	97	0	63902
+"Fresno"	"Public Works & Planning- Roads"	212	0	46117.5
+"Fresno"	"Public Works and Planning"	78	0	56706
+"Fresno"	"Public Works and Planning-American Ave Disposal"	30	1444	29593
+"Fresno"	"Public Works and Planning-Community Development"	13	0	64740
+"Fresno"	"Public Works And Planning-Neighborhood Stabilization Program"	2	0	26205
+"Fresno"	"Public Works and Planning-Resources"	20	0	60738
+"Fresno"	"Public Worls And Planning-Special Districts Administration"	19	45	54063
+"Fresno"	"Retirement Association"	29	0	40792
+"Fresno"	"Security Services"	75	238	25669
+"Fresno"	"Sheriff"	1133	6749	68965
+"Fresno"	"Veterans' Service Officer"	5	0	38584
+"Glenn"	"Agriculture Department"	13	0	54528
+"Glenn"	"Air Pollution Control"	6	0	47776.5
+"Glenn"	"Airport"	1	0	42078
+"Glenn"	"Alcohol And Drug Abuse Services"	9	0	41908
+"Glenn"	"Animal Control"	3	3329	46550
+"Glenn"	"Assessor"	9	0	52157
+"Glenn"	"Board of Supervisors"	5	0	31803
+"Glenn"	"Building Inspector"	2	0	23729
+"Glenn"	"California Children's Services"	1	35	48587
+"Glenn"	"Child Support Services"	9	480	37659
+"Glenn"	"Civil Division"	1	12754	59899
+"Glenn"	"Clerk of the Board"	3	0	50775
+"Glenn"	"Community Service Action"	32	0	34174.5
+"Glenn"	"Cooperative Extension"	7	0	1531
+"Glenn"	"Cops In Schools Grant"	1	10239	72489
+"Glenn"	"Cops Universal Hiring Grant"	3	16993	79235
+"Glenn"	"County Counsel"	2	0	73286
+"Glenn"	"Delinquency Prevention"	1	0	12578
+"Glenn"	"Department of Finance"	9	0	44349
+"Glenn"	"Dispatch"	11	223	6381
+"Glenn"	"District Attorney"	10	0	31732
+"Glenn"	"District Attorney-Vertical Prosecution"	2	0	10963.5
+"Glenn"	"Elections"	27	0	120
+"Glenn"	"Facilities"	11	0	35840
+"Glenn"	"Fleet Operations"	4	0	43845
+"Glenn"	"Health And Human Services Administration"	4	0	102323
+"Glenn"	"Health Services"	9	0	55792
+"Glenn"	"Human Resource Agency"	23	0	31787
+"Glenn"	"Jail"	29	4666	40431
+"Glenn"	"JJCPA Grant"	1	0	49607
+"Glenn"	"Juvenile Hall"	16	6105.5	38707.5
+"Glenn"	"Juvenile Probation And Camps Funding"	1	11897	66809
+"Glenn"	"Local Community Corrections"	6	2974	59041.5
+"Glenn"	"Mental Health"	53	120	35859
+"Glenn"	"Partnership Grant"	1	0	1293
+"Glenn"	"Personnel"	3	0	51476
+"Glenn"	"Planning Department"	4	0	52039.5
+"Glenn"	"Probation"	5	0	57783
+"Glenn"	"Public Guardian"	2	0	56951.5
+"Glenn"	"Public Health"	18	0	55141
+"Glenn"	"Public Works"	13	0	34063
+"Glenn"	"Recorder"	3	0	54600
+"Glenn"	"Road Department"	21	238	38834
+"Glenn"	"Road Engineers"	2	0	52723
+"Glenn"	"Road Shop"	4	2075.5	44851
+"Glenn"	"Sb678 Community Performance Incentive"	2	0	35642
+"Glenn"	"Sheriff"	25	1794	70844
+"Glenn"	"Slesf"	1	0	13055
+"Glenn"	"Social Services"	78	0	38549.5
+"Glenn"	"Solid Waste"	7	452	41303
+"Glenn"	"Special Investigations Tament Grant"	2	5616	47622.5
+"Glenn"	"Trial Court Security"	5	155	19855
+"Glenn"	"Veteran's Services Department"	1	0	37706
+"Glenn"	"Women, Infants And Children"	5	0	49587
+"Glenn"	"Youth Offender Intensive Supervision Program"	2	0	47018.5
+"Humboldt"	"Administration"	48	0	50342.5
+"Humboldt"	"Advanced Planning Department"	5	0	68897
+"Humboldt"	"Agricultural Commissioner"	9	0	53030
+"Humboldt"	"Airport Security"	11	0	24190
+"Humboldt"	"Alcohol & Drug"	16	0	31615.5
+"Humboldt"	"Alternate Counsel"	4	0	37261.5
+"Humboldt"	"Animal Control"	12	186.5	26826.5
+"Humboldt"	"Arcata-Eureka Airport"	17	640	44112
+"Humboldt"	"Assessor"	28	0	37211.5
+"Humboldt"	"Auditor-Controller"	15	0	43015
+"Humboldt"	"Board of Supervisors"	11	0	72384
+"Humboldt"	"Building Inspector"	12	0	51161.5
+"Humboldt"	"Cal-Met Coastal Initiative"	1	12448	111903
+"Humboldt"	"Cods Natural Resources Planning"	5	0	45169
+"Humboldt"	"Communications"	2	0	16088.5
+"Humboldt"	"Conflict Counsel"	9	0	57704
+"Humboldt"	"Cooperative Extension"	5	0	4070
+"Humboldt"	"Coroner - Public administrator"	6	6169	61670
+"Humboldt"	"Correctional Facility Realign"	3	5851	43714
+"Humboldt"	"County Administrative Officer"	5	0	101311
+"Humboldt"	"County Counsel"	19	0	81238
+"Humboldt"	"County Library"	77	0	6324
+"Humboldt"	"County Surveyor"	1	0	84973
+"Humboldt"	"Court Security"	15	325	24565
+"Humboldt"	"Current Planning Department"	16	0	52950.5
+"Humboldt"	"DA-Child Abuse Service Team"	3	0	15462
+"Humboldt"	"Dept Of Child Support Services"	49	0	44175
+"Humboldt"	"District Attorney"	47	0	39928
+"Humboldt"	"Drug Court"	2	0	34647.5
+"Humboldt"	"Early Childhood Care & Educati"	2	0	16225
+"Humboldt"	"Economic Development Division"	9	0	36791
+"Humboldt"	"Elections"	18	0	4696.5
+"Humboldt"	"End Staff"	26	0	40053
+"Humboldt"	"Environment Health"	32	0	43437.5
+"Humboldt"	"Facility Management"	41	0	33703
+"Humboldt"	"Hcaog"	6	0	69375.5
+"Humboldt"	"Headwaters Division"	1	0	70269
+"Humboldt"	"Health Education"	33	0	42398
+"Humboldt"	"Healthy Moms"	12	0	37706
+"Humboldt"	"Information Technology"	19	0	54736
+"Humboldt"	"Juv Crime Prevention Act 2000"	2	0	53690
+"Humboldt"	"Juvenile Hall"	34	443	32993
+"Humboldt"	"Law Library"	5	0	3990
+"Humboldt"	"Mach/Ccs Personnel Program"	25	0	44909
+"Humboldt"	"Marijuana Eradication"	2	26223	94824
+"Humboldt"	"Mental Health"	328	0	40193
+"Humboldt"	"Motor Pool-Operating"	7	0	38322
+"Humboldt"	"Office Of Emergency Services"	1	1898	52323
+"Humboldt"	"Parks & Recreation"	12	65	9592.5
+"Humboldt"	"Personnel"	7	0	68768
+"Humboldt"	"Probation"	57	0	51781
+"Humboldt"	"Proposition 10"	3	0	46820
+"Humboldt"	"Public Defender"	18	0	54227
+"Humboldt"	"Public Guardian - Conservator"	8	0	49111.5
+"Humboldt"	"Public Health Administration"	40	0	39650
+"Humboldt"	"Public Health Field Nursing"	66	0	48252
+"Humboldt"	"Public Health Laboratory"	11	0	20763
+"Humboldt"	"Public Safety Realignment"	11	0	51967
+"Humboldt"	"Public Works - Land Use"	4	0	80990
+"Humboldt"	"Purchasing Agent"	4	0	39038
+"Humboldt"	"Recorder"	13	0	31691
+"Humboldt"	"Regional Facility"	18	767	40611.5
+"Humboldt"	"Revenue Recovery"	10	0	38366
+"Humboldt"	"Risk Management"	6	0	20072.5
+"Humboldt"	"Roads-Administration/Business"	11	0	39486
+"Humboldt"	"Roads-Construction & Maint"	75	441	42126
+"Humboldt"	"Roads-Engineering"	13	277	69684
+"Humboldt"	"Roads-Equipment Maintenance"	13	502	42161
+"Humboldt"	"Roads-Natural Resources"	3	0	66568
+"Humboldt"	"Roads-Right Of Way"	9	0	36585
+"Humboldt"	"Sheriff"	110	7212.5	68529
+"Humboldt"	"Sheriff-Boat Safety Program"	1	17103	77321
+"Humboldt"	"Sheriff - Jail"	114	10221.5	54552.5
+"Humboldt"	"Social Services"	530	0	36199.5
+"Humboldt"	"State Board Of Control"	2	0	33947
+"Humboldt"	"Title Iv-E Waiver & Resolution"	2	340	65631.5
+"Humboldt"	"Treasurer-Tax Collector"	11	0	33223
+"Humboldt"	"Veterans Service Officer"	4	0	28203.5
+"Humboldt"	"Victim-Witness Program"	3	0	40718
+"Humboldt"	"Victim Advocacy & Outreach"	2	0	14007.5
+"Humboldt"	"Water Management"	1	0	43284
+"Humboldt"	"Wick Nutrition"	21	0	15205
+"Imperial"	"Ab1913-Probation"	4	5198.5	68392.5
+"Imperial"	"Agriculture Commissioner"	39	808.5	45852
+"Imperial"	"Air Pollution Control"	19	563.5	53302
+"Imperial"	"Airport-Imperial"	3	0	42910
+"Imperial"	"Animal Control"	7	51	41485
+"Imperial"	"Area Agency On Aging"	2	0	47016.5
+"Imperial"	"Assessor"	29	5	50300
+"Imperial"	"Auditor-Social Services Sect"	1	0	36435
+"Imperial"	"Auditors"	18	0	40046
+"Imperial"	"Behavioral Health"	241	513	35235
+"Imperial"	"Betty Jo Receiving Home"	15	1239.5	33562
+"Imperial"	"Board Of Supervisors"	5	0	58946
+"Imperial"	"Budget & Fiscal"	5	82	63871
+"Imperial"	"California Children Services"	9	0	39053
+"Imperial"	"Child Support Services"	61	29	39509
+"Imperial"	"Clerk Of The Board"	3	73.5	31676
+"Imperial"	"Cooperative Extension"	5	0	28983
+"Imperial"	"County Counsel"	13	55	54140
+"Imperial"	"County Property Services"	45	524	38707
+"Imperial"	"Court Security"	12	3574.5	54734.5
+"Imperial"	"Da I.V.S.I.T."	3	11021	77814
+"Imperial"	"District Attorney"	49	1114	51032
+"Imperial"	"Employee Retirement"	10	147	38847
+"Imperial"	"Equal Employment Opportunity"	1	0	72218
+"Imperial"	"Executive Office"	9	53	59358
+"Imperial"	"Fire Protection"	71	3150	39895
+"Imperial"	"Fire Protection-Impcity"	6	7135	60366.5
+"Imperial"	"Garage Operating Fund"	7	94	35218
+"Imperial"	"Glamis Dune"	2	23424.5	103388.5
+"Imperial"	"Health Services"	63	66.5	48852
+"Imperial"	"Hidta-Coalition Mmt"	2	12632	90223
+"Imperial"	"Hidta-Lecc"	2	2997	45611.5
+"Imperial"	"Hidta District Attorney"	7	715	48625
+"Imperial"	"Hidta Grant-Coalition"	2	11145.5	71838.5
+"Imperial"	"Holtville Law Enforcement"	6	9354	73829
+"Imperial"	"Human Resources & Risk Mngmnt"	18	29	53769.5
+"Imperial"	"Ihss Public Authority"	3	129	36290
+"Imperial"	"Imp Cnty Community Econ Develp"	6	0	46785.5
+"Imperial"	"Information Systems"	19	242	62247
+"Imperial"	"Juvenile Hall"	36	1870	38349
+"Imperial"	"Library"	10	5.5	20169.5
+"Imperial"	"Mhsa Act Prop #63"	52	739	38111.5
+"Imperial"	"MHSA P.E.I."	6	168.5	40372.5
+"Imperial"	"Mosquito Abatement"	5	311	44386
+"Imperial"	"Office Of Emergency Services"	2	7	49913.5
+"Imperial"	"Parks & Recreations"	6	1849	37992.5
+"Imperial"	"Planning Bulding Inspection"	12	736.5	45392
+"Imperial"	"Planning Commission"	2	0	1125
+"Imperial"	"Planning Department"	15	413	48467
+"Imperial"	"Probation And Corrections"	61	3679.5	55536
+"Imperial"	"Probation Ivsit"	2	16230.5	77991
+"Imperial"	"Public Administrator"	9	4	45829
+"Imperial"	"Public Defender"	22	142.5	65949
+"Imperial"	"Public Health Environmental Sv"	12	216	60991
+"Imperial"	"Public Wks Road Const & Maint"	76	653	42776.5
+"Imperial"	"Public Works Engineering & Sur"	3	195	57650
+"Imperial"	"Public Works Solid Waste Disp"	10	5704	39110
+"Imperial"	"Purchasing"	4	13	42304.5
+"Imperial"	"Recorder & County Clerk"	12	8	30388
+"Imperial"	"Registrar Of Voters/Elections"	17	125	7612
+"Imperial"	"Sheriff-Boat & Waterway"	1	3142	61499
+"Imperial"	"Sheriff-Coroner"	122	7511.5	62063
+"Imperial"	"Sheriff Corrections Div"	120	8960	56761.5
+"Imperial"	"Sheriff Process Fee"	1	0	10402
+"Imperial"	"Social Services"	409	667.5	44143
+"Imperial"	"Special Prosecutions Unit"	2	29961	67752.5
+"Imperial"	"Substance Abuse"	15	41	41697
+"Imperial"	"Tax Collector"	4	0	39641
+"Imperial"	"Tobacco Education"	2	0	59298
+"Imperial"	"Treasurer"	13	0	35980
+"Imperial"	"Veterans Services"	3	0	33675
+"Imperial"	"Victim Witness Asst Program"	3	0	39063
+"Imperial"	"Wia Funds-Oat"	36	40	42639
+"Inyo"	"Agricultural Commissioner"	8	0	33257.5
+"Inyo"	"Airport-eastern Sierra Regional"	4	534	46702
+"Inyo"	"Animal Control"	7	2829	51880
+"Inyo"	"Assessor"	8	0	53208.5
+"Inyo"	"Auditor/Controller"	8	0	29973
+"Inyo"	"Board Of Supervisors"	8	0	51112
+"Inyo"	"Building & Safety"	2	518	63863.5
+"Inyo"	"Child Support"	12	0	43833.5
+"Inyo"	"Cnty Admin Office"	4	0	75523.5
+"Inyo"	"Coroner"	4	0	14362
+"Inyo"	"County Clerk"	4	0	56425
+"Inyo"	"County Counsel"	5	0	63996
+"Inyo"	"Crippled Children"	1	0	92808
+"Inyo"	"District Attorney"	18	0	47953
+"Inyo"	"Elections"	1	0	242
+"Inyo"	"Environmental Health"	6	0	69382
+"Inyo"	"Farm Advisor"	1	0	54574
+"Inyo"	"Health"	18	0	47167
+"Inyo"	"Information Services"	10	136.5	64027.5
+"Inyo"	"Jail"	49	3771	59652
+"Inyo"	"Juvenile Institutions"	26	2010	46370.5
+"Inyo"	"Library"	24	0	5985
+"Inyo"	"Maintenance/building & Grounds"	8	0	39337
+"Inyo"	"Mental Health"	40	253.5	45794.5
+"Inyo"	"Mosquito Control"	4	540	44851.5
+"Inyo"	"Museum"	3	0	47322
+"Inyo"	"Parks"	8	14	43780
+"Inyo"	"Personnel"	3	1020	65215
+"Inyo"	"Planning & Zoning"	6	0	57055.5
+"Inyo"	"Probation"	15	0	62768
+"Inyo"	"Public Administrator/Guardian"	2	0	57712
+"Inyo"	"Public Works"	12	0	64481.5
+"Inyo"	"Risk Management"	1	0	85067
+"Inyo"	"Road"	37	1707	52665
+"Inyo"	"Sheriff"	40	1905.5	62157
+"Inyo"	"Social Services"	58	0	35674
+"Inyo"	"Solid Waste"	14	268.5	49628
+"Inyo"	"Substance Abuse"	9	62	39879
+"Inyo"	"Treasurer/Tax Collector"	4	0	59325
+"Inyo"	"Veteran Service Office"	1	2484	50736
+"Inyo"	"Water"	25	0	10008
+"Kern"	"Aging And Adult Services"	183	213.5	19657
+"Kern"	"Agriculture and Measurement Standards"	95	551	35392
+"Kern"	"Airports"	30	1089	34334
+"Kern"	"Animal Control"	87	1740.5	30838
+"Kern"	"Assessor"	110	430.5	51710
+"Kern"	"Auditor-Controller"	54	591	56928
+"Kern"	"Board Of Supervisors-District 1"	11	0	21986
+"Kern"	"Board Of Supervisors-District 2"	6	0	43693
+"Kern"	"Board Of Supervisors-District 3"	5	0	39188
+"Kern"	"Board Of Supervisors-District 4"	7	0	37018
+"Kern"	"Board Of Supervisors-District 5"	12	0	7534.5
+"Kern"	"Board Of Trade"	16	0	225
+"Kern"	"Building Inspection"	38	412.5	52720.5
+"Kern"	"California Childrens Services"	61	0	48753
+"Kern"	"Child Support Services"	217	98	47581
+"Kern"	"Clerk Of the Board Of Supervisors"	7	0	49181
+"Kern"	"Code Compliance CE"	14	919	49345
+"Kern"	"Community and Economic Development"	10	0	57738
+"Kern"	"Construction Services"	23	2812.5	69135
+"Kern"	"Correctional Medicine"	91	12435	91772
+"Kern"	"County Administrative Officer"	25	240	62813
+"Kern"	"County Clerk"	6	47	29433.5
+"Kern"	"County Clerk Elections"	16	342.5	45504
+"Kern"	"County Counsel"	49	2	95320
+"Kern"	"Development Services Agency"	13	708.5	65054
+"Kern"	"District Attorney"	232	565.5	59324
+"Kern"	"District Attorney Forensic Division"	51	306.5	50675
+"Kern"	"Emergency Medical Service"	8	46	60870.5
+"Kern"	"Employers' Training Resource"	126	174	39815.5
+"Kern"	"Engineering, Survey, and Permit Services"	37	107	56783
+"Kern"	"Environmental Health"	65	1918	53305
+"Kern"	"Farm And Home Advisor"	4	0	41203.5
+"Kern"	"Fire"	735	24296.5	100286
+"Kern"	"Garage"	23	1079.5	46998
+"Kern"	"General Services"	119	363	40667
+"Kern"	"Grand Jury"	1	0	47194
+"Kern"	"Human Services"	1781	1209	40292
+"Kern"	"Information Technology Services"	55	1251.5	78996
+"Kern"	"KCERA"	1	0	1900
+"Kern"	"Kern Council of Governments"	1	0	225
+"Kern"	"Kern Medical Center"	1947	1114.5	43663
+"Kern"	"Kern Sanitation Authority"	16	1079.5	59111
+"Kern"	"Library"	208	871	7800
+"Kern"	"Mental Health Services"	540	918	49184.5
+"Kern"	"Parks & Recreation"	116	385	35947
+"Kern"	"Personnel"	28	1	52726
+"Kern"	"Planning & Community Development"	44	832.5	50083
+"Kern"	"Probation"	686	2967	53277.5
+"Kern"	"Public Defender"	112	0	70115
+"Kern"	"Public Health"	277	241	43782
+"Kern"	"Public Transit"	5	182.5	45696
+"Kern"	"Recorder"	32	5	32284
+"Kern"	"Risk Management"	37	251	49431
+"Kern"	"Roads"	208	649.5	50341
+"Kern"	"Sheriff"	1341	8524	69981
+"Kern"	"Solid Waste"	148	453	49281
+"Kern"	"Substance Abuse Program"	49	129	36214
+"Kern"	"Treasurer-Tax Collector"	40	286	37675
+"Kern"	"Veterans Services"	12	0	45420
+"Kings"	"Admin - Minors Advocacy"	6	0	35986
+"Kings"	"Administration"	7	0	66419
+"Kings"	"Agr. Commissioner/Sealer"	29	0	43588
+"Kings"	"Agriculture - Extension Svc"	3	0	26422
+"Kings"	"Assessor"	27	0	46367
+"Kings"	"Behavioral Health Admin"	7	0	43588
+"Kings"	"BHA - AOD Program Admin"	2	122.5	61667
+"Kings"	"BHA - MH Services Act"	21	0	40872
+"Kings"	"Board Of Supervisors"	7	0	64547
+"Kings"	"CDA - Building Inspection"	4	0	55105.5
+"Kings"	"Community Development Agency"	11	0	44967
+"Kings"	"County Clerk - Elections"	8	0	26932.5
+"Kings"	"County Counsel"	12	0	45217.5
+"Kings"	"D.A. - AB 109"	1	0	26371
+"Kings"	"D.A. - Child Abduction"	2	4548.5	58681
+"Kings"	"D.A. - Misc. Grants"	3	4687	74697
+"Kings"	"D.A. - State Prisons"	8	216	72857.5
+"Kings"	"DA - Domestic Violence VAWA"	3	0	72142
+"Kings"	"Department of Finance"	18	0	58844
+"Kings"	"Dept. of Child Support Services"	58	167	38743
+"Kings"	"District Attorney"	47	0	42193
+"Kings"	"Fire"	75	10181	74680
+"Kings"	"Fire- Office of Emergency Mgmt."	1	0	46254
+"Kings"	"Health"	1	57	32548
+"Kings"	"Health- Information Management"	13	33	29991
+"Kings"	"Health - Administration"	14	0	43152.5
+"Kings"	"Health - AIDS Program"	3	61	50234
+"Kings"	"Health - Bio Terrorism"	3	0	15917
+"Kings"	"Health - Calif Child Services"	7	0	34048
+"Kings"	"Health - CD Clinic"	6	0	41889.5
+"Kings"	"Health - Child Health"	7	0	55057
+"Kings"	"Health - Environmental Health"	11	32	67653
+"Kings"	"Health - Family Planning"	11	0	50944
+"Kings"	"Health - Grants"	3	0	50753
+"Kings"	"Health - Lab"	3	32	76030
+"Kings"	"Health - MCH"	2	145.5	56888
+"Kings"	"Health - PHN"	4	0	72637.5
+"Kings"	"Health - TB Program"	1	0	50173
+"Kings"	"Health - Tobacco Grants"	2	1307	56016
+"Kings"	"Health - WIC Program"	23	0	34946
+"Kings"	"Human Resources"	8	0	49665
+"Kings"	"Human Services"	314	543	39547.5
+"Kings"	"Information Technology"	32	703	66990
+"Kings"	"IT - Central Services"	4	232.5	35949.5
+"Kings"	"IT - Internal Services Admin"	4	14	52562
+"Kings"	"IT - Purchasing"	2	0	55721
+"Kings"	"IT - Record Storage/Microfilm"	6	130.5	32781.5
+"Kings"	"JTO Program Admin"	25	0	42178
+"Kings"	"Law Library"	1	8	31524
+"Kings"	"Library"	31	0	23248
+"Kings"	"Probation"	53	113	50309
+"Kings"	"Probation - Juvenile Center"	52	1633.5	42209.5
+"Kings"	"Probation - Misc. Grants"	5	410	56049
+"Kings"	"Probation - Sb-678"	3	103	27233
+"Kings"	"Probation - Victim Assistant VAW"	1	0	10943
+"Kings"	"Probation - Victim/Witness"	3	0	31626
+"Kings"	"Probation - Yobg"	4	1273	52382.5
+"Kings"	"Probation Ab-109"	28	58.5	31438
+"Kings"	"Public Guardian/Veterans Svc"	18	0	23631.5
+"Kings"	"Public Works-Engineering/Roads"	23	147	40865
+"Kings"	"Public Works-Parks & Grounds"	14	523.5	29435.5
+"Kings"	"Public Works - Administration"	4	0	52315.5
+"Kings"	"Public Works - Building Maintenance"	32	114	36657
+"Kings"	"Public Works - Fleet Mgmt. ISF"	8	51.5	38887.5
+"Kings"	"Public Works - Surveyor"	5	0	62726
+"Kings"	"Recorder"	8	0	27281
+"Kings"	"Sheriff-Court Security Svcs."	11	0	55049
+"Kings"	"Sheriff - AB-109"	53	2642	31669
+"Kings"	"Sheriff - Administration"	20	1174.5	34057
+"Kings"	"Sheriff - Animal Svcs. Shelter"	9	49	30519
+"Kings"	"Sheriff - Field Operations"	72	4893	61886.5
+"Kings"	"Sheriff - Jail"	101	5418	50189
+"Kings"	"Sheriff - Jail Kitchen"	9	2546	41761
+"Kings"	"Sheriff - Narcotics Task Force"	1	25	35136
+"Kings"	"Sheriff - Operation AB443"	6	15972	79999.5
+"Kings"	"Sheriff - Radio Communications"	16	7101.5	58171
+"Kings"	"Sheriff - Rural Crime T.F."	3	6004	68391
+"Kings"	"Sheriff -Animal Services Field"	2	8554	49811
+"Lake"	"Administrative Office"	9	0	40069
+"Lake"	"Agricultural Commissioner"	12	0	11434
+"Lake"	"Air Quality Mgmt. Dist"	9	0	26636
+"Lake"	"Alcohol & Other Drugs Ser"	26	0	21126.5
+"Lake"	"Animal Care And Control"	25	0	8500
+"Lake"	"Assessor"	18	0	28848
+"Lake"	"Auditor-Controller"	12	0	33020
+"Lake"	"Board Of Supervisors"	5	0	59157
+"Lake"	"Building And Safety"	9	0	28280
+"Lake"	"Buildings And Grounds"	19	64	14540
+"Lake"	"Child Support Services"	36	11	30351
+"Lake"	"Clerk To Board Of Supervisor"	1	0	41483
+"Lake"	"County Counsel"	8	0	56896
+"Lake"	"County Museum"	8	0	7868.5
+"Lake"	"Da/Victim-Witness Assist"	6	0	38620.5
+"Lake"	"Dept. Of Public Works"	7	0	35897
+"Lake"	"District Attorney"	36	0	61848.5
+"Lake"	"Economic Development Prog"	2	0	19139.5
+"Lake"	"Elections"	10	0	1545
+"Lake"	"Engineering & Inspection"	15	0	39390
+"Lake"	"Environmental Health"	15	0	35778
+"Lake"	"Flood/Lake Mgmt. Program"	6	0	51405.5
+"Lake"	"Health Services Admin"	9	0	42284
+"Lake"	"Human Resources"	9	0	33823
+"Lake"	"Information Technology"	13	0	51191
+"Lake"	"Integrated Waste Mgmt."	15	16	33254
+"Lake"	"Isf-Fleet Maintenance"	6	0	33902
+"Lake"	"Jail Facilities"	78	3999	48682
+"Lake"	"Juvenile Home"	22	1499.5	31216.5
+"Lake"	"Lampson Operation"	1	0	7964
+"Lake"	"Law Library Trust"	3	0	1027
+"Lake"	"Library - General"	20	0	19771.5
+"Lake"	"Marine Patrol"	6	2031	22678.5
+"Lake"	"Mental Health Admin"	89	0	24795
+"Lake"	"Office Of Emergency Service"	1	1567	26102
+"Lake"	"Parks And Recreation"	20	0	25491
+"Lake"	"Planning Department"	23	0	32009
+"Lake"	"Probation Officer-Juvenile"	39	143	40463
+"Lake"	"Public Health"	29	0	27277
+"Lake"	"Purchasing"	1	0	20546
+"Lake"	"Recorder"	4	0	32332
+"Lake"	"Recorder - Micrographics"	2	0	7630
+"Lake"	"Road Department"	34	219	37050
+"Lake"	"Section 8 Housing Program"	4	0	26967.5
+"Lake"	"Sheriff-Bailiffs"	9	0	21573
+"Lake"	"Sheriff-Central Dispatch"	10	8019.5	48272.5
+"Lake"	"Sheriff-Coroner"	69	9122	69913
+"Lake"	"Sheriff/Coroner"	1	0	19026
+"Lake"	"Social Services Admin"	203	0	33661
+"Lake"	"Social Services Programs"	3	0	24902
+"Lake"	"Social Services Special P"	8	0	31912.5
+"Lake"	"Special Districts Admin"	49	431	40139
+"Lake"	"Special Projects"	3	0	13636
+"Lake"	"Treasurer-Tax Collector"	18	0	19768.5
+"Lake"	"U.C. Cooperative Extension"	5	0	7393
+"Lake"	"Veteran Services Officer"	3	0	42496
+"Lake"	"Visitor Center"	6	0	7317
+"Lassen"	"Administration"	5	6913	60825
+"Lassen"	"Agricultural Commissioner"	2	0	56758.5
+"Lassen"	"Assessor"	11	1696	53752
+"Lassen"	"Auditor"	9	0	47376
+"Lassen"	"Child Support Services"	9	0	38141
+"Lassen"	"Children & Family Services"	1	0	97625
+"Lassen"	"Cooperative Extension"	1	0	33994
+"Lassen"	"County Board of Supervisors"	5	0	38761
+"Lassen"	"County Clerk/Recorder"	7	149	44323
+"Lassen"	"County Counsel"	3	0	64431
+"Lassen"	"District Attorney"	10	6724	60282
+"Lassen"	"Economic Development/Housing"	2	0	47985.5
+"Lassen"	"Fair"	2	4388	62030.5
+"Lassen"	"Health and Social Services"	137	320.5	38044
+"Lassen"	"Personnel/Risk Management"	3	0	31404
+"Lassen"	"Planning"	11	0	44978
+"Lassen"	"Probation"	31	3832	44375
+"Lassen"	"Public Defender"	5	0	63003
+"Lassen"	"Public Works"	49	1927	41172
+"Lassen"	"Sheriff"	84	2379.5	42426
+"Lassen"	"Solid Waste"	10	1119	32543.5
+"Lassen"	"Treasurer/Tax Collec tor"	6	0	47528
+"Los Angeles"	"Affirmative Action Compliance"	2	0	984.5
+"Los Angeles"	"Agric Comm/Wts & Measures"	386	193	51625
+"Los Angeles"	"Alternate Public Defender"	297	0	116433
+"Los Angeles"	"Animal Care And Control"	334	829.5	45542.5
+"Los Angeles"	"Antelope Valley Rehabilitation Center"	84	505	43938.5
+"Los Angeles"	"Assessor"	1387	0	54865
+"Los Angeles"	"Auditor-Controller"	561	0	71141
+"Los Angeles"	"Beaches & Harbors"	262	140.5	44102
+"Los Angeles"	"Board Of Supervisors"	588	0	60572.5
+"Los Angeles"	"Chief Executive Office"	500	0	95432.5
+"Los Angeles"	"Chief Information Office"	25	0	140074
+"Los Angeles"	"Child Support Services"	1563	0	52218
+"Los Angeles"	"Children's Medical Services"	710	0	78128.5
+"Los Angeles"	"Children & Family Services"	7166	87	65172
+"Los Angeles"	"Community and Senior Services"	516	0	60196.5
+"Los Angeles"	"Consumer Affairs"	65	0	49517
+"Los Angeles"	"County Counsel"	534	0	95431.5
+"Los Angeles"	"Department of Medical Examiner - Coroner"	226	253.5	56166.5
+"Los Angeles"	"District Attorney"	2139	0	96588
+"Los Angeles"	"Fire Department"	4824	22034.5	109821
+"Los Angeles"	"Grand Jury"	5	0	82559
+"Los Angeles"	"Health Services"	1334	0	69682.5
+"Los Angeles"	"Human Resources Dept."	313	0	85207
+"Los Angeles"	"Internal Services Dept"	1038	380	78967.5
+"Los Angeles"	"Internal Services Dept."	885	0	76134
+"Los Angeles"	"Juvenile Court Health Services"	224	346.5	78924
+"Los Angeles"	"LAC+USC Healthcare Network"	8134	170.5	53395
+"Los Angeles"	"Mental Health"	4564	0	62312
+"Los Angeles"	"MetroCare Network"	5375	26	55147
+"Los Angeles"	"Military & Vets Affairs"	36	0	48275
+"Los Angeles"	"Museum Of Art"	51	2418	75474
+"Los Angeles"	"Museum Of Natural History"	19	0	65025
+"Los Angeles"	"Non-Departmental / Unbudgeted"	16	0	6688
+"Los Angeles"	"NonCnty - Los Angeles County Employee Retirement Association"	394	0	67098.5
+"Los Angeles"	"Office of AIDS Programs & Policy"	188	0	63759.5
+"Los Angeles"	"Office Of Managed Care"	193	0	70870
+"Los Angeles"	"Parks & Recreation Department"	2546	0	16336.5
+"Los Angeles"	"Probation Department"	5650	135	64575
+"Los Angeles"	"Public Defender"	1089	0	109924
+"Los Angeles"	"Public Health Programs"	2637	0	69452
+"Los Angeles"	"Public Library"	1640	0	13049.5
+"Los Angeles"	"Public Social Services Dept"	13699	129	46023
+"Los Angeles"	"Public Works Department"	3514	196	65141.5
+"Los Angeles"	"Rancho Los Amigos National Rehabilitation Center"	1510	30.5	52761.5
+"Los Angeles"	"Regional Planning Department"	182	0	79111.5
+"Los Angeles"	"Registrar Recorder"	1263	97	37204
+"Los Angeles"	"Sheriff"	18607	557	82224
+"Los Angeles"	"Substance Abuse Prevention and  Control"	223	0	62359
+"Los Angeles"	"Treasurer & Tax Collector"	486	0	47742.5
+"Los Angeles"	"Valley care Network"	3312	115	49883
+"Madera"	"Admin"	7	0	54640
+"Madera"	"Ag. Commission"	6	0	33091.5
+"Madera"	"Agcom"	17	0	34492
+"Madera"	"Agext"	1	0	11381
+"Madera"	"Animal Services"	16	1093	25558.5
+"Madera"	"Asser"	38	0	33009
+"Madera"	"Assessor"	1	0	73
+"Madera"	"Aud/Ll"	3	0	12221
+"Madera"	"Auditor"	20	0	45858.5
+"Madera"	"Behavioral Health"	115	0	43628
+"Madera"	"Board of Supervisor"	20	0	48402
+"Madera"	"Cao"	1	0	14866
+"Madera"	"Central Garage"	6	0	43108.5
+"Madera"	"Central Services"	2	33.5	17315.5
+"Madera"	"Child Support"	43	0	37002
+"Madera"	"Cnsv2"	3	0	36206
+"Madera"	"Coact"	1	0	103618
+"Madera"	"Corrections"	107	1358	40517
+"Madera"	"County Clerk"	15	0	34462
+"Madera"	"County Counsel"	7	0	30430
+"Madera"	"Courts Admin"	108	0	37464.5
+"Madera"	"District Attorney"	43	0	45713
+"Madera"	"Engineer"	60	0	45053.5
+"Madera"	"Environmental Health"	14	0	39936
+"Madera"	"Fire"	109	0	765
+"Madera"	"Frprv"	2	539.5	63214
+"Madera"	"Health"	112	0	37102
+"Madera"	"Human Resources"	16	0	28980.5
+"Madera"	"Information Technology"	21	0	56897
+"Madera"	"Juvenile Hall"	49	2816	46090
+"Madera"	"Lafco"	7	0	100
+"Madera"	"Library"	25	0	11771
+"Madera"	"Planning"	32	0	37000
+"Madera"	"Probation"	65	0	49020
+"Madera"	"Rds-Engr"	1	0	3576
+"Madera"	"Rma-Gnsv"	2	0	83723.5
+"Madera"	"Rmaad"	1	0	2942
+"Madera"	"Roads"	78	0	40450.5
+"Madera"	"Roads-Shop"	1	0	543
+"Madera"	"Sheriff"	127	1088	52723
+"Madera"	"Social Services"	282	0	33457
+"Madera"	"Tax Collector"	10	0	31859.5
+"Madera"	"Vtsvc"	1	0	38298
+"Marin"	"Administrator"	20	85	82562.5
+"Marin"	"Agricultural Commissioner"	18	0	58527.5
+"Marin"	"Assessor - Recorder"	72	402	63446
+"Marin"	"Board of Supervisors"	28	0	71052.5
+"Marin"	"Child Support Services"	36	1534	57493
+"Marin"	"Community Development"	87	1323.5	74300
+"Marin"	"County Counsel"	32	0	67365.5
+"Marin"	"Cultural Services"	177	0	956
+"Marin"	"Department of Finance"	75	309	54252
+"Marin"	"District Attorney"	106	1363.5	58841.5
+"Marin"	"Elections"	35	525.5	5326
+"Marin"	"Farm Advisor"	2	0	44829
+"Marin"	"Fire"	161	10379	49653
+"Marin"	"Health & Human Services"	760	1239	57071
+"Marin"	"Human Resources"	40	409	73945
+"Marin"	"Information Services"	109	924	99496
+"Marin"	"Library"	237	0	13498
+"Marin"	"Probation"	137	2627.5	67867
+"Marin"	"Public Defender"	44	0	93440.5
+"Marin"	"Public Works"	251	3146	65264
+"Marin"	"Retirement"	21	41	54291
+"Marin"	"Sheriff"	330	7796	95629.5
+"Marin"	"Treasurer - Tax Collector"	1	0	699
+"Mariposa"	"Administration"	4	0	64359
+"Mariposa"	"Adult Detention Facility"	21	2161	47265
+"Mariposa"	"Alcohol/Drug"	2	0	47891.5
+"Mariposa"	"Assessor"	11	0	43862
+"Mariposa"	"Auditor"	10	0	47034
+"Mariposa"	"Behavioral Health"	18	0	34462
+"Mariposa"	"Board of Supervisors"	7	0	50522
+"Mariposa"	"Boating Safety"	2	4278	55466
+"Mariposa"	"Building Department"	6	0	25616.5
+"Mariposa"	"Business & Econ Dev"	1	0	36767
+"Mariposa"	"Child Support"	8	0	44250
+"Mariposa"	"Clerk"	1	0	17905
+"Mariposa"	"Community Correct SB678"	1	1665	50643
+"Mariposa"	"County Clerk"	1	0	34083
+"Mariposa"	"County Counsel"	2	0	92412
+"Mariposa"	"Data Processing"	4	120	74212.5
+"Mariposa"	"Dept. of Agriculture"	4	0	30425.5
+"Mariposa"	"District Attorney"	16	0	35102.5
+"Mariposa"	"Elections"	2	0	22319.5
+"Mariposa"	"Engineering"	10	0	55185.5
+"Mariposa"	"Facilities Maintenance"	22	0	31591
+"Mariposa"	"Farm Advisor"	3	0	31002
+"Mariposa"	"Fire"	40	0	3124
+"Mariposa"	"Fire Safer Grant"	3	0	6848
+"Mariposa"	"Fire/OES"	2	1721.5	34960
+"Mariposa"	"Fleet Maintenance"	8	53.5	39794
+"Mariposa"	"Health Department"	29	0	28558
+"Mariposa"	"Housing"	3	0	30623
+"Mariposa"	"Human Resources"	1	0	59079
+"Mariposa"	"Human Services"	50	0	33536.5
+"Mariposa"	"Human Services/Admin"	32	0	31381
+"Mariposa"	"Jail Inmate Welfare"	1	0	13023
+"Mariposa"	"Juvenile Detention"	9	0	5710
+"Mariposa"	"Library"	29	0	5558
+"Mariposa"	"Mental Health Svcs"	12	0	30262
+"Mariposa"	"Parks & Rec"	38	0	1472
+"Mariposa"	"Personnel"	2	0	46381.5
+"Mariposa"	"Planning"	15	0	31911
+"Mariposa"	"Plant Operation Svc"	3	637	45378
+"Mariposa"	"Probation"	13	0	35551
+"Mariposa"	"Probation-SLESF"	2	2522.5	49583
+"Mariposa"	"Public Works Admin"	8	0	44134
+"Mariposa"	"Revenue & Recovery"	1	0	44124
+"Mariposa"	"Road Department"	25	381	36460
+"Mariposa"	"Senior Nutrition"	4	0	14820.5
+"Mariposa"	"Sheriff"	53	4567	58868
+"Mariposa"	"Sheriff/Meth Grant"	1	13719	73300
+"Mariposa"	"Solid Waste"	17	14	33981
+"Mariposa"	"SS Wrap Around"	1	1062	59955
+"Mariposa"	"Transit"	8	0	6616
+"Mariposa"	"Treas/Tax Collector"	4	0	52705
+"Mariposa"	"Trial Court Security"	6	0	11920.5
+"Mariposa"	"Veterans"	1	0	17827
+"Mariposa"	"Youthful Offenders Program"	1	4952	53658
+"Mendocino"	"Agriculture"	13	0	31024
+"Mendocino"	"Air Quality"	10	113	31686
+"Mendocino"	"Alcohol / Other Drug Program"	27	0	44982
+"Mendocino"	"Alternate Defender"	8	0	48396
+"Mendocino"	"Animal Control"	14	7.5	23598.5
+"Mendocino"	"Assessor"	18	0	40132
+"Mendocino"	"Auditor - Controller"	12	0	37867
+"Mendocino"	"Board Of Supervisors"	6	0	72345.5
+"Mendocino"	"Buildings & Grounds"	29	0	28751
+"Mendocino"	"CGAP - Dfc Grant"	1	338	35596
+"Mendocino"	"Child Support Services"	35	61	33029
+"Mendocino"	"Clerk Of The Board"	4	0	41531
+"Mendocino"	"Clerk Recorder"	4	0	18342
+"Mendocino"	"County Clerk - Election"	12	1	1792.5
+"Mendocino"	"County Counsel"	12	0	63928.5
+"Mendocino"	"Court Ab233 Program"	6	0	36278
+"Mendocino"	"Da Anti Drug Abuse"	3	0	66227
+"Mendocino"	"Da Victim Witness"	4	0	22332
+"Mendocino"	"District Attorney"	42	0	41801.5
+"Mendocino"	"Dot Administration"	92	458.5	35280.5
+"Mendocino"	"Emergency Svc Cd Safety"	2	0	39616
+"Mendocino"	"Employee Wellness"	1	0	48196
+"Mendocino"	"Engineering & Technical Assist"	6	0	52134.5
+"Mendocino"	"Environmental Health"	22	0	38289
+"Mendocino"	"Executive Office"	8	0	71032
+"Mendocino"	"Farm Advisor"	4	107	14204
+"Mendocino"	"Garage"	2	0	41309
+"Mendocino"	"General Liability"	3	575	47570
+"Mendocino"	"General Services"	11	0	30973
+"Mendocino"	"Health Benefits"	2	0	45084.5
+"Mendocino"	"Hhsa Administration"	7	0	85224
+"Mendocino"	"Human Resources"	9	0	47929
+"Mendocino"	"Information Services"	18	0	53587
+"Mendocino"	"Jail"	72	13101	64810
+"Mendocino"	"Juvenile Hall"	42	4026.5	32668
+"Mendocino"	"Library"	37	0	19904
+"Mendocino"	"Mendocino County Fair"	3	0	24471
+"Mendocino"	"Mental Health"	59	50	36309
+"Mendocino"	"Micrographics"	1	0	33046
+"Mendocino"	"Museum"	4	0	21079
+"Mendocino"	"Ph Bioterrorism As"	2	339.5	49601
+"Mendocino"	"Ph Maternal Child Health"	1	0	16175
+"Mendocino"	"Ph Tobacco Ed"	1	3	16031
+"Mendocino"	"Ph Wic"	14	641	31272.5
+"Mendocino"	"Planning And Building"	30	0	42282.5
+"Mendocino"	"Probation Office"	49	158	45046
+"Mendocino"	"Public Defender"	23	0	55391
+"Mendocino"	"Public Health"	17	0	35245
+"Mendocino"	"Public Health Ccs"	7	0	36749
+"Mendocino"	"Public Health Nursing"	19	0	36399
+"Mendocino"	"Retiree Benefits"	1	53	39875
+"Mendocino"	"Retirement"	4	0	45141
+"Mendocino"	"Sheriff - Cops Program Ab3229"	1	0	51916
+"Mendocino"	"Sheriff Coroner"	107	8261	65714
+"Mendocino"	"Social Services"	364	0	34942.5
+"Mendocino"	"Treasurer - Tax Collector"	6	838.5	43029.5
+"Mendocino"	"Water Agency"	1	401	31344
+"Mendocino"	"Workers Compensation"	2	0	57363
+"Merced"	"Administrative Services - Custodial"	15	655	26811
+"Merced"	"Administrative Services - Mail Room"	1	0	35394
+"Merced"	"Administrative Services - Purchasing"	3	0	47474
+"Merced"	"Administrative Services - Support Services"	1	0	69256
+"Merced"	"Agricultural Commissioner"	33	0	48223
+"Merced"	"Agricultural Commissioner - Animal Control"	25	9	24038
+"Merced"	"Area Agency on Aging - Health Insurance Counseling and Advocates"	4	0	23331
+"Merced"	"Area Agency on Aging - Merced Senior Service"	2	0	37357
+"Merced"	"Area Agency on Aging - Ombudsman Program"	2	0	7873.5
+"Merced"	"Area Agency on Aging - Pearls"	4	0	10047
+"Merced"	"Assessor"	32	0	43569.5
+"Merced"	"Auditor-Controller"	21	0	57098
+"Merced"	"Board Of Supervisors"	11	0	55647
+"Merced"	"Board Of Supervisors-District - 1"	1	0	20313
+"Merced"	"Board Of Supervisors-District - 4"	1	0	2835
+"Merced"	"Castle Airport Development Center"	14	0	38492
+"Merced"	"Child Support Services Agency"	95	0	33562
+"Merced"	"Commerce Aviation And Economic Development"	5	0	60018
+"Merced"	"Cooperative Extension"	3	0	42611
+"Merced"	"Coroner"	6	938	48783
+"Merced"	"County Clerk"	1	125	42307
+"Merced"	"County Counsel"	11	0	84206
+"Merced"	"County Counsel - Departmental Legal Services"	2	0	121791
+"Merced"	"County Counsel - Litigation"	1	0	116456
+"Merced"	"County Executive Office"	10	0	82104
+"Merced"	"Department Of Administrative Services"	4	0	56114
+"Merced"	"Department Of Administrative Services - Communications"	1	77	50795
+"Merced"	"Department Of Administrative Services - Information Systems"	39	29	63029
+"Merced"	"Department Of Public Works - Building Division"	14	0	17901.5
+"Merced"	"Department Of Public Works - Building Services Division"	14	302.5	49900.5
+"Merced"	"Department Of Public Works - Parks Division"	32	0	11465.5
+"Merced"	"Department Of Public Works - Public Works Administration"	12	0	88660
+"Merced"	"Department Of Public Works - Recreation Division"	3	0	62584
+"Merced"	"Department Of Public Works - Road Division"	65	273	44352
+"Merced"	"Department Of Workforce Investment"	33	0	45072
+"Merced"	"Department of Workforce Investment - Workforce Investment Act - Adults"	2	0	222
+"Merced"	"District Attorney"	77	0	50647
+"Merced"	"District Attorney - Anti Drug"	1	0	54142
+"Merced"	"District Attorney - Victim Witness Assistance Program"	6	0	32238.5
+"Merced"	"District Attorney - Welfare Fraud"	5	0	60463
+"Merced"	"Elections"	7	118	3343
+"Merced"	"Emergency Services"	1	0	23132
+"Merced"	"Fire"	9	0	19305
+"Merced"	"Fire Prevention"	5	0	18111
+"Merced"	"Fleet Management Service"	6	0	43867
+"Merced"	"Health - Administration"	13	0	43590
+"Merced"	"Health - California Children Service"	23	0	36696
+"Merced"	"Health - Child Health"	9	0	53249
+"Merced"	"Health - Clinic Services"	16	0	41193.5
+"Merced"	"Health - Disease Surveillance Investigation"	7	0	50045
+"Merced"	"Health - Emergency Medical Services"	4	0	43309
+"Merced"	"Health - Environmental Health"	23	0	59869
+"Merced"	"Health - Laboratory"	3	0	43450
+"Merced"	"Health - Maternal and Child Health"	15	0	43819
+"Merced"	"Health - Prevention and Health Policy"	7	0	46521
+"Merced"	"Health - Public Health Nursing"	1	0	43459
+"Merced"	"Health - Vital Statistics/General Support"	1	0	41237
+"Merced"	"Human Resources"	9	0	51678
+"Merced"	"Human Services Agency"	29	60	40238
+"Merced"	"Human Services Agency - Administrative Services Division"	107	0	35451
+"Merced"	"Human Services Agency - Adult Protection - Public Guardian"	29	277	51760
+"Merced"	"Human Services Agency - C-IV Project"	7	0	64540
+"Merced"	"Human Services Agency - Eligibility Services Division"	240	509.5	39460.5
+"Merced"	"Human Services Agency - Employment Services"	79	0	42982
+"Merced"	"Human Services Agency - Los Banos"	25	2062	43130
+"Merced"	"Human Services Agency - Multipurpose Senior Services Program"	5	0	55511
+"Merced"	"Human Services Agency - Project Planning And Development Group"	8	141.5	58445
+"Merced"	"Human Services Agency - Social Services Division"	147	376	50527
+"Merced"	"In Home Support Services Public Authority"	2	0	49344.5
+"Merced"	"Indigent Defense"	1	0	35929
+"Merced"	"Juvenile Hall"	64	1147	44783
+"Merced"	"Library"	49	0	14070
+"Merced"	"Maddy And Emergency Services"	1	0	28342
+"Merced"	"Medical Assistance Program"	9	0	30232
+"Merced"	"Mental Health - Administration"	45	0	41898
+"Merced"	"Mental Health - Alcohol And Drug Abuse"	27	32	42508
+"Merced"	"Mental Health - Cal Works Alcohol and Drug"	1	71	42143
+"Merced"	"Mental Health - COPE"	1	0	3780
+"Merced"	"Mental Health - Drop In Center"	11	0	8765
+"Merced"	"Mental Health - Drug Court"	1	0	36084
+"Merced"	"Mental Health - Dual Diagnosis Program"	1	122	15721
+"Merced"	"Mental Health - Innovation"	5	0	16490
+"Merced"	"Mental Health - Inpatient"	55	590	42526
+"Merced"	"Mental Health - Managed Care"	2	0	7598.5
+"Merced"	"Mental Health - Merced Adult"	98	0	40398
+"Merced"	"Mental Health - Merced Children"	1	0	13858
+"Merced"	"Mental Health - Public Guardian Conservator/Public Administrator"	8	524.5	43177
+"Merced"	"Planning And Community Development"	15	0	46809
+"Merced"	"Probation"	17	0	41526
+"Merced"	"Probation - Adult"	30	109	60000.5
+"Merced"	"Probation - Crime Prevention Act"	7	0	60037
+"Merced"	"Probation - Juvenile"	25	0	61950
+"Merced"	"Public Defender"	26	0	57393.5
+"Merced"	"Recorder"	9	0	38279
+"Merced"	"Registrar Of Voters"	6	238	38028
+"Merced"	"Retirement Operating"	11	0	33107
+"Merced"	"Revenue And Reimbursement"	15	0	48489
+"Merced"	"Risk Management"	6	0	48786
+"Merced"	"Sealer Of Weights And Measures"	4	0	31696
+"Merced"	"Sheriff"	150	1593.5	50442.5
+"Merced"	"Sheriff - California ID"	3	0	26026
+"Merced"	"Sheriff - California MMET Grant"	2	18169.5	82577
+"Merced"	"Sheriff - COPS Universal Grant"	5	4115	55908
+"Merced"	"Sheriff - Corrections"	104	14556	64562
+"Merced"	"Sheriff - Court Operations"	44	0	17119.5
+"Merced"	"Sheriff Inmate Welfare"	3	13	31172
+"Merced"	"Tax Collector"	10	0	6926.5
+"Merced"	"Treasurer"	5	0	63534
+"Merced"	"Volunteer Firemen - Atwater"	20	0	539.5
+"Merced"	"Volunteer Firemen - Ballico"	6	0	992.5
+"Merced"	"Volunteer Firemen - Cressey"	6	0	327
+"Merced"	"Volunteer Firemen - Delhi"	22	0	693.5
+"Merced"	"Volunteer Firemen - Dos Palos"	13	0	568
+"Merced"	"Volunteer Firemen - Gustine"	18	0	516
+"Merced"	"Volunteer Firemen - Hilmar"	20	0	824.5
+"Merced"	"Volunteer Firemen - Le Grand"	11	0	471
+"Merced"	"Volunteer Firemen - Livingston"	18	0	1675.5
+"Merced"	"Volunteer Firemen - Los Banos"	10	0	405
+"Merced"	"Volunteer Firemen - Mckee"	24	0	556.5
+"Merced"	"Volunteer Firemen - Merced"	11	0	317
+"Merced"	"Volunteer Firemen - Planada"	7	0	489
+"Merced"	"Volunteer Firemen - Santa Nella"	2	0	218
+"Merced"	"Volunteer Firemen - Snelling"	3	0	346
+"Merced"	"Volunteer Firemen - Stevinson"	7	0	3011
+"Merced"	"Volunteer Firemen - Winton"	25	0	1312
+"Modoc"	"Administration"	4	1248	38007
+"Modoc"	"Agriculture"	16	122	8582.5
+"Modoc"	"Assessor"	6	0	42443.5
+"Modoc"	"Auditor"	4	0	35644.5
+"Modoc"	"Behavioral Health"	38	393	11150
+"Modoc"	"Board of Supervisors"	9	0	21218
+"Modoc"	"Buildings and Grounds"	2	63	25306
+"Modoc"	"CalWorks"	7	0	33309
+"Modoc"	"Cemetery"	9	0	6350
+"Modoc"	"Clerk / Recorder"	1	0	28199
+"Modoc"	"Dispatch"	9	515	22198
+"Modoc"	"District Attorney"	9	968	35333
+"Modoc"	"Family Support"	2	0	30450
+"Modoc"	"Farm Advisor"	2	0	27443.5
+"Modoc"	"First 5 Families"	1	0	64467
+"Modoc"	"Health Services"	1	0	109030
+"Modoc"	"Information Technology"	4	0	38037
+"Modoc"	"Jail"	18	975	3930.5
+"Modoc"	"Library"	8	0	5348.5
+"Modoc"	"Mental"	1	0	4188
+"Modoc"	"Migrant Housing Operation"	3	0	33100
+"Modoc"	"Modoc County Transportation"	4	0	48072
+"Modoc"	"Natural Resource"	1	0	48595
+"Modoc"	"Office of Emergency Services"	3	92	35776
+"Modoc"	"Planning"	5	0	29397
+"Modoc"	"Probation"	11	694	8032
+"Modoc"	"Public Health"	23	216	41771
+"Modoc"	"Public Works"	2	0	40599.5
+"Modoc"	"Road Department"	31	903	46568
+"Modoc"	"Sheriff"	23	3809.5	28038
+"Modoc"	"Social Services"	40	585	22606.5
+"Modoc"	"Tax Collector"	4	0	2472.5
+"Modoc"	"Treasurer"	3	0	38369
+"Modoc"	"Veterans Services"	1	0	30741
+"Modoc"	"Watermaster"	4	173	20512.5
+"Mono"	"Animal Control"	8	141	33157.5
+"Mono"	"Assessor"	10	0	53814
+"Mono"	"Board of Supervisors"	8	0	45446.5
+"Mono"	"Building"	2	3353	74650
+"Mono"	"Clerk/Recorder"	5	0	65781
+"Mono"	"Community Development"	9	0	53842
+"Mono"	"County Administration"	10	748	46420
+"Mono"	"County Counsel"	7	0	52755
+"Mono"	"Department Of Finance"	18	1016.5	55321.5
+"Mono"	"District Attorney"	9	6242	96645
+"Mono"	"Economic Development"	5	151	45330
+"Mono"	"Engineering And Projects"	4	0	72101.5
+"Mono"	"Facilities"	15	1236	43065
+"Mono"	"Information Technology"	12	1425	67857.5
+"Mono"	"Jail"	23	3079.5	54702
+"Mono"	"Mental Health"	21	822.5	42596
+"Mono"	"Paramedics"	27	13625	83988
+"Mono"	"Planning Commission"	5	0	800
+"Mono"	"Probation"	12	302.5	40152.5
+"Mono"	"Public Health"	21	264	55011
+"Mono"	"Road Department"	30	1854	48469.5
+"Mono"	"Sheriff"	45	6190	65419
+"Mono"	"Social Services"	28	1656	41658.5
+"Mono"	"Solid Waste"	7	2557	49136
+"Monterey"	"Agriculture Commissioner"	76	153	51472.5
+"Monterey"	"Assessor/Clerk/Recorder"	75	0	43172
+"Monterey"	"Auditor Controller"	46	0	65607.5
+"Monterey"	"Board Of Supervisors"	22	0	83362
+"Monterey"	"Child Support Services"	108	0	51659
+"Monterey"	"Clerk Of The Board"	4	0	57025
+"Monterey"	"Cooperative Extension Service"	8	0	23390
+"Monterey"	"County Administrative Office"	36	0	77856.5
+"Monterey"	"County Counsel"	42	0	110232.5
+"Monterey"	"District Attorney"	140	0	84303.5
+"Monterey"	"Economic Development"	47	0	54760
+"Monterey"	"Elections"	14	0	55372.5
+"Monterey"	"Emergency Communication"	79	19819	82988
+"Monterey"	"Equal Opportunity Office"	4	0	74594.5
+"Monterey"	"Health"	914	0	50003.5
+"Monterey"	"Human Resources"	35	0	54497
+"Monterey"	"Information Technology"	110	0	78945.5
+"Monterey"	"Library"	117	0	15967
+"Monterey"	"Natividad Medical Center"	1148	1541.5	51109.5
+"Monterey"	"Parks"	140	53	11122
+"Monterey"	"Probation"	310	0	72041.5
+"Monterey"	"Public Defender"	51	0	79480
+"Monterey"	"Resource Management Agency"	276	0	50276
+"Monterey"	"Sheriff-Coroner"	431	7750	101685
+"Monterey"	"Social Services"	822	0	47753
+"Monterey"	"Treasurer/Tax Collector"	48	0	49119.5
+"Monterey"	"Water Resources Agency"	48	0	68704
+"Napa"	"Ag Commissioner/sealer"	51	0	45466
+"Napa"	"Airport - Operations"	7	0	61787
+"Napa"	"Animal Services"	9	6984	56811
+"Napa"	"Animal Shelter - Operations"	9	10	43182
+"Napa"	"Assessor"	25	0	58414
+"Napa"	"Auditor-controller"	23	0	68808
+"Napa"	"Board Of Supervisors"	5	0	91429
+"Napa"	"Building Inspection"	16	0	70298.5
+"Napa"	"Child Support Services"	36	878.5	56046.5
+"Napa"	"Communications"	6	1557	77410
+"Napa"	"Coroner"	7	0	2883
+"Napa"	"Corrections"	109	2488	65741
+"Napa"	"County Counsel"	20	0	115297.5
+"Napa"	"County Executive Office"	21	0	72339
+"Napa"	"County Library - Operations"	100	0	18172
+"Napa"	"Cu Cooperative Extension"	4	0	45650
+"Napa"	"District Attorney"	67	0	57845
+"Napa"	"District Attorney - Consumer"	4	267.5	58256.5
+"Napa"	"Elections"	6	0	46113.5
+"Napa"	"Fleet Management - Operations"	3	50	67105
+"Napa"	"Hose - Agency Administration"	6	0	92740
+"Napa"	"Hose - Alcohol And Drug Svc"	30	0	59468
+"Napa"	"Hose - Child Welfare Services"	67	0	45464
+"Napa"	"Hose - Comprehensive Services"	43	0	61031
+"Napa"	"Hose - Fiscal"	31	0	53635
+"Napa"	"Hose - Health Care Enhancement"	1	711	26181
+"Napa"	"Hose - Mental Health"	93	0	68028
+"Napa"	"Hose - Operations"	17	0	49117
+"Napa"	"Hose - Organizational Resource"	6	0	58609.5
+"Napa"	"Hose - Public Health"	66	0	51817
+"Napa"	"Hose - Quality Management"	8	0	70865
+"Napa"	"Hose - Self Sufficiency"	104	417	52640
+"Napa"	"Housing And Intergovernmental"	5	0	71078
+"Napa"	"Human Resources"	14	0	69907
+"Napa"	"Information Technology Services"	45	0	91313
+"Napa"	"Juvenile Hall"	62	166.5	49916
+"Napa"	"Lafco"	3	0	67125
+"Napa"	"Pies-Local Enforcement Agency"	2	0	86536
+"Napa"	"Pies - Environmental Health"	23	0	72299
+"Napa"	"Planning Building & Envy Services"	41	0	67352
+"Napa"	"Probation"	81	0	72793
+"Napa"	"Property Management"	31	0	45587
+"Napa"	"Public Defender"	25	0	71578
+"Napa"	"Public Works"	56	0	77014
+"Napa"	"Recorder/County Clerk"	9	0	47339
+"Napa"	"Records Management"	5	0	41308
+"Napa"	"Roads"	31	599	58627
+"Napa"	"Sheriff"	132	10655	116127.5
+"Napa"	"Special Investigations Unit"	4	21362	118113.5
+"Napa"	"Training And Org Dev"	1	0	106148
+"Napa"	"Treasurer-tax Collector"	12	0	55390.5
+"Nevada"	"Agriculture Services"	10	0	24490.5
+"Nevada"	"Airport"	6	137	16229
+"Nevada"	"Assessor"	27	11	38849
+"Nevada"	"Auditor - Controller"	13	0	54205
+"Nevada"	"Behavioral Health"	56	0	41245.5
+"Nevada"	"Building Inspection"	15	0	27612
+"Nevada"	"Central Services"	1	0	47759
+"Nevada"	"Child Support Services"	23	0	45603
+"Nevada"	"Clerk Of The Board"	12	0	43639.5
+"Nevada"	"Clerk Recorder"	5	56	33976
+"Nevada"	"Code Enforcement"	6	0	49290
+"Nevada"	"Collections"	2	0	46751
+"Nevada"	"Community Development Administration"	17	0	43221
+"Nevada"	"County Counsel"	9	0	55044
+"Nevada"	"County Executive Office"	7	0	100950
+"Nevada"	"Department Of Public Works Administration"	3	0	53037
+"Nevada"	"Department Of Social Services"	105	257	40536
+"Nevada"	"District Attorney"	29	0	48283
+"Nevada"	"Elections"	15	142	5671
+"Nevada"	"Emergency Management"	1	0	93935
+"Nevada"	"Environmental Health"	15	0	53377
+"Nevada"	"Facilities Management"	14	0	43364
+"Nevada"	"Fleet"	10	190.5	45040
+"Nevada"	"Geographic Information Systems"	4	0	33634.5
+"Nevada"	"Health & Human Services Agency Administration"	28	0	46972
+"Nevada"	"Housing & Community Services"	3	0	3023
+"Nevada"	"Human Resources"	8	0	54226.5
+"Nevada"	"Information Systems Administration"	31	0	61813
+"Nevada"	"Juvenile Hall"	42	198	26806
+"Nevada"	"Library Administration"	5	0	30263
+"Nevada"	"Library Branch 1 - Madelyn Helling"	10	0	13906
+"Nevada"	"Library Branch 2 Grass Valley"	8	0	31408.5
+"Nevada"	"Library Branch 3 - Truckee"	9	0	11121
+"Nevada"	"Library Branch 5 - Penn Valley"	1	0	17460
+"Nevada"	"Library Branch 6 - Bear River"	1	0	747
+"Nevada"	"Planning"	10	0	59132
+"Nevada"	"Probation"	38	0	45237.5
+"Nevada"	"Public Defender"	13	0	77148
+"Nevada"	"Public Health"	52	0	32917.5
+"Nevada"	"Purchasing"	2	0	49143.5
+"Nevada"	"Risk Management"	2	0	74555
+"Nevada"	"Roads Engineering"	6	0	79193
+"Nevada"	"Roads Maintenance"	51	400	33497
+"Nevada"	"Sheriff Administration Support Services"	26	0	38190
+"Nevada"	"Sheriff Animal Control"	4	1986	39000
+"Nevada"	"Sheriff Corrections"	73	10333	67380
+"Nevada"	"Sheriff Court Security"	7	2586	68832
+"Nevada"	"Sheriff Dispatchers"	14	14854.5	58989
+"Nevada"	"Sheriff Operations"	66	5210	71399.5
+"Nevada"	"Sheriff Truckee"	12	10700	77715.5
+"Nevada"	"Solid Waste Western"	3	0	44922
+"Nevada"	"Transit"	28	171.5	21052
+"Nevada"	"Treasurer - Tax Collector"	9	0	45280
+"Nevada"	"Veterans Services"	3	0	20931
+"Nevada"	"Victim Witness Program"	4	0	26482
+"Nevada"	"Waste Water Management"	19	1934	57968
+"Orange"	"Assessor"	348	1528.5	64475.5
+"Orange"	"Auditor-Controller"	401	24	50010
+"Orange"	"Board of Supervisors - 1st District"	16	0	33562.5
+"Orange"	"Board of Supervisors - 2nd District"	7	0	62151
+"Orange"	"Board of Supervisors - 3rd District"	14	0	25482.5
+"Orange"	"Board of Supervisors - 4th District"	13	0	47686
+"Orange"	"Board of Supervisors - 5th District"	9	0	61922
+"Orange"	"Child Support Services"	563	0	47401
+"Orange"	"Clerk-Recorder"	109	11	43360
+"Orange"	"Clerk of The Board"	28	0	54268.5
+"Orange"	"County Counsel"	102	0	130441.5
+"Orange"	"County Executive Office"	197	0	71850
+"Orange"	"District Attorney"	798	0	85642.5
+"Orange"	"Health Care Agency"	2558	0	60821.5
+"Orange"	"Human Resource Services"	138	0	70060.5
+"Orange"	"Internal Audit"	16	0	101239
+"Orange"	"John Wayne Airport"	177	0	69270
+"Orange"	"OC Community Resources"	1644	0	33712.5
+"Orange"	"OC Dana Point Harbor"	17	0	57417
+"Orange"	"OC Public Works"	950	47.5	64164
+"Orange"	"OC Waste & Recycling"	277	460	54762
+"Orange"	"Office Of The Performance Audit Director"	4	0	110148.5
+"Orange"	"Orange County Public Administration"	7	458	67631
+"Orange"	"Orange County Public Guardian"	46	0	68404
+"Orange"	"Probation"	1299	86	62267
+"Orange"	"Public Defender"	407	0	98655
+"Orange"	"Registrar of Voters"	67	194	44538
+"Orange"	"Sheriff-Coroner"	3997	3716	72801
+"Orange"	"Social Services Agency"	4018	0	47444.5
+"Orange"	"Treasurer/Tax Collector"	90	0	46742.5
+"Placer"	"ADM-Administrative Services"	7	0	61077
+"Placer"	"ADM-Central Services"	9	0	53333
+"Placer"	"ADM-Info Tech Systems Division"	64	0	93872.5
+"Placer"	"ADM-Procurement Services"	10	0	64011.5
+"Placer"	"ADM-Revenue Services"	15	0	48078
+"Placer"	"ADM-Telecommunication Services"	20	1403.5	100093
+"Placer"	"AGR-Agricultural Comm/Sealer"	22	0	49266.5
+"Placer"	"APC-Air Pollution Control Dist"	33	0	57388
+"Placer"	"ASR-Assessors Office"	81	0	71271
+"Placer"	"AUD-Auditor Controllers Office"	42	0	55653
+"Placer"	"BLD-Building Division"	24	165	80167
+"Placer"	"CCL-County Counsel"	23	0	101082
+"Placer"	"CDR-Community Dev/Res Agency"	30	0	66172
+"Placer"	"CDR-Engineering & Surveying"	24	0	97015
+"Placer"	"CEO-Board of Supervisors Offc"	21	0	56304
+"Placer"	"CEO-Clerk of the Board"	6	0	53816
+"Placer"	"CEO-County Executive Office"	28	0	70924.5
+"Placer"	"CEO-Economic Development"	6	0	65970.5
+"Placer"	"CEO-Emergency Services"	5	0	58678
+"Placer"	"CEO-Orgnztnl Dvlpmnt Dvsn"	4	0	60298
+"Placer"	"CEO-Risk Mgmt.-Gen Liab-Wkrs Comp"	5	0	101455
+"Placer"	"CEO-Risk Mgmt. & Labor Relations"	7	0	106041
+"Placer"	"CLK-County Clerk-Recorder"	56	0	55288
+"Placer"	"CSS-Child Support Services"	49	0	44533
+"Placer"	"DAO-District Attorneys Office"	112	0	70550.5
+"Placer"	"DPW-Administration"	10	0	72808.5
+"Placer"	"DPW-Engineering"	42	0	94905.5
+"Placer"	"DPW-Fleet Operations"	20	149.5	64694
+"Placer"	"DPW-Flood Control Management"	3	0	110085
+"Placer"	"DPW-Natl Pollutn Elimntn Sys"	8	20.5	43698
+"Placer"	"DPW-Placer County Transit"	34	498.5	47220.5
+"Placer"	"DPW-Road Maintenance"	83	1112	60007
+"Placer"	"DPW-TART"	25	833	57098
+"Placer"	"FAC-Administration"	15	0	61077
+"Placer"	"FAC-Building Maintenance"	54	0	49591.5
+"Placer"	"FAC-Capital Improvements"	10	0	100983
+"Placer"	"FAC-CSA28-Dutch Flat Rec"	5	0	2888
+"Placer"	"FAC-DeWitt Development"	6	515.5	79260.5
+"Placer"	"FAC-Museums"	10	0	37722
+"Placer"	"FAC-Parks & Grounds Maintenance"	33	0	57164
+"Placer"	"FAC-Utility Services"	62	1293.5	72920
+"Placer"	"FRM-Farm Advisor"	6	0	18211.5
+"Placer"	"HHS-Administration"	59	0	52778
+"Placer"	"HHS-Administration and MIS"	3	0	16614
+"Placer"	"HHS-Adult System of Care"	147	0	49096
+"Placer"	"HHS-Animal Services"	19	407	52084
+"Placer"	"HHS-Children System of Care"	188	0	58652.5
+"Placer"	"HHS-Community Clinics"	13	0	6963
+"Placer"	"HHS-Community Health"	8	0	11096.5
+"Placer"	"HHS-Domestic Animal Control"	1	50	33396
+"Placer"	"HHS-Environmental Health"	29	0	77600
+"Placer"	"HHS-Housing Assistance Service"	2	0	64171
+"Placer"	"HHS-Human Services"	258	0	44533
+"Placer"	"HHS-IHSS Public Authority"	7	0	42412
+"Placer"	"HHS-Medical Clinics"	77	0	20363
+"Placer"	"HHS-Public Health"	70	0	56721
+"Placer"	"LIB-County Library"	83	0	10248
+"Placer"	"Local Agency Formation Co."	2	168	88042
+"Placer"	"PLN-Planning Division"	17	0	98415
+"Placer"	"PRO-Food Services Program"	20	752.5	39295.5
+"Placer"	"PRO-Probation Department"	151	175	66195
+"Placer"	"PRS-Clerical Pool"	28	0	1587
+"Placer"	"PRS-Employee Benefits"	10	0	70873
+"Placer"	"PRS-Personnel Department"	23	0	60207
+"Placer"	"RDV-Redevelopment"	1	0	52697
+"Placer"	"SRF-Administration"	47	0	57775
+"Placer"	"SRF-Auburn/So. Placer Patrol"	130	7991	109619.5
+"Placer"	"SRF-Jail Corrections & Deten"	219	1351	71213
+"Placer"	"SRF-Sheriff Grants Program"	13	3745	64851
+"Placer"	"SRF-So. Placer Corrections & Deten"	31	508	23131
+"Placer"	"SRF-Support Services"	65	30	57575
+"Placer"	"SRF-Tahoe Operations"	45	5963	112903
+"Placer"	"TAX-Treasurer/Tax Collector"	29	0	57144
+"Placer"	"VET-Veterans Services Office"	6	0	34601
+"Plumas"	"Ab109-Sheriff"	3	2088	36882
+"Plumas"	"Agriculture"	5	0	22281
+"Plumas"	"Airports"	2	0	26837.5
+"Plumas"	"Alcohol & Drug"	4	195.5	6599
+"Plumas"	"Animal Control"	8	0	5948
+"Plumas"	"Assessor"	12	0	36921
+"Plumas"	"Auditor"	8	0	44039.5
+"Plumas"	"Beh. Health Ab109"	2	0	10231
+"Plumas"	"Board Of Supervisor"	7	0	44749
+"Plumas"	"Boat Patrol"	5	157	13674
+"Plumas"	"Building"	5	0	55760
+"Plumas"	"Child Support"	10	0	33694.5
+"Plumas"	"Clerk Recorder"	7	0	15369
+"Plumas"	"County Counsel"	4	0	58901.5
+"Plumas"	"County Parks"	3	0	10593
+"Plumas"	"Court Security"	7	0	9291
+"Plumas"	"Csa #12 Senior Transportation"	8	0	15711
+"Plumas"	"District Attorney"	13	0	42495
+"Plumas"	"Elections"	10	0	108
+"Plumas"	"Engineering"	3	0	46414
+"Plumas"	"Environmental Health"	6	0	54471.5
+"Plumas"	"Facility Services"	11	0	27006
+"Plumas"	"Farm"	2	0	21090
+"Plumas"	"Gis"	1	0	46139
+"Plumas"	"Greenville Memorial Hall"	1	0	2080
+"Plumas"	"Human Resources"	6	0	9370
+"Plumas"	"Information Technology"	4	0	66727
+"Plumas"	"Jail"	17	2813	39821
+"Plumas"	"Jail/Sb678"	2	1651.5	28726.5
+"Plumas"	"Library"	15	0	6605
+"Plumas"	"Literacy"	10	0	6063
+"Plumas"	"Memorial Hall"	1	0	4160
+"Plumas"	"Mental Health"	39	0	20623
+"Plumas"	"Mhsa"	21	0	814
+"Plumas"	"Museum"	1	0	57858
+"Plumas"	"Planning"	3	0	64085
+"Plumas"	"Probation"	22	0	21050.5
+"Plumas"	"Public Guardian"	2	13	34474.5
+"Plumas"	"Public Health"	35	0	37290
+"Plumas"	"Public Works"	72	331	37460.5
+"Plumas"	"Retirees Health"	19	0	8136
+"Plumas"	"Samsha"	1	0	418
+"Plumas"	"Senior Service"	17	0	7921
+"Plumas"	"Sheriff"	51	2123	62796
+"Plumas"	"Sheriff - AB443"	3	0	10731
+"Plumas"	"Sierra County Literacy"	1	0	4025
+"Plumas"	"Sierra House"	12	135	11147
+"Plumas"	"Social Services"	47	230	29308
+"Plumas"	"Treasurer/Tax Collector"	5	0	42389
+"Plumas"	"Veteran Services"	2	0	12663.5
+"Plumas"	"Victim Witness"	1	2713	65979
+"Riverside"	"Agricultural Commissioner"	51	0	56870
+"Riverside"	"Assessor-Clerk Recorder"	404	245.5	47301
+"Riverside"	"Auditor - Controller"	94	0	57137
+"Riverside"	"Aviation"	9	443	38755
+"Riverside"	"Board Of Supervisors"	71	1641.5	63567
+"Riverside"	"Building And Safety"	36	655	60425
+"Riverside"	"Child Support Services"	335	765.5	50690
+"Riverside"	"Code Enforcement"	92	231	67237
+"Riverside"	"Community Action"	38	0	36258.5
+"Riverside"	"Community Facility Districts"	3	0	82094
+"Riverside"	"Cooperative Extension"	5	0	37131
+"Riverside"	"County Counsel"	72	0	115051
+"Riverside"	"County Service Area 152 National Pollutant Discharge Elimination System"	47	382	45108
+"Riverside"	"Department of Health"	1378	317	42795
+"Riverside"	"Department of Public Social Services"	3736	280	41088
+"Riverside"	"District Attorney"	721	863	73513
+"Riverside"	"Economic Development Agency"	330	259	51227
+"Riverside"	"Executive Office"	32	998	81162.5
+"Riverside"	"Facilities Management"	445	706	36652
+"Riverside"	"Fair and National Date Festival"	17	552	36801
+"Riverside"	"Fire Protection"	222	3369	58346
+"Riverside"	"Flood Control"	245	351	57826
+"Riverside"	"Human Resources"	2939	634	14639
+"Riverside"	"In-Home Support Services Public Authority"	21	146	40663
+"Riverside"	"Local Agency Formation Commission"	5	0	66393
+"Riverside"	"Mental Health"	1289	483	41747
+"Riverside"	"Office on Aging - Title III"	155	0	8816
+"Riverside"	"Planning"	18	0	75966.5
+"Riverside"	"Probation"	891	2003.5	53362
+"Riverside"	"Public Defender"	245	406	87204
+"Riverside"	"Purchasing"	110	257	41280.5
+"Riverside"	"Regional Parks and Open Space District"	247	335	12638
+"Riverside"	"Registrar Of Voters"	30	396	38812
+"Riverside"	"Riverside Conservation Authority"	11	0	96722
+"Riverside"	"Riverside County Children and Families Commission"	23	171	53306
+"Riverside"	"Riverside County Information Technology"	243	2734	90665
+"Riverside"	"Riverside County Regional Medical Center"	2907	2347	49534
+"Riverside"	"Riverside County Sheriff"	4076	5382	80606
+"Riverside"	"Salton Sea Authority"	1	0	87861
+"Riverside"	"Transportation"	355	1139.5	58570
+"Riverside"	"Transportation Land Management Agency"	62	195	54470.5
+"Riverside"	"Treasurer - Tax Collector"	115	65.5	38150
+"Riverside"	"Veterans Services"	17	0	31683
+"Riverside"	"Waste Management"	156	690	47909.5
+"Sacramento"	"Agricultural Commission/Wts/Meas"	44	0	39030.5
+"Sacramento"	"Airports"	366	95.5	44136.5
+"Sacramento"	"Animal Care & Regulation"	32	1021	46809.5
+"Sacramento"	"Assessors Office"	158	0	58654
+"Sacramento"	"Board Of Supervisors"	5	0	104553
+"Sacramento"	"Carmichael Recreation And Parks District"	103	0	4821
+"Sacramento"	"Chief Financial Office"	30	0	70856
+"Sacramento"	"Chief Operations Office"	1	0	215725
+"Sacramento"	"Child Support Services"	317	0	43179
+"Sacramento"	"Civil Service Commission"	2	0	83147.5
+"Sacramento"	"Clerk Of The Board"	10	0	50988.5
+"Sacramento"	"Community Development"	214	0	69290
+"Sacramento"	"Conflict Criminal Defenders"	6	0	41069.5
+"Sacramento"	"Cooperative Extension"	2	23.5	42015.5
+"Sacramento"	"Coroner"	40	119.5	57404.5
+"Sacramento"	"Correctional Health Services"	142	315.5	65944.5
+"Sacramento"	"County Clerk/Recorder"	70	15	42811.5
+"Sacramento"	"County Counsel"	74	0	131727.5
+"Sacramento"	"County Executive Office"	28	0	72949.5
+"Sacramento"	"District Attorney"	448	0	84578.5
+"Sacramento"	"Environmental Management"	120	0	74689.5
+"Sacramento"	"Finance"	182	0	42028.5
+"Sacramento"	"Flood Management"	1	0	58838
+"Sacramento"	"General Services"	526	36	67513
+"Sacramento"	"Health And Human Services"	2036	0	56758
+"Sacramento"	"Human Assistance"	2020	0	48104
+"Sacramento"	"Is Ccr County Clerk/Recorder"	1	0	55707
+"Sacramento"	"Mission Oaks Recreation And Parks District"	243	0	1988
+"Sacramento"	"Multi-Agency Collaboration"	3	0	64085
+"Sacramento"	"Municipal Services"	51	0	23400
+"Sacramento"	"Personnel Services"	209	0	65463
+"Sacramento"	"Probation"	758	263.5	71220
+"Sacramento"	"Public Defender"	147	0	120945
+"Sacramento"	"Regional Parks"	146	0	16524.5
+"Sacramento"	"Retirement Administration"	43	0	50763
+"Sacramento"	"Revenue Recovery"	57	0	48751
+"Sacramento"	"Sd Internal Services Department"	101	0	52026
+"Sacramento"	"Sd Policy And Planning"	48	0	88318
+"Sacramento"	"Sd Sacramento Area Sewer District"	310	1502	67680
+"Sacramento"	"Sd Sacramento Reg Co Sanit Dist Ops"	335	606	78915
+"Sacramento"	"Sheriff"	2108	1253.5	93429
+"Sacramento"	"Sunrise Recreation And Park District"	432	0	3367
+"Sacramento"	"Technology"	380	0	82846
+"Sacramento"	"Transportation"	267	247	64446
+"Sacramento"	"Voter Registration & Elections"	64	0	9919.5
+"Sacramento"	"Waste Management & Recycling"	245	2984	57954
+"Sacramento"	"Water Resources"	224	29.5	72128
+"San Benito"	"Administration"	4	0	59142
+"San Benito"	"Agriculture Commissioner"	14	0	28477.5
+"San Benito"	"Assessor"	14	0	55053
+"San Benito"	"Auditor"	9	0	50594
+"San Benito"	"Board Of Supervisors"	5	0	44653
+"San Benito"	"Buildings/Grounds Maintenance"	2	0	25608
+"San Benito"	"Children & Family Commission"	3	0	9691
+"San Benito"	"Clerk Of The Board"	2	0	47129
+"San Benito"	"Communications"	1	0	30009
+"San Benito"	"Community Svc Work Force Dev"	12	0	34556.5
+"San Benito"	"Council Of Governments"	10	0	57598
+"San Benito"	"County Clerk"	2	0	126043
+"San Benito"	"County Counsel"	6	0	91212.5
+"San Benito"	"County Surveyor"	1	0	30548
+"San Benito"	"District Attorney"	9	0	72284
+"San Benito"	"Elections"	6	0	14278.5
+"San Benito"	"Emergency Servies"	1	0	34448
+"San Benito"	"Ems"	1	0	35604
+"San Benito"	"Family Support"	17	0	46476
+"San Benito"	"Health"	24	0	45333
+"San Benito"	"Human Services"	75	0	41563
+"San Benito"	"Information Technician"	5	0	56529
+"San Benito"	"Jail"	25	10401	73318
+"San Benito"	"Juvenile Hall"	19	6	36165
+"San Benito"	"Library"	11	0	30557
+"San Benito"	"Mental Health"	42	0	41597
+"San Benito"	"Migrant Center"	3	0	35052
+"San Benito"	"Personnel"	3	0	95364
+"San Benito"	"Planning"	6	0	51905
+"San Benito"	"Probation"	19	0	57479
+"San Benito"	"Public Authority"	1	0	40581
+"San Benito"	"Public Works"	7	0	69619
+"San Benito"	"Public Works Road Maintenance"	17	0	38828
+"San Benito"	"Sheriff Office Operations"	27	9658	95178
+"San Benito"	"Solid Waste Disposal"	2	0	90817.5
+"San Benito"	"Substance Abuse"	12	0	51060.5
+"San Benito"	"Tax Collector"	4	23.5	26499
+"San Benito"	"Treasurer"	4	0	34845
+"San Benito"	"Vets Memorial Park"	1	1167	50172
+"San Benito"	"Victim Witness"	2	0	37070.5
+"San Bernardino"	"Agriculture/Weights & Measures"	67	0	38124
+"San Bernardino"	"Airports Administration"	19	1278	52872
+"San Bernardino"	"Architecture & Engineering"	22	0	62399.5
+"San Bernardino"	"Arrowhead Regional Medical Center"	3507	930	39841
+"San Bernardino"	"Assessor-Recorder-Clerk"	234	0	42564
+"San Bernardino"	"Auditor-Controller/Treas/Tax Collector"	76	0	46805.5
+"San Bernardino"	"Auditor-Controller/Treas/Tax Collectr"	227	0	41963
+"San Bernardino"	"Auditor/Controller-Recorder"	6	0	4875
+"San Bernardino"	"Behavioral Health"	914	0	48117.5
+"San Bernardino"	"Board Gov Csa 42, Oro Grande"	1	0	3524
+"San Bernardino"	"Board Governed"	1041	1821	57292
+"San Bernardino"	"Board Governed Csa 20"	9	0	21784
+"San Bernardino"	"Board Governed CSA 40"	1	1466	59254
+"San Bernardino"	"Board Governed Yucaipa Park"	3	0	7971
+"San Bernardino"	"Board of Retirement"	2	0	34488.5
+"San Bernardino"	"Board Of Supervisors"	63	0	46003
+"San Bernardino"	"Clerk of the Board"	17	0	40431
+"San Bernardino"	"Community Dev & Housing"	16	0	51415
+"San Bernardino"	"County Administrative Office"	58	0	72349
+"San Bernardino"	"County Counsel"	92	0	59399.5
+"San Bernardino"	"County Library"	291	0	12259
+"San Bernardino"	"County Museum"	28	0	38003.5
+"San Bernardino"	"Csa 56 - Wrightwood Park & Rec"	2	0	9063
+"San Bernardino"	"District Attorney"	501	0	69789
+"San Bernardino"	"Economic Development Function"	16	0	55413.5
+"San Bernardino"	"Facilities Management"	124	0	37313.5
+"San Bernardino"	"Fleet Management"	79	1157	60112
+"San Bernardino"	"Human Resources"	128	0	56434
+"San Bernardino"	"Human Services"	6916	0	35335.5
+"San Bernardino"	"In Home Spt Svcs-Pub Authority"	19	0	32609
+"San Bernardino"	"Information Services"	312	0	75135
+"San Bernardino"	"Land Use Services"	129	0	55073
+"San Bernardino"	"Probation"	1202	385.5	59160.5
+"San Bernardino"	"Public Defender"	252	0	75678
+"San Bernardino"	"Public Health"	874	0	40575.5
+"San Bernardino"	"Public Works"	592	0	51763
+"San Bernardino"	"Purchasing"	60	0.5	36558.5
+"San Bernardino"	"Real Estate Administration"	23	0	67358
+"San Bernardino"	"Redevelopment Agency"	5	0	99285
+"San Bernardino"	"Regional Parks"	220	0	5245
+"San Bernardino"	"Registrar Of Voters"	41	770	27574
+"San Bernardino"	"Risk Management"	60	0	60370
+"San Bernardino"	"Sb County Fpd - Limited Term"	99	7351	20703
+"San Bernardino"	"Sheriff"	3512	1243	65437
+"San Bernardino"	"Treasurer-Tax Collector"	2	0	6600
+"San Bernardino"	"Veterans Affairs"	19	0	44309
+"San Bernardino"	"Workforce Development Dept"	104	0	44180
+"San Diego"	"Agriculture Weights and Measures"	189	193	49085
+"San Diego"	"Air Pollution Control District"	160	0	69572.5
+"San Diego"	"Animal Services"	174	508.5	40692
+"San Diego"	"Assessor/Recorder/County Clerk"	455	12	50282
+"San Diego"	"Auditor And Controller"	236	0	49022.5
+"San Diego"	"Board of Supervisors"	2	0	58583.5
+"San Diego"	"Board Of Supervisors District 1"	11	0	83188
+"San Diego"	"Board Of Supervisors District 2"	9	0	81868
+"San Diego"	"Board Of Supervisors District 3"	14	0	40988.5
+"San Diego"	"Board Of Supervisors District 4"	9	0	79825
+"San Diego"	"Board Of Supervisors District 5"	11	0	65532
+"San Diego"	"Chief Administrative Office"	15	0	81868
+"San Diego"	"Civil Service Commission"	10	0	575
+"San Diego"	"Clerk Board/Supervisors"	45	0	43137
+"San Diego"	"Community Services Group"	8	0	100524.5
+"San Diego"	"County Communications Office"	22	0	69635.5
+"San Diego"	"County Counsel"	142	0	87906
+"San Diego"	"County Library"	415	0	29008
+"San Diego"	"County Technology Office"	17	0	121351
+"San Diego"	"Department Of Child Support"	506	0	48205.5
+"San Diego"	"Department of Public Works-Airport Enterprise Fund"	37	0	61442
+"San Diego"	"District Attorney"	1108	0	64554
+"San Diego"	"Environmental Health"	294	112.5	67779
+"San Diego"	"Facilities Management"	285	346	57236
+"San Diego"	"Finance and General Government Group"	22	0	83069.5
+"San Diego"	"Fleet Maintenance Support"	51	0	59732
+"San Diego"	"Fleet Services Internal Service Fund Management"	3	125	52555
+"San Diego"	"Fleet Services Internal Service Fund Parts And Fuel"	8	0	60718
+"San Diego"	"Grand Jury"	1	0	67333
+"San Diego"	"Health And Human Services Agency"	6070	131	45749
+"San Diego"	"Housing And Community Development"	109	0	47624
+"San Diego"	"Human Resources"	151	0	55245
+"San Diego"	"Inactive Waste Site Management"	22	0	55529.5
+"San Diego"	"Land Use and Environment Group"	13	0	67468
+"San Diego"	"Law Enforcement Review Board"	4	0	78187
+"San Diego"	"Local Agency Formation"	17	0	900
+"San Diego"	"Medical Examiner"	60	1145.5	56719.5
+"San Diego"	"Office Of Emergency Services"	19	0	63033
+"San Diego"	"Parks And Recreation"	346	0	24166.5
+"San Diego"	"Planning And Development Services"	186	0	64103.5
+"San Diego"	"Probation Department"	1375	1508	60296
+"San Diego"	"Public Defender"	411	0	77293
+"San Diego"	"Public Safety Group"	414	0	2255.5
+"San Diego"	"Public Works, Department Of General"	46	0	76844
+"San Diego"	"Public Works, Department Of Road"	365	0	63418
+"San Diego"	"Purchasing And Contracting"	57	0	69236
+"San Diego"	"Registrar Of Voters"	338	0	3428.5
+"San Diego"	"San Diego County Retirement"	100	0	56313
+"San Diego"	"Sheriff"	4279	3027	67955
+"San Diego"	"Treasurer-Tax Collector"	150	0	39573.5
+"San Diego"	"Wastewater Management"	44	528	60101
+"San Joaquin"	"Aging - Community Services"	20	0	48908.5
+"San Joaquin"	"Agricultural Commissioner"	60	0	40867.5
+"San Joaquin"	"Alcohol-Drug Alternative Program"	5	0	50095
+"San Joaquin"	"Assessor"	87	0	50000
+"San Joaquin"	"Auditor - Controller"	28	0	51524.5
+"San Joaquin"	"Behavioral Health Admin"	95	0	42745
+"San Joaquin"	"Board of Supervisors"	19	0	92261
+"San Joaquin"	"California Childrens Services"	36	0	40803
+"San Joaquin"	"Capital Projects"	10	0	21760.5
+"San Joaquin"	"CCS - MTU"	19	0	47892
+"San Joaquin"	"Central Telephone"	14	237.5	67256.5
+"San Joaquin"	"Child Support  Svs"	172	0	46790
+"San Joaquin"	"Children - Families Program"	9	0	78144
+"San Joaquin"	"Community Development Services"	45	0	66507
+"San Joaquin"	"Community Infra-Engineer Svs"	8	0	76237.5
+"San Joaquin"	"Conservator Services"	29	0	44363
+"San Joaquin"	"Cooperative Extension"	5	0	39469
+"San Joaquin"	"Correctional Health Services"	92	1398.5	41824
+"San Joaquin"	"County Administrator"	13	0	119614
+"San Joaquin"	"County Counsel"	19	0	147585
+"San Joaquin"	"County Head Start"	5	0	55256
+"San Joaquin"	"D A - Child Abduction"	3	0	54995
+"San Joaquin"	"D A - Public Assist Fraud Pros"	10	0	103565
+"San Joaquin"	"D A - Victim Assistance"	9	0	45901
+"San Joaquin"	"D A - Victim Witness Program"	10	429.5	48844.5
+"San Joaquin"	"DA-Consumer Fraud-Prop 64"	14	0	57293.5
+"San Joaquin"	"DA-Criminal Restitution Program"	3	0	43398
+"San Joaquin"	"Dept. of Aging-Commodity Program"	5	0	18712
+"San Joaquin"	"Dept. of Aging-Community Action"	20	454	46881.5
+"San Joaquin"	"Dept. of Aging-Linkages Program"	1	330	17140
+"San Joaquin"	"Dept. of Aging-Senior Nutrition"	7	0	15067
+"San Joaquin"	"Dept. of Aging - Energy ECIP"	7	125	39469
+"San Joaquin"	"Dept. of Aging - Energy Weather"	4	168.5	43970.5
+"San Joaquin"	"Dept. of Aging - Ombudsman"	1	624	63960
+"San Joaquin"	"Dept. of Aging - RSVP"	1	0	52908
+"San Joaquin"	"District Attorney"	152	0	103184
+"San Joaquin"	"Emergency Medical Services"	8	0	76480.5
+"San Joaquin"	"Emergency Services"	15	900	31035
+"San Joaquin"	"Employment - Economic Development"	115	69	50013
+"San Joaquin"	"Environmental Health"	67	0	73683
+"San Joaquin"	"Facilities Management"	46	152.5	62908
+"San Joaquin"	"Fleet Services"	33	0	51057
+"San Joaquin"	"Flood Channel Maintenance"	30	19	51658
+"San Joaquin"	"Flood Management"	6	0	74194
+"San Joaquin"	"Glassy-Winged Sharpshooter Prv"	7	0	18919
+"San Joaquin"	"Health Care Services Admin"	4	0	153168.5
+"San Joaquin"	"Hosp- Trauma Center"	6	0	11659
+"San Joaquin"	"Hosp-CDCR Medical Guarded Unit"	19	1278	49955
+"San Joaquin"	"Hosp-Medical Financial Assistant"	12	0	43604
+"San Joaquin"	"Hosp -Sexual Asslt Frnsc Examiner"	6	695	3219
+"San Joaquin"	"Hosp ACS Administration"	17	0	30998
+"San Joaquin"	"Hosp Administration"	9	0	144943
+"San Joaquin"	"Hosp Admitting"	21	441	36480
+"San Joaquin"	"Hosp Biomedical Engineering"	4	867	61948
+"San Joaquin"	"Hosp Cafeteria"	18	947.5	35462.5
+"San Joaquin"	"Hosp Cardiac Catheter Lab"	4	1860.5	99718
+"San Joaquin"	"Hosp Case Management"	15	392	89165
+"San Joaquin"	"Hosp Childrens Health Services"	16	135.5	43613.5
+"San Joaquin"	"Hosp Clinical Dietetics"	8	0	66838
+"San Joaquin"	"Hosp Communications"	10	839	39309.5
+"San Joaquin"	"Hosp Credit - Collections"	1	29	35916
+"San Joaquin"	"Hosp CT Scanner"	2	4022	55600.5
+"San Joaquin"	"Hosp Data Processing"	16	1540	60794
+"San Joaquin"	"Hosp Dietary"	49	345	22062
+"San Joaquin"	"Hosp Distribution Services"	15	440	36274
+"San Joaquin"	"Hosp EKG"	6	738.5	75773.5
+"San Joaquin"	"Hosp Emergency Room"	90	2445	50687.5
+"San Joaquin"	"Hosp Employee Health Clinic"	2	396	45695.5
+"San Joaquin"	"Hosp ER Registration"	19	1157	32603
+"San Joaquin"	"Hosp Errand - Escort"	8	259	17907.5
+"San Joaquin"	"Hosp Family Medicine Clinic"	23	302	24162
+"San Joaquin"	"Hosp FP Clinic California St."	5	142	28187
+"San Joaquin"	"Hosp General Accounting"	14	0	43576
+"San Joaquin"	"Hosp Grounds"	4	182.5	43100
+"San Joaquin"	"Hosp Healthy Beginnings-Calif St"	11	23	28441
+"San Joaquin"	"Hosp Healthy Beginnings-Fr Camp"	12	31	24812.5
+"San Joaquin"	"Hosp Hemodialysis Center"	55	738	39590
+"San Joaquin"	"Hosp Housekeeping"	87	0	22498
+"San Joaquin"	"Hosp Human Resources"	4	83.5	38166
+"San Joaquin"	"Hosp Infections Disease-Oncology"	6	98.5	50266
+"San Joaquin"	"Hosp Intensive Care Nursery"	56	3027	79201.5
+"San Joaquin"	"Hosp Labor-Del-Recovery-Post Part"	98	1480.5	66174.5
+"San Joaquin"	"Hosp Laboratory Clinic"	55	1248	45486
+"San Joaquin"	"Hosp Laundry - Linen"	14	875.5	24427
+"San Joaquin"	"Hosp Med-Surg Acute BMS-CMS"	98	3048.5	47186.5
+"San Joaquin"	"Hosp Med-Surg Intensive Care"	58	3641.5	81980.5
+"San Joaquin"	"Hosp Medical Clinic"	11	14	22471
+"San Joaquin"	"Hosp Medical Information Svcs"	3	0	47017
+"San Joaquin"	"Hosp Medical Library"	1	0	49133
+"San Joaquin"	"Hosp Medical Records"	44	379.5	44891.5
+"San Joaquin"	"Hosp Medical Staff"	5	114	42197
+"San Joaquin"	"Hosp Nuclear Medicine"	1	911	90513
+"San Joaquin"	"Hosp Nursing Administration"	8	0	134143
+"San Joaquin"	"Hosp Nursing Education"	3	0	39469
+"San Joaquin"	"Hosp Nursing Float Personnel"	63	1775	27708
+"San Joaquin"	"Hosp Occupational Med Clinic"	1	284	37512
+"San Joaquin"	"Hosp Occupational Therapy"	2	112	26179.5
+"San Joaquin"	"Hosp Op Registration"	22	11	39860.5
+"San Joaquin"	"Hosp Orthopedic Clinic"	8	69	37376.5
+"San Joaquin"	"Hosp Outside Services"	2	5.5	48222.5
+"San Joaquin"	"Hosp Paramedic Ed Radiology St"	2	950	77676
+"San Joaquin"	"Hosp Pathology Clinic"	3	3032	50147
+"San Joaquin"	"Hosp Patient Accounting"	32	0	39598.5
+"San Joaquin"	"Hosp Pediatrics"	13	2217	89378
+"San Joaquin"	"Hosp Pharmacy"	38	1366	45795
+"San Joaquin"	"Hosp Phone Center"	8	13	27567
+"San Joaquin"	"Hosp Physical Therapy"	5	543	82169
+"San Joaquin"	"Hosp Physician Compensation"	82	0	213611
+"San Joaquin"	"Hosp Plant Maintenance"	21	1656	59552
+"San Joaquin"	"Hosp Plant Operations"	5	9695	69950
+"San Joaquin"	"Hosp Primary Medicine Clinic"	12	196.5	25866.5
+"San Joaquin"	"Hosp Progressive Care Unit"	76	1384.5	37392
+"San Joaquin"	"Hosp Pulmonary Function Lab"	2	1723	65902
+"San Joaquin"	"Hosp Purchasing - Warehouse"	3	0	46790
+"San Joaquin"	"Hosp Residents-Family Practice"	31	0	32114
+"San Joaquin"	"Hosp Residents - Internal Med"	33	0	34178
+"San Joaquin"	"Hosp Residents - Surgery"	18	0	50807
+"San Joaquin"	"Hosp Respiratory Care"	36	2121	52543.5
+"San Joaquin"	"Hosp Security"	1	0	50068
+"San Joaquin"	"Hosp Sleep Lab"	3	0	71567
+"San Joaquin"	"Hosp Social Services"	10	879	43263.5
+"San Joaquin"	"Hosp Special Care Clinic"	5	235	18106
+"San Joaquin"	"Hosp Speech Therapy"	3	0	63470
+"San Joaquin"	"Hosp Standards - Compliance"	10	0	86501.5
+"San Joaquin"	"Hosp Sterile Processing Svc"	17	432	27297
+"San Joaquin"	"Hosp Surgery - Recovery"	74	1313.5	44973.5
+"San Joaquin"	"Hosp Surgery Clinic"	10	38	26397
+"San Joaquin"	"Hosp Ultrasonography"	5	686	87029
+"San Joaquin"	"Hosp Volunteer Services"	2	53	32012
+"San Joaquin"	"Hospital Audiology"	3	0	44984
+"San Joaquin"	"Hospital Interpreter Svs"	1	0	29373
+"San Joaquin"	"Hospital Radiology"	44	550	37903
+"San Joaquin"	"Housing Appeals Board"	5	0	125
+"San Joaquin"	"HSA-Staff Development-Trainees"	32	0	3886
+"San Joaquin"	"HSA-Temporary Extra Help"	17	0	12982
+"San Joaquin"	"HSA - Admin Support"	100	0	64773.5
+"San Joaquin"	"HSA - Administration"	1	168	60363
+"San Joaquin"	"HSA - Clerical Support"	151	114	41257
+"San Joaquin"	"HSA - EDP Support Cost"	8	1987.5	67986.5
+"San Joaquin"	"HSA - Eligibility Staff"	380	1087.5	47982
+"San Joaquin"	"HSA - Gain"	34	0	53924.5
+"San Joaquin"	"HSA - Services Staff"	209	602	67231
+"San Joaquin"	"HSA - Staff Development"	44	0	11657
+"San Joaquin"	"HSA_Fraud Investigative Staff"	3	213	62491
+"San Joaquin"	"Human Resources"	51	0	74894
+"San Joaquin"	"Information Systems Division"	68	0	92269
+"San Joaquin"	"Juvenile Detention"	129	4350	60797
+"San Joaquin"	"Lovelace Transfer District"	23	853	43513
+"San Joaquin"	"Mary Graham Childrens Shelter"	75	349	36553
+"San Joaquin"	"Mental Health-Activity Center"	30	0	30829.5
+"San Joaquin"	"Mental Health-Administration"	5	0	40159
+"San Joaquin"	"Mental Health-Adult Outpatient"	201	0	41760
+"San Joaquin"	"Mental Health-Childrens Service"	51	0	61087
+"San Joaquin"	"Mental Health-Older Adult Srvs"	12	0	51519
+"San Joaquin"	"Mental Health - Clerical"	70	0	39469
+"San Joaquin"	"Mental Health - Lodi Clinic"	4	0	55813.5
+"San Joaquin"	"Mental Health Pharmacy"	27	0	42071
+"San Joaquin"	"Mental Health PHF-Inpatient Fac"	105	1611	39977
+"San Joaquin"	"Mental Health Services"	40	0	59502.5
+"San Joaquin"	"Neighborhood Preservation"	6	0	71056.5
+"San Joaquin"	"North County Landfill"	11	1082	59158
+"San Joaquin"	"Office of Revenue - Recovery"	37	0	31128
+"San Joaquin"	"Parks - Recreation"	85	10	19471
+"San Joaquin"	"Pretrial Services"	8	2782	64637
+"San Joaquin"	"Probation-Adult- SB678"	12	2161	65011.5
+"San Joaquin"	"Probation-LOC Comm Corr- AB109"	29	1851	63287
+"San Joaquin"	"Probation - Administration"	19	0	46790
+"San Joaquin"	"Probation - Adult"	58	660.5	62180
+"San Joaquin"	"Probation - Juvenile"	71	87	46715
+"San Joaquin"	"Probation Juvenile-Suppl AB109"	7	4931	70477
+"San Joaquin"	"Public  Works-Road Main-South"	18	173	50385.5
+"San Joaquin"	"Public Defender"	78	0	103988.5
+"San Joaquin"	"Public Defender-Administration"	1	0	2496
+"San Joaquin"	"Public Health-Admin Support"	26	0	56279.5
+"San Joaquin"	"Public Health-AFLP- CAL Learn"	9	0	44757
+"San Joaquin"	"Public Health-Clinical Services"	22	0	40740
+"San Joaquin"	"Public Health-Health Education"	20	0	39272.5
+"San Joaquin"	"Public Health-MCAH"	18	0	55332
+"San Joaquin"	"Public Health-Public Health Lab"	15	0	58538
+"San Joaquin"	"Public Health - CHDP"	11	0	74651
+"San Joaquin"	"Public Health - Community Svs"	13	0	46306
+"San Joaquin"	"Public Health - TB CD"	24	0	48852.5
+"San Joaquin"	"Public Health - WIC"	29	0	39126
+"San Joaquin"	"Public Works- RM Watchman"	1	678	7481
+"San Joaquin"	"Public Works-Engnr-Design"	23	0	59170
+"San Joaquin"	"Public Works-Engr Trans Plng"	3	0	86176
+"San Joaquin"	"Public Works-Information System"	2	32	86941
+"San Joaquin"	"Public Works-Road Main-Central"	9	0	43080
+"San Joaquin"	"Public Works-Road Main-East"	13	298	48383
+"San Joaquin"	"Public Works-Road Main-North"	24	39	51379.5
+"San Joaquin"	"Public Works-Road Main Central"	16	129	50857
+"San Joaquin"	"Public Works - Administration"	10	0	101258.5
+"San Joaquin"	"Public Works - Central Srvs"	8	0	41201.5
+"San Joaquin"	"Public Works - Engnr Bridge"	8	0	68895.5
+"San Joaquin"	"Public Works - Engnr Field"	23	0	59170
+"San Joaquin"	"Public Works - Engnr Traffic"	5	0	80066
+"San Joaquin"	"Public Works - Fiscal"	8	29.5	53177.5
+"San Joaquin"	"Public Works - Personnel-Trng"	2	399	49991
+"San Joaquin"	"Public Works - Traffic Maintenance"	23	61	36541
+"San Joaquin"	"Purchasing- Records Management"	4	0	38623
+"San Joaquin"	"Purchasing - Admin - Fiscal"	4	0	89549
+"San Joaquin"	"Purchasing - Buying"	9	0	56059
+"San Joaquin"	"Purchasing - Duplicating"	3	0	42875
+"San Joaquin"	"Purchasing - Mail Section"	6	0	34777
+"San Joaquin"	"Purchasing - Support Services"	1	329	53420
+"San Joaquin"	"PW - Dev Srvs-Public Services"	4	0	57284
+"San Joaquin"	"Recorder - County Clerk"	26	0	46558.5
+"San Joaquin"	"Refuse Disposal Administration"	11	0	63495
+"San Joaquin"	"Registrar of Voters"	31	514	21583
+"San Joaquin"	"Retirement Office"	24	0	48594.5
+"San Joaquin"	"Sealer of Weights - Measures"	6	0	53166.5
+"San Joaquin"	"Sheriff- Animal Control"	7	368	48061
+"San Joaquin"	"Sheriff- Manteca Unified Court"	12	0	34898
+"San Joaquin"	"Sheriff-AB109-Alternatives"	2	10166.5	75468.5
+"San Joaquin"	"Sheriff-AB109-Bailiff"	1	6250	91170
+"San Joaquin"	"Sheriff-AB109-Jail Beds"	21	13238	80880
+"San Joaquin"	"Sheriff-AB109-Programming"	2	11455.5	75865
+"San Joaquin"	"Sheriff-AB109-Support"	5	4190	53621
+"San Joaquin"	"Sheriff-Admin-Support Services"	13	48	138135
+"San Joaquin"	"Sheriff-AS-Background-Training"	30	0	28485.5
+"San Joaquin"	"Sheriff-AS-Management Services"	1	1528	55721
+"San Joaquin"	"Sheriff-Commissary"	1	329	45127
+"San Joaquin"	"Sheriff-Cust-Prisoner Welfare"	6	0	48167.5
+"San Joaquin"	"Sheriff-Custody-Regular Staff"	243	16905	88056
+"San Joaquin"	"Sheriff-Custody-SLESF-AB109"	1	14290	80501
+"San Joaquin"	"Sheriff-French Camp Unif Court"	3	0	40340
+"San Joaquin"	"Sheriff-Hi Tech Crimes Task Fo"	1	6297	88521
+"San Joaquin"	"Sheriff-Information Systems"	4	208.5	86770.5
+"San Joaquin"	"Sheriff-Lathrop-CHRP Grant"	3	22457	96765
+"San Joaquin"	"Sheriff-Lathrop Police Contract"	25	11554	96474
+"San Joaquin"	"Sheriff-Mountain House"	6	12559.5	89882
+"San Joaquin"	"Sheriff-Patrol-Airport"	1	17056	92590
+"San Joaquin"	"Sheriff-Patrol-CHP Grant"	16	6204.5	64303
+"San Joaquin"	"Sheriff-Patrol-CHRP Grant"	13	19658	92261
+"San Joaquin"	"Sheriff-Rural Crime Task Force"	2	14705.5	101739.5
+"San Joaquin"	"Sheriff-Stockton Unified Court"	66	0	54153
+"San Joaquin"	"Sheriff - Auto Theft Program"	2	0	33907
+"San Joaquin"	"Sheriff - Boating Safety"	7	14605	101112
+"San Joaquin"	"Sheriff - CAL MMET"	2	17862.5	140387.5
+"San Joaquin"	"Sheriff - Civil"	17	346	44221
+"San Joaquin"	"Sheriff - Communications"	42	4219.5	63960
+"San Joaquin"	"Sheriff - Community Corps"	7	0	45248
+"San Joaquin"	"Sheriff - Coroner-Morgue"	8	2656.5	73397.5
+"San Joaquin"	"Sheriff - Cust - Admin Support"	34	338.5	46758
+"San Joaquin"	"Sheriff - Cust - Probationary"	14	216	6334
+"San Joaquin"	"Sheriff - Cust - Work Furlough"	2	33	42635
+"San Joaquin"	"Sheriff - Cust -AWP"	6	0	43037
+"San Joaquin"	"Sheriff - Cust. Realignment"	5	2895	78020
+"San Joaquin"	"Sheriff - Detectives"	33	10997	101173
+"San Joaquin"	"Sheriff - Detectives Tech Svcs"	13	5858	62767
+"San Joaquin"	"Sheriff - Jail Industries"	1	0	26833
+"San Joaquin"	"Sheriff - Patrol"	119	11574	93992
+"San Joaquin"	"Sheriff - Public Administrator"	4	0	41807.5
+"San Joaquin"	"Sheriff - Records - Criminal"	23	946	44416
+"San Joaquin"	"Sheriff - Records - Custody"	19	1724	41987
+"San Joaquin"	"Solid Waste - Waste Diversion"	2	0	39131
+"San Joaquin"	"Solid Waste -Engineering"	3	639	82158
+"San Joaquin"	"Solid Waste AB-939"	3	0	69913
+"San Joaquin"	"Stockton Metropolitan Airport"	13	0	46575
+"San Joaquin"	"Substance Abuse Services"	203	0	3010
+"San Joaquin"	"Surveyor"	4	0	25105.5
+"San Joaquin"	"SW-Lovelace Transfer Op"	12	2042.5	59818
+"San Joaquin"	"SW - North County Recycling"	21	1026	43215
+"San Joaquin"	"Treasurer-Tax Collector"	29	0	46790
+"San Joaquin"	"Utility Districts"	23	413	52644
+"San Joaquin"	"Veterans Service Office"	5	0	48856
+"San Joaquin"	"Water Resources"	7	0	57744
+"San Luis Obispo"	"Administrative Office"	11	0	80984
+"San Luis Obispo"	"Agricultural Commissioner"	70	0	46180.5
+"San Luis Obispo"	"Air Pollution Control District"	27	0	85779
+"San Luis Obispo"	"Airports"	22	0	40074
+"San Luis Obispo"	"Animal Services"	24	52.5	43280.5
+"San Luis Obispo"	"Assessor"	95	0	52899
+"San Luis Obispo"	"Auditor-Controller"	41	0	68682
+"San Luis Obispo"	"Behavioral Health"	361	0	45469
+"San Luis Obispo"	"Board of Supervisors"	18	0	51601.5
+"San Luis Obispo"	"Child Support Services"	42	0	53560.5
+"San Luis Obispo"	"Clerk-Recorder"	27	0	47853
+"San Luis Obispo"	"County Counsel"	24	0	86819
+"San Luis Obispo"	"County Medical Services Program"	14	0	25450
+"San Luis Obispo"	"Department of Social Services"	484	0	51291
+"San Luis Obispo"	"District Attorney"	105	0	66655
+"San Luis Obispo"	"Drinking Driver Programs"	19	0	42214
+"San Luis Obispo"	"Emergency Services"	10	0	42779.5
+"San Luis Obispo"	"Farm Advisor"	6	0	43872
+"San Luis Obispo"	"Fleet Services"	17	0	52467
+"San Luis Obispo"	"General Services Agency"	91	0	47986
+"San Luis Obispo"	"Golf Courses"	28	0	9106
+"San Luis Obispo"	"Grand Jury"	1	0	22492
+"San Luis Obispo"	"Human Resources"	26	0	49154.5
+"San Luis Obispo"	"Information Technology Division"	74	0	89170
+"San Luis Obispo"	"Law Enforcement Medical Care"	41	122	27303
+"San Luis Obispo"	"Law Library"	3	0	22881
+"San Luis Obispo"	"Library"	98	0	42003
+"San Luis Obispo"	"Organizational Development"	1	0	47399
+"San Luis Obispo"	"Parks"	130	0	5394
+"San Luis Obispo"	"Pension Trust Retirement Fund"	1	0	97676
+"San Luis Obispo"	"Planning Department"	106	0	70082.5
+"San Luis Obispo"	"Probation Department"	174	0	60383.5
+"San Luis Obispo"	"Public Health Department"	214	0	47417.5
+"San Luis Obispo"	"Public Works"	214	0	63920
+"San Luis Obispo"	"Reprographics"	2	0	12336
+"San Luis Obispo"	"Risk Management"	8	0	70328
+"San Luis Obispo"	"Sheriff-Coroner"	426	4514	92061.5
+"San Luis Obispo"	"Treasurer-Tax Collector"	37	0	41909
+"San Luis Obispo"	"Veterans Services"	8	0	40105
+"San Mateo"	"39Th Ave Family Health Center"	98	113	52492.5
+"San Mateo"	"Aaa Program Staff"	5	0	71927
+"San Mateo"	"Ab109 Employment Services"	5	0	66786
+"San Mateo"	"Ab109 Re-Alignment"	2	281.5	48299.5
+"San Mateo"	"Ab12 Extended Foster Care"	1	1254	77447
+"San Mateo"	"Achieve 180"	2	0	93153.5
+"San Mateo"	"Acute Medical Surgery 2A/B"	85	3067	85502
+"San Mateo"	"Acute Psychiatric 3A/B"	44	1563.5	67622.5
+"San Mateo"	"Acute Psychiatric Unit 3A/B"	13	5593	95665
+"San Mateo"	"Admin Clerical Support"	1	462	45701
+"San Mateo"	"Administration"	14	0	148481.5
+"San Mateo"	"Administration & Support"	9	0	86106
+"San Mateo"	"Administration Division"	7	0	49367
+"San Mateo"	"Administrative Support"	5	0	32012
+"San Mateo"	"Adult Literacy Program"	2	0	51241.5
+"San Mateo"	"Adult Services Administration"	12	0	94669
+"San Mateo"	"Adult Services Clerical"	28	0	55953.5
+"San Mateo"	"Adult Srvcs La Puente Clini"	3	0	80635
+"San Mateo"	"Adult Svcs-Region Iii-Central"	16	0	87494.5
+"San Mateo"	"Afdc Fg/U & Fc"	241	2489	63299
+"San Mateo"	"Afdc Fg/U &Fc"	8	1509.5	70866
+"San Mateo"	"Affirmative Action/Eeo"	2	0	90415.5
+"San Mateo"	"Ag Commissioner/Sealer Admin"	41	0	58719
+"San Mateo"	"Aging And Adult Services"	7	0	70624
+"San Mateo"	"Aids-Community Services"	9	541	50345
+"San Mateo"	"Aids-Health & Social Services"	5	0	76331
+"San Mateo"	"Aids Administration"	3	0	121214
+"San Mateo"	"Airports"	12	379	60380
+"San Mateo"	"Analyst Services"	6	0	96045.5
+"San Mateo"	"Animal Control"	4	0	290
+"San Mateo"	"App Support/Proj Labor"	27	112	104091
+"San Mateo"	"Appraisal Services"	89	0	67339
+"San Mateo"	"As-Fs-Mf-Eligibility-Es"	9	0	99834
+"San Mateo"	"As/Fs/Mf/Eligibility/Es"	1	0	159670
+"San Mateo"	"Assessment Appeals Board"	3	0	26118
+"San Mateo"	"Assessment Center"	11	0	61944
+"San Mateo"	"Atherton Branch Library"	13	0	8815
+"San Mateo"	"Audit Division"	7	0	87726
+"San Mateo"	"Automation"	11	0	71570
+"San Mateo"	"Automation Support Services"	2	477	88663.5
+"San Mateo"	"Ba Training Units"	16	0	18883.5
+"San Mateo"	"Background Investigations/Psu"	6	0	11580
+"San Mateo"	"Behavior Health & Recovery"	27	0	65889
+"San Mateo"	"Belmont Branch Library"	27	0	10446
+"San Mateo"	"Benefits Division"	12	0	52674
+"San Mateo"	"Bioterrorism Unit"	1	100171	247673
+"San Mateo"	"Bldg Security-North Courts"	2	18117.5	118655.5
+"San Mateo"	"Board-Restitution Program"	1	0	64803
+"San Mateo"	"Board of Supervisor-District 1"	1	0	129521
+"San Mateo"	"Board of Supervisor-District 2"	1	0	137379
+"San Mateo"	"Board of Supervisor-District 3"	1	0	33331
+"San Mateo"	"Board of Supervisor-District 4"	2	0	12063.5
+"San Mateo"	"Board of Supervisor-District 5"	1	0	135179
+"San Mateo"	"Bookmobile"	2	0	44040
+"San Mateo"	"Bos-District 1"	3	0	88023
+"San Mateo"	"Bos-District 2"	4	0	77852.5
+"San Mateo"	"Bos-District 3"	5	0	79655
+"San Mateo"	"Bos-District 4"	10	0	2688
+"San Mateo"	"Bos-District 5"	5	0	58405
+"San Mateo"	"Bridges Non-Grant"	3	0	85119
+"San Mateo"	"Brisbane Branch Library"	4	0	17298.5
+"San Mateo"	"Broadmoor Police Department"	13	1607	88334
+"San Mateo"	"Budget And Contracts"	2	0	75858
+"San Mateo"	"Burlingame Health Admin"	1	0	59
+"San Mateo"	"Business Management"	7	0	50070
+"San Mateo"	"Business Systems"	1	0	171174
+"San Mateo"	"Business Systems Development"	1	0	107203
+"San Mateo"	"Business Systems Manager"	1	0	111453
+"San Mateo"	"Business Systems Staff"	17	0	97541
+"San Mateo"	"C&Fs Clerical Support"	19	0	26003
+"San Mateo"	"C&Fs Other Admin Support"	6	0	59067.5
+"San Mateo"	"Cal-Id Lab"	5	1545	71061
+"San Mateo"	"Calwin"	3	0	95103
+"San Mateo"	"Calworks S&B-Clerical Staff"	3	0	36839
+"San Mateo"	"Calworks S&B-Program Staff"	22	0	57127
+"San Mateo"	"Camp Glenwood"	23	0	69792
+"San Mateo"	"Canyon Oaks - Cfs"	1	2771	50534
+"San Mateo"	"Canyon Oaks Youth Center"	40	1165.5	58818
+"San Mateo"	"Cargo Theft Task Force"	1	37250	144880
+"San Mateo"	"Caron Grant"	3	0	8534
+"San Mateo"	"Case Management"	16	386	38944
+"San Mateo"	"Cast"	9	0	82439
+"San Mateo"	"Ccs Administration"	21	0	67871
+"San Mateo"	"Ccs Medical Therapy"	31	0	65800
+"San Mateo"	"Central Processing"	6	1668.5	49608
+"San Mateo"	"Child Nutrition Program"	1	0	8112
+"San Mateo"	"Child Protective Services"	47	5058	88850
+"San Mateo"	"Child Protective Svcs"	42	671	81741
+"San Mateo"	"Child Welfare Services"	56	878	40905.5
+"San Mateo"	"Children'S System Of Care"	5	0	52074
+"San Mateo"	"Children Health Services"	23	0	81034
+"San Mateo"	"Choices"	10	0	56597
+"San Mateo"	"Chronic Disease Prevention"	6	0	42992.5
+"San Mateo"	"Civil Enforcement"	4	4406.5	122391
+"San Mateo"	"Civil Penalties"	3	0	175442
+"San Mateo"	"Civil Support"	6	0	50161
+"San Mateo"	"Claims Payable"	3	0	55398
+"San Mateo"	"Classification-Sheriff"	9	7110	101906
+"San Mateo"	"Clerk Of The Board"	2	619.5	69146
+"San Mateo"	"Clinic Administration"	1	0	189080
+"San Mateo"	"Cmo Membership And Contributio"	1	249	2252
+"San Mateo"	"Coastside Clinic"	21	521	55955
+"San Mateo"	"Coding Serivces"	7	0	64241
+"San Mateo"	"Commissary"	4	1555	46999.5
+"San Mateo"	"Commission On Disabilities"	1	0	79518
+"San Mateo"	"Commission On Status Of Women"	3	99	8199
+"San Mateo"	"Commissioners"	6	0	400
+"San Mateo"	"Commissioners In 12160"	5	0	5400
+"San Mateo"	"Commissioners In 17280"	5	0	500
+"San Mateo"	"Commissioners In 38100"	16	0	275
+"San Mateo"	"Communications"	2	0	63698
+"San Mateo"	"Community Schools-Institutions"	4	1471.5	62094.5
+"San Mateo"	"Community Weekend Work"	8	582	38468.5
+"San Mateo"	"Computrust Accounting"	11	0	47289
+"San Mateo"	"Conservatorship"	2	0	60390
+"San Mateo"	"Contract Professional Services"	2	0	97110
+"San Mateo"	"Contracts"	4	0	68495.5
+"San Mateo"	"Contracts/Procurement"	1	1114	64154
+"San Mateo"	"Controller-Payroll"	10	0	53914.5
+"San Mateo"	"Controller Information Systems"	5	0	79702
+"San Mateo"	"Cops-Grant"	2	6172	53418.5
+"San Mateo"	"Coroner Section"	9	6463	61023
+"San Mateo"	"Corporate Compliance/Hippa"	3	0	20867
+"San Mateo"	"Correctional Health"	57	1152	50660
+"San Mateo"	"Correctional Mental Health"	17	0	22734
+"San Mateo"	"County Clerk-Recorder"	23	48	49218
+"San Mateo"	"County Community Development"	9	0	58064
+"San Mateo"	"County Counsel"	45	0	106375
+"San Mateo"	"County Management"	6	0	218915
+"San Mateo"	"Countywide Security Unit"	2	12588	114253
+"San Mateo"	"Court Officers"	3	1828	88505
+"San Mateo"	"Court Security Services"	40	526.5	106995.5
+"San Mateo"	"Court Work"	2	2484	63562.5
+"San Mateo"	"Coyote Point Marina Operations"	5	0	16595
+"San Mateo"	"Coyote Point Park"	20	184.5	11851.5
+"San Mateo"	"Crime Lab"	24	0	91966
+"San Mateo"	"Crime Lab Projects"	1	4004	110829
+"San Mateo"	"Crime Suppression Unit"	2	29906.5	133885.5
+"San Mateo"	"Crystal Springs Trail"	2	1715	42544.5
+"San Mateo"	"Cs-Fs-Mf-Elg/Es-Dstmis"	11	0	46777
+"San Mateo"	"Cs-Fs-Mf-Elg/Es/Dstmis"	36	169.5	35919.5
+"San Mateo"	"Cs-Fs-Sf-Elg-Ucs"	1	0	44361
+"San Mateo"	"Cs-Fs-Sf-Elg Ucs"	26	13.5	41167.5
+"San Mateo"	"Cs-Fs-Sf-Es-Gain"	2	72	32967
+"San Mateo"	"Csw Sw Training Unit"	1	1310	90579
+"San Mateo"	"Current Planning"	14	0	81759
+"San Mateo"	"Custodial Services"	28	0	45435
+"San Mateo"	"Customer Billing"	2	3328.5	78831
+"San Mateo"	"Customer Services Center-Rwc"	2	0	81657.5
+"San Mateo"	"Customer Services Center-Sm"	17	908	46365
+"San Mateo"	"Cws/Cms"	1	0	49693
+"San Mateo"	"Da-General Criminal"	117	0	90352
+"San Mateo"	"Da Public Safety Realignment"	3	0	35719
+"San Mateo"	"Daly City Clinic"	37	0	52901
+"San Mateo"	"Daly City Youth Center"	8	0	46954.5
+"San Mateo"	"Dea Municipal Task Force"	1	45585	169477
+"San Mateo"	"Deferred Entry Of Judgment"	2	0	83330.5
+"San Mateo"	"Dental Administration"	7	0	32511
+"San Mateo"	"Department Management"	4	0	152710
+"San Mateo"	"Department Of Housing Manageme"	3	0	155415
+"San Mateo"	"Dept Of Child Support Services"	93	0	61735
+"San Mateo"	"Desktop Services - Rwc"	11	393	97848
+"San Mateo"	"Desktop Services - San Mateo"	10	2658	101067
+"San Mateo"	"Detention Administration"	5	0	71565
+"San Mateo"	"Disaster Preparedness"	1	0	94035
+"San Mateo"	"Disease Prevention"	21	267	64751
+"San Mateo"	"Diversion Services"	1	0	76246
+"San Mateo"	"Dpw-Business Systems Support"	5	0	92803
+"San Mateo"	"Dpw-Clerical Services"	3	0	45167
+"San Mateo"	"Dpw-County Trans Program"	1	0	91192
+"San Mateo"	"Dpw-Design"	21	0	81018
+"San Mateo"	"Dpw-Equip/Fleet Administration"	1	0	110912
+"San Mateo"	"Dpw-Financial Services Support"	14	0	51154
+"San Mateo"	"Dpw-Maintenance"	11	508	74049
+"San Mateo"	"Dpw-Mgmt Svcs Admin Support"	9	0	75761
+"San Mateo"	"Dpw-Road Equipment Maintenance"	8	1443.5	69753
+"San Mateo"	"Dpw-Road Maintenance"	50	578.5	63845.5
+"San Mateo"	"Dpw-Special District Maint"	7	4098	69325
+"San Mateo"	"Dpw-Stationary Engineer Svcs"	32	0	73767.5
+"San Mateo"	"Dpw-Waste Mgmt Prog & Svcs"	9	0	72030
+"San Mateo"	"Dpw - Eng Svcs Admin Support"	2	0	78172.5
+"San Mateo"	"Driver Training"	3	0	4840
+"San Mateo"	"Drug Court"	3	0	84781
+"San Mateo"	"Dual Diagnosis"	2	0	79946
+"San Mateo"	"E P A Sanitary District"	15	0	24566
+"San Mateo"	"East Palo Alto Branch Library"	17	0	19651
+"San Mateo"	"Edgewood Park"	4	339.5	33893
+"San Mateo"	"Education Department"	2	391.5	89276
+"San Mateo"	"Eeg/Ekg"	5	400	35578
+"San Mateo"	"Ehs-Business Plan"	14	105.5	87184.5
+"San Mateo"	"Ehs-Medical Waste"	1	339	98423
+"San Mateo"	"Ehs-Pool"	3	139	95632
+"San Mateo"	"Ehs-Stormwater"	1	0	76958
+"San Mateo"	"Elder Mental Health Outreach"	8	0	84025
+"San Mateo"	"Elections"	1643	0	140
+"San Mateo"	"Eligibility Determination-Ohp"	9	0	64831
+"San Mateo"	"Emergency Medical Service"	6	0	91425.5
+"San Mateo"	"Emergency Room"	61	1315	59105
+"San Mateo"	"Emergency Services"	5	6182	86788
+"San Mateo"	"Employment Services-Admin Mgmt"	4	0	93576.5
+"San Mateo"	"Endo"	7	52	50752
+"San Mateo"	"Env Hlth-Food/Pools/Water Sys"	25	0	72977
+"San Mateo"	"Envir Hlth-Cross Connect Prog"	4	0	43103.5
+"San Mateo"	"Envir Hlth-Household Haz Waste"	17	0	6943
+"San Mateo"	"Envir Hlth-Leak Undrgd Fuel Tk"	8	0	78567.5
+"San Mateo"	"Envir Hlth-Underground Tanks"	3	635	89632
+"San Mateo"	"Environ Hlth-Housing"	5	321	89603
+"San Mateo"	"Environ Hlth-Land Use"	2	0	89272
+"San Mateo"	"Environ Hlth-Solid/Infect Med"	3	325	90689
+"San Mateo"	"Environ Hlth Administration"	8	0	64519.5
+"San Mateo"	"Epa Field Supervision"	3	0	79019
+"San Mateo"	"Epa Intensive Supervision"	5	315	87641
+"San Mateo"	"Epidemiology"	5	0	59490
+"San Mateo"	"Estate Coordination Unit"	7	0	52090
+"San Mateo"	"Evidence-Based Supervision"	2	227.5	86801.5
+"San Mateo"	"Executive Administration"	4	0	82441.5
+"San Mateo"	"Facilities"	4	520.5	67028
+"San Mateo"	"Facilities Projects"	8	0	74174
+"San Mateo"	"Facilities Service Admin"	11	0	74324
+"San Mateo"	"Fair Hearings"	9	1724	77994
+"San Mateo"	"Fair Oaks Children'S Clinic"	3	965	34495
+"San Mateo"	"Fair Oaks Community Services"	3	186	17041
+"San Mateo"	"Fair Oaks Family Hlth Center"	1	0	105756
+"San Mateo"	"Family Health Administration"	7	0	103360
+"San Mateo"	"Family Health Field Services"	39	0	85627
+"San Mateo"	"Family Preservation"	6	0	75118
+"San Mateo"	"Fatherhood Collaborative"	2	0	44934.5
+"San Mateo"	"Financial Planning & Analysis"	3	0	95336
+"San Mateo"	"Firearms Domestic Violence"	1	37574	148692
+"San Mateo"	"Fiscal Management"	5	0	99127
+"San Mateo"	"Fiscal Services"	6	0	69971
+"San Mateo"	"Fiscal Staff Ifas"	30	0	53374.5
+"San Mateo"	"Fitzgerald Marine Reserve"	5	396	32808
+"San Mateo"	"Flood Park"	5	349	10335
+"San Mateo"	"Food And Nutrition Services"	40	563.5	47721.5
+"San Mateo"	"Food Services"	1	0	115319
+"San Mateo"	"Foster City Branch Library"	30	0	11680
+"San Mateo"	"Frc Collaboratives"	6	0	69561
+"San Mateo"	"Fusion Center"	11	0	78256
+"San Mateo"	"Fy11 Dna Backlog Grant"	1	0	17601
+"San Mateo"	"Fy11 State Homeland Security G"	1	0	7073
+"San Mateo"	"Fy11 Uasi Grant"	1	0	177071
+"San Mateo"	"Gain"	9	0	49693
+"San Mateo"	"Gang Intellegence Unit"	7	20654	98533
+"San Mateo"	"General Accounting"	15	0	49611
+"San Mateo"	"Girls Program"	2	0	86601
+"San Mateo"	"Glenwood-Cfs"	3	3461	45749
+"San Mateo"	"Glenwood Aftercare"	4	94.5	85799
+"San Mateo"	"Grant Funded Quality Programs"	1	0	68252
+"San Mateo"	"Half Moon Bay"	9	35299	145078
+"San Mateo"	"Half Moon Bay Branch Library"	19	0	38516
+"San Mateo"	"Health & Hosp Facilities Mgmt"	25	729	73746
+"San Mateo"	"Health Applications"	1	0	35636
+"San Mateo"	"Health Care For Homeless"	3	0	72605
+"San Mateo"	"Health Care Outreach Project"	9	0	61461
+"San Mateo"	"Health Coverage Unit"	39	0	59899
+"San Mateo"	"Health It Staffing"	6	17.5	78691
+"San Mateo"	"Health Officer"	1	0	244093
+"San Mateo"	"Health Policy"	18	0	29952.5
+"San Mateo"	"Health Security"	2	0	95279.5
+"San Mateo"	"Health Services Administration"	11	0	69823
+"San Mateo"	"Healthcare Coordination Unit"	22	17	20835
+"San Mateo"	"Healthcare Coverage Initiative"	2	2782.5	54191.5
+"San Mateo"	"Hidta Program"	13	0	45195
+"San Mateo"	"High Risk Offender-Adult"	4	224	85479.5
+"San Mateo"	"High Risk Offender-Juvenile"	3	0	86356
+"San Mateo"	"Highlands Recreation District"	68	0	2446
+"San Mateo"	"Hlt-Business Admin-Accounting"	3	0	72411
+"San Mateo"	"Hlt-Nursing Services"	6	299	98417.5
+"San Mateo"	"Hlt-Support Unit"	2	2927	53900.5
+"San Mateo"	"Holding Cells-2Nd Floor"	2	18622	133710
+"San Mateo"	"Holding Cells-4Th Floor"	2	38464.5	144556.5
+"San Mateo"	"Home Detention-Emp"	3	1485	87927
+"San Mateo"	"Homeless & Safety Net Services"	7	0	54438
+"San Mateo"	"Housekeeping"	39	1276	46153
+"San Mateo"	"Housekeeping-Probation"	3	1021	47081
+"San Mateo"	"Hq Patrol-Sheriff"	43	17443	130130
+"San Mateo"	"Hrd"	2	0	60858
+"San Mateo"	"Hrd-Administration"	13	0	54502
+"San Mateo"	"Huddart Park"	14	478	14388
+"San Mateo"	"Human Resources"	3	0	61140
+"San Mateo"	"Ihss"	30	0	73690
+"San Mateo"	"Ihsspa"	7	0	50196
+"San Mateo"	"In-Patient Psychiatric Beds"	3	0	52978
+"San Mateo"	"Independent Living Program"	1	3807	86310
+"San Mateo"	"Infection Control"	2	2071.5	116649
+"San Mateo"	"Information And Web Services"	2	0	83259
+"San Mateo"	"Information Services"	9	2438	104480
+"San Mateo"	"Infusion Center"	3	3183	113931
+"San Mateo"	"Inmate Intake Processing"	12	1399	64757
+"San Mateo"	"Inmate Transportation"	19	9836	124926
+"San Mateo"	"Institutions Administration"	3	0	114853
+"San Mateo"	"Institutions Clerical"	2	139	53262.5
+"San Mateo"	"Intake"	22	0	80013
+"San Mateo"	"Intake-Conserv Investigation"	3	6077	90568
+"San Mateo"	"Intensive Care Unit"	25	1639	97805
+"San Mateo"	"Intergovernmental Affairs"	4	0	103064
+"San Mateo"	"Investigation Admin-Sheriff"	3	0	58999
+"San Mateo"	"Isd Payroll"	1	195	53222
+"San Mateo"	"It Sec/Svr/Data Center"	16	1369.5	103415.5
+"San Mateo"	"Jail Planning"	11	0	109276
+"San Mateo"	"Junipero Serra Park"	4	112	36851
+"San Mateo"	"Juvenile Diversion"	1	42463	163012
+"San Mateo"	"Juvenile Services Admin"	5	0	95344
+"San Mateo"	"Juvenile Services Clerical"	14	0	57628
+"San Mateo"	"Juvenile Traffic"	2	0	50605.5
+"San Mateo"	"Keller Center"	4	1350	105334
+"San Mateo"	"Kemp Girls Camp"	15	2963	61758
+"San Mateo"	"Labor Relations"	5	0	92779
+"San Mateo"	"Laboratory"	49	213	46473
+"San Mateo"	"Ladera Recreation District"	52	0	1754.5
+"San Mateo"	"Landscape Maintenance"	4	0	46779
+"San Mateo"	"Law Library"	10	0	12307
+"San Mateo"	"Lean Perform Improvement Act"	5	0	75868
+"San Mateo"	"Library Administration"	10	0	88269
+"San Mateo"	"Linkages"	2	0	39058.5
+"San Mateo"	"Local Agency Formation Comm"	1	0	128242
+"San Mateo"	"Local Wast Oil Education"	4	0	40373.5
+"San Mateo"	"Long Range Planning"	5	0	67817
+"San Mateo"	"Ltc Main"	41	1897	52582
+"San Mateo"	"Ltc Medical Care"	3	0	15920
+"San Mateo"	"Ltd Trust Fund"	51	0	11444
+"San Mateo"	"Maguire Main Jail"	157	14717	114707
+"San Mateo"	"Mail Room/Copy Center"	1	37	42630
+"San Mateo"	"Mail Services"	7	68	44935
+"San Mateo"	"Main Jail-Cfs"	15	552	45039
+"San Mateo"	"Main Jail Booking"	24	15671	100993
+"San Mateo"	"Maintenance Unit"	9	0	67809
+"San Mateo"	"Managed Care"	12	0	73167
+"San Mateo"	"Marketing & Public Relations"	1	1622	82005
+"San Mateo"	"Materials Management/Purchase"	10	267.5	58301
+"San Mateo"	"Measure A - Oes District Coord"	1	0	4426
+"San Mateo"	"Medical Clinic"	19	214	64840
+"San Mateo"	"Medical Interpreter/Translatio"	2	27	62134
+"San Mateo"	"Medical Psychiatric Unit"	32	0	66846.5
+"San Mateo"	"Medical Records"	17	43	49144
+"San Mateo"	"Medical Staff Office"	4	0	64758.5
+"San Mateo"	"Memorial Park"	18	455	15753
+"San Mateo"	"Mental Health-Alcohol And Drug"	13	0	92280
+"San Mateo"	"Mental Health Admin Region Iii"	14	0	47852.5
+"San Mateo"	"Mental Health Administration"	139	0	17163
+"San Mateo"	"Mental Health Primary Care"	8	0	49815.5
+"San Mateo"	"Mentally Ill Offender Grant"	1	5927	55140
+"San Mateo"	"Mh-Region I-Adult Services"	13	0	71351
+"San Mateo"	"Mh Ab377"	6	0	79158
+"San Mateo"	"Mh Admin Region I"	1	0	72607
+"San Mateo"	"Mh Admin Region Iv"	2	0	59643.5
+"San Mateo"	"Mh Admn Region I"	4	0	50078.5
+"San Mateo"	"Mh Conservatorship"	3	0	81789
+"San Mateo"	"Mh Hillcrest"	4	239.5	86280.5
+"San Mateo"	"Mh Hillcrest-Admin"	12	0	77108.5
+"San Mateo"	"Mh Region 1-Child/Ad Services"	6	0	66064.5
+"San Mateo"	"Mh Region I-Adult Services"	6	0	82400.5
+"San Mateo"	"Mh Region I-Child/Ad Services"	4	0	70013
+"San Mateo"	"Mh Region Iii Child/Ad Service"	4	0	80832.5
+"San Mateo"	"Mh Region Iv Admin"	9	0	28758
+"San Mateo"	"Mh Region Iv Adult Services"	7	0	110451
+"San Mateo"	"Mh Region Iv Child/Ad Services"	1	0	64965
+"San Mateo"	"Mh Region Iv Child/Adult Svcs"	16	0	64825
+"San Mateo"	"Mh Residency Training"	21	0	63073
+"San Mateo"	"Mh Special Education"	15	0	66529
+"San Mateo"	"Mh Therapeutic Day School"	14	0	62768
+"San Mateo"	"Millbrae Branch Library"	28	0	10162
+"San Mateo"	"Millbrae Law Enforcement"	20	16808	127820.5
+"San Mateo"	"Minimum Security Transition Fa"	4	29627	125617.5
+"San Mateo"	"Mlh-Adult Svcs-South County"	7	0	68619
+"San Mateo"	"Mlh-Adult Svcs Administration"	2	0	114241.5
+"San Mateo"	"Mlh-Coastside"	2	0	109292.5
+"San Mateo"	"Mlh-Youth Svcs Administration"	2	0	114493
+"San Mateo"	"Mlh-Youth Svcs Case Management"	3	0	79838
+"San Mateo"	"Mlh Coastside"	10	0	61558.5
+"San Mateo"	"Mlh Youth Svcs Admin"	3	0	101014
+"San Mateo"	"Mlh/Hsa-Youth Services"	2	0	45536.5
+"San Mateo"	"Modified Work Program"	3	0	50324
+"San Mateo"	"Motor Vehicles Division"	13	1538	65092
+"San Mateo"	"Mssp"	8	0	78537
+"San Mateo"	"Network Services"	7	1671	89719
+"San Mateo"	"Nij Dna Backlog Fed"	1	0	33544
+"San Mateo"	"Non Departmental"	5	0	38787
+"San Mateo"	"North County Patrol"	8	16722.5	121153
+"San Mateo"	"Nursing Administration"	31	547	16774
+"San Mateo"	"Occupational Therapy"	5	0	54630
+"San Mateo"	"Office Of Director(Support)"	4	0	57805
+"San Mateo"	"Office Of The Director"	1	0	220078
+"San Mateo"	"Operations Administration"	1	0	175619
+"San Mateo"	"Outpatient Business Services"	37	183	57662
+"San Mateo"	"Pacifica Branch Library"	20	0	27364
+"San Mateo"	"Parenting Program"	2	0	59106
+"San Mateo"	"Parks Measure A"	2	0	42295
+"San Mateo"	"Parks O&M Expenses"	1	0	139722
+"San Mateo"	"Pathology"	1	35	48561
+"San Mateo"	"Pathology Support"	5	186	4507
+"San Mateo"	"Pathways"	9	0	74215
+"San Mateo"	"Patient Access"	24	833	53391
+"San Mateo"	"Pay For Performance Activities"	1	0	58623
+"San Mateo"	"Payroll"	7	417	40959
+"San Mateo"	"Pc Coordination"	1	0	14644
+"San Mateo"	"Performance Management"	1	705	103996
+"San Mateo"	"Personnel"	3	0	50292
+"San Mateo"	"Personnel-Sheriff"	15	0	36687
+"San Mateo"	"Personnel Services"	36	0	3240
+"San Mateo"	"Ph-Correctional Mental Health"	1	0	61927
+"San Mateo"	"Ph-Mobile Outreach Clinic"	14	44.5	52706.5
+"San Mateo"	"Ph Emergency Preparedness"	9	0	63634
+"San Mateo"	"Pharmacy"	20	710.5	55716.5
+"San Mateo"	"Pharmacy-Outpatient Retail"	23	697	57870
+"San Mateo"	"Physical Therapy"	17	6	43983
+"San Mateo"	"Planning Administration"	15	0	54035
+"San Mateo"	"Planning And Development"	1	0	103693
+"San Mateo"	"Planning And Special Projects"	1	0	2256
+"San Mateo"	"Pln-Building Inspection"	17	0	70689
+"San Mateo"	"Point Of Care"	1	2093	95714
+"San Mateo"	"Portola Traffic"	1	0	86704
+"San Mateo"	"Portola Valley Branch Library"	8	0	29495.5
+"San Mateo"	"Post Anesthesia /Short Stay Un"	11	2600	126807
+"San Mateo"	"Post Release Community Supv"	13	393	87262
+"San Mateo"	"Pre-Trial Services"	14	502.5	67435
+"San Mateo"	"Prenatal-To-Three Initiative"	23	0	102088
+"San Mateo"	"Prevention Clericial Support"	5	45	7017
+"San Mateo"	"Prevention Management"	2	0	99570.5
+"San Mateo"	"Primary Care Interface"	11	0	78775
+"San Mateo"	"Prob-Hillcrest Placement Unit"	3	63	82482
+"San Mateo"	"Prob-Housekeeping Unit"	1	666	14693
+"San Mateo"	"Prob-Transportation Officers"	3	3228	50214
+"San Mateo"	"Prob Hillcrest Placement Unit"	2	172.5	85688.5
+"San Mateo"	"Probation-Administration"	4	0	49235
+"San Mateo"	"Probation Admin & Fiscal"	10	0	52023.5
+"San Mateo"	"Programing & Collection Servic"	13	0	45944
+"San Mateo"	"Project Management Office"	1	0	91733
+"San Mateo"	"Prop-Central"	1	0	74737
+"San Mateo"	"Prop-North"	2	0	84731
+"San Mateo"	"Prop-South"	2	0	90329.5
+"San Mateo"	"Prop 36"	1	0	89860
+"San Mateo"	"Prop 69 Dna"	1	3711	110303
+"San Mateo"	"Property Tax/Spec Accounting"	12	0	53916
+"San Mateo"	"Property Unit"	7	0	38604
+"San Mateo"	"Psc-Administration"	10	0	30089.5
+"San Mateo"	"Psc-Operations"	53	19362	99807
+"San Mateo"	"Psc-Systems"	3	17045	106117
+"San Mateo"	"Psychiatric Emergency Services"	24	2179	61383.5
+"San Mateo"	"Public Administrator-Services"	3	0	56208
+"San Mateo"	"Public Administrator-Warehouse"	3	0	37308
+"San Mateo"	"Public Administrator Transitio"	8	0	34382.5
+"San Mateo"	"Public Guardian-Lps"	9	0	77368
+"San Mateo"	"Public Guardian-Probate"	7	0	81785
+"San Mateo"	"Public Guardian-Property"	8	0	73048.5
+"San Mateo"	"Public Health-Vital Statistics"	4	41	55110.5
+"San Mateo"	"Public Health Admin"	12	0	70647
+"San Mateo"	"Public Health Laboratory"	17	0	39598
+"San Mateo"	"Public Health Nutrition"	41	0	43680
+"San Mateo"	"Public Information"	2	0	14432.5
+"San Mateo"	"Purchasing"	9	0	68080
+"San Mateo"	"Quality Assurance & Planning"	5	0	86562
+"San Mateo"	"Quality Control"	4	115	56780.5
+"San Mateo"	"Quality Insurance"	8	0	88620.5
+"San Mateo"	"R. Robinson Senior Care Center"	29	0	50143
+"San Mateo"	"Radio Services"	12	1660.5	99992
+"San Mateo"	"Radiology"	33	3474	80056
+"San Mateo"	"Real Property Services"	5	0	72045
+"San Mateo"	"Realignment And Reentry Admin"	5	0	97132
+"San Mateo"	"Receiving Home"	23	777	47422
+"San Mateo"	"Records-Sheriff"	23	1714	52889
+"San Mateo"	"Records Center"	6	0	48307.5
+"San Mateo"	"Recreational Therapy"	6	60	59618
+"San Mateo"	"Reimbursement Services"	6	0	27305.5
+"San Mateo"	"Relationship Management"	2	0	85999
+"San Mateo"	"Residential Asstnce Energy Pro"	3	0	21421
+"San Mateo"	"Resource Management"	15	0	65248
+"San Mateo"	"Respiratory Therapy"	16	1082	60128.5
+"San Mateo"	"Ret-Human Resources & Payroll"	23	0	77694
+"San Mateo"	"Revenue Services"	27	0	56046
+"San Mateo"	"Risk Management"	9	0	85815
+"San Mateo"	"Road Services Administration"	4	0	51923.5
+"San Mateo"	"Road Services Operations"	8	0	79817
+"San Mateo"	"Rttac"	8	47	70068.5
+"San Mateo"	"Rwc Court Investigation"	15	0	80567
+"San Mateo"	"Rwc Domestic Violence"	2	159	80239
+"San Mateo"	"Rwc Intensive Supv-Adult"	5	0	81853
+"San Mateo"	"San Bruno Mtn Park"	2	326	39833
+"San Mateo"	"San Carlos Branch Library"	32	0	8228.5
+"San Mateo"	"San Carlos Bureau"	34	15422.5	136558
+"San Mateo"	"San Pedro Valley Park"	8	259.5	39638.5
+"San Mateo"	"Search And Rescue"	6	7255	100410.5
+"San Mateo"	"Sequoia Teen Wellness Center"	10	0	35925
+"San Mateo"	"Sex Offender Supervision"	3	0	84588
+"San Mateo"	"Sheriff'S Coastside Substation"	24	30032.5	157252
+"San Mateo"	"Sheriff's Community Program"	11	0	7972
+"San Mateo"	"Sheriff'S Fiscal Services"	10	0	59853.5
+"San Mateo"	"Sheriff'S Relief Unit"	11	6774	103892
+"San Mateo"	"Sheriff'S Work Program"	12	1568.5	85412
+"San Mateo"	"Shf-Administration"	7	0	130769
+"San Mateo"	"Shf-Fair Oaks Patrol"	1	41842	174626
+"San Mateo"	"Shf-General Investigation"	11	23172	147934
+"San Mateo"	"Shf-No County Investigation"	6	15584	146761
+"San Mateo"	"Shf-School Resources"	6	18682	123602.5
+"San Mateo"	"Shf-Shop Program"	1	19140	134019
+"San Mateo"	"Smc Works"	1	0	29139
+"San Mateo"	"So San Francisco Clinic"	20	0	54963
+"San Mateo"	"South County Health Center"	106	121	52510
+"San Mateo"	"Special Districts Admin"	12	0	69942.5
+"San Mateo"	"Special Emphasis Grant"	2	0	59599
+"San Mateo"	"Special Forensics"	5	0	62088
+"San Mateo"	"Special Grants"	1	0	70065
+"San Mateo"	"Special Investigations"	12	31539.5	156676.5
+"San Mateo"	"Specialty Clinic"	41	45	49186
+"San Mateo"	"Speech Therapy"	2	460.5	52379.5
+"San Mateo"	"Ssf Court Investigation"	6	0	82540
+"San Mateo"	"Ssf Domestic Violence"	3	0	83934
+"San Mateo"	"Ssf Intensive Supervision"	8	0	84609
+"San Mateo"	"Staff-Clerical"	1	0	50256
+"San Mateo"	"Staff-Coroner"	6	0	47720.5
+"San Mateo"	"Staff-Program"	3	0	48744
+"San Mateo"	"STD Control"	4	156	66933
+"San Mateo"	"Sterile Processing"	5	3676	52218
+"San Mateo"	"Summer Job For Youth"	4	0	52171
+"San Mateo"	"Supervision Services Admin"	6	0	90106
+"San Mateo"	"Supervision Services Clerical"	12	0	55511.5
+"San Mateo"	"Support Services"	3	0	44832
+"San Mateo"	"Support Services Admin"	1	0	173280
+"San Mateo"	"Surgery"	16	5861.5	76125
+"San Mateo"	"Surplus Property"	1	0	62164
+"San Mateo"	"Switchboard"	1	451	25820
+"San Mateo"	"Tax-Administration"	16	0	54035
+"San Mateo"	"Technical Services"	5	2703	103528
+"San Mateo"	"Telephone Services"	5	3206	108989
+"San Mateo"	"Telephone/Voice Services"	1	0	145
+"San Mateo"	"Tobacco Prevention"	4	0	18031.5
+"San Mateo"	"Traffic"	2	77	36169
+"San Mateo"	"Training"	11	0	53650
+"San Mateo"	"Training-Sheriff"	5	5333	139236
+"San Mateo"	"Transit Operations"	13	32995	150550
+"San Mateo"	"Transportation"	9	1917	39086
+"San Mateo"	"Transportation Officers"	5	0	50991
+"San Mateo"	"Transportation Planning"	6	0	85082.5
+"San Mateo"	"Treasurer-Administration"	15	0	55135
+"San Mateo"	"Uc Cooperative Extension"	1	0	42832
+"San Mateo"	"Vehicle Theft Trust Fund"	3	11045	122327
+"San Mateo"	"Veterans Services"	2	852	43570
+"San Mateo"	"Victim Witness Grant"	7	0	61230
+"San Mateo"	"Violent Offender Supervision"	1	528	91844
+"San Mateo"	"Volunteers"	2	1144.5	80123.5
+"San Mateo"	"Vrs-Mental Health Counseling"	9	0	61323
+"San Mateo"	"Vrs Admin Clerical"	2	0	82842
+"San Mateo"	"Vrs Other Services"	1	0	9964
+"San Mateo"	"Vrs Rehab-Ss Counseling"	3	0	77853
+"San Mateo"	"Vrs Rehab-State Grants"	8	0	58244.5
+"San Mateo"	"Vrs Workcenter Program"	10	0	59856.5
+"San Mateo"	"Wia Clerical S&B"	1	1345	65876
+"San Mateo"	"Wia Management S&B"	1	0	67291
+"San Mateo"	"Wia Program Staff S&B"	18	0	59198.5
+"San Mateo"	"Willow Clinic"	6	0	89385.5
+"San Mateo"	"Women'S Correctional Facility"	24	16343.5	119442
+"San Mateo"	"Women'S Transitional Facility"	2	19492.5	116752
+"San Mateo"	"Woodside Branch Library"	10	0	29653
+"San Mateo"	"Woodside Traffic"	2	58565.5	175966.5
+"San Mateo"	"Workcenter Food Services"	4	30	46898.5
+"San Mateo"	"Workcenter Recycling"	2	21884	63293
+"San Mateo"	"Wrap Around"	2	0	80985.5
+"San Mateo"	"Y & Fs Management"	8	0	110499
+"San Mateo"	"Youth-Fam And Literacy"	2	0	81288.5
+"San Mateo"	"Youth-Healthy Step/Pre3/Partne"	19	0	60992
+"San Mateo"	"Youth Services"	2	349.5	51930
+"San Mateo"	"Youth Services-Cpa 2000"	1	49	68667
+"San Mateo"	"Youth Services Center - Cfs"	23	304	16568
+"San Mateo"	"Youth Services Center Medical"	7	5987	139657
+"San Mateo"	"Youth Services Cntr Security"	2	912	63150
+"San Mateo"	"Youth Svcs-Wraparound Pilot"	1	0	46455
+"San Mateo"	"Youth Svcs Central/So County"	11	0	48322
+"San Mateo"	"Ysc Court Investigation"	10	0	83116
+"San Mateo"	"Ysc Field Supervision"	3	0	87963
+"San Mateo"	"Ysc Intensive Supervision"	2	0	82310.5
+"San Mateo"	"Ysc Juvenile Hall"	114	1347	66565.5
+"Santa Barbara"	"Agricultural Commissioner/W&M"	34	0	57779
+"Santa Barbara"	"Alcohol, Drug, & Mental health Svcs"	387	0	57627
+"Santa Barbara"	"Auditor-Controller"	69	0	66524
+"Santa Barbara"	"Board of Supervisors"	27	0	65127
+"Santa Barbara"	"Child Support Services"	86	42.5	55939
+"Santa Barbara"	"Clerk-Recorder-Assessor"	114	0	61362
+"Santa Barbara"	"Community Services"	4	0	104660.5
+"Santa Barbara"	"County Counsel"	41	0	79997
+"Santa Barbara"	"County Executive Office"	48	0	64000
+"Santa Barbara"	"District Attorney"	148	0	67818
+"Santa Barbara"	"Fire"	264	25316.5	117057
+"Santa Barbara"	"First 5, Children & Families"	15	0	70520
+"Santa Barbara"	"General County Programs"	6	0	3955
+"Santa Barbara"	"General Services"	132	0	62993
+"Santa Barbara"	"Housing/Community Development"	12	0	71211
+"Santa Barbara"	"Human Resources"	32	0	67957.5
+"Santa Barbara"	"Parks"	143	0	15316
+"Santa Barbara"	"Planning & Development"	125	0	68305
+"Santa Barbara"	"Probation"	398	18.5	63942.5
+"Santa Barbara"	"Public Defender"	77	0	73319
+"Santa Barbara"	"Public Health"	594	0	50272
+"Santa Barbara"	"Public Works"	303	0	60371
+"Santa Barbara"	"Sheriff"	747	4397	80929
+"Santa Barbara"	"Social Services"	1041	0	43044
+"Santa Barbara"	"Treasurer-Tax Collector-Public"	42	0	64568.5
+"Santa Clara"	"Agriculture & Environ Mgmt."	97	0	54781.08
+"Santa Clara"	"Airports"	13	4573.07	58589.3
+"Santa Clara"	"Alcohol And Drug"	189	0	55636.82
+"Santa Clara"	"Assessor"	281	0	57687.16
+"Santa Clara"	"Clerk Of The Board"	34	0	52029.545
+"Santa Clara"	"Communications"	101	4576.14	91152.57
+"Santa Clara"	"Community Health Services"	98	560.045	55497.46
+"Santa Clara"	"Controller"	89	0	70231.39
+"Santa Clara"	"County Counsel"	146	0	81420.51
+"Santa Clara"	"County Executive"	110	0	73283.25
+"Santa Clara"	"County Library"	401	0	26298.26
+"Santa Clara"	"County Parks & Recreation"	302	300.9	54530.215
+"Santa Clara"	"County Recorder"	68	50.745	52729.805
+"Santa Clara"	"Custody Health Services"	286	1417.43	66584.745
+"Santa Clara"	"Department Of Correction"	309	435.5	52431.45
+"Santa Clara"	"Department Of Revenue"	88	0	50980.04
+"Santa Clara"	"Dept. Of Child Support Servs"	294	0	65821.68
+"Santa Clara"	"Dept. Of Environmental Health"	119	0	89711.81
+"Santa Clara"	"Dept. Of Planning & Development"	83	0	87282.04
+"Santa Clara"	"District Attorney"	590	0	83873.71
+"Santa Clara"	"Employee Services Agency"	221	0	59901.96
+"Santa Clara"	"Facilities"	233	0	55929.8
+"Santa Clara"	"Fleet Services"	58	244.515	68465.485
+"Santa Clara"	"Information Services"	213	0	97206.71
+"Santa Clara"	"Local Area Formation Comm"	3	0	99730.27
+"Santa Clara"	"Medical Examiner-Coroner"	23	158.28	73661.55
+"Santa Clara"	"Mental Health"	486	0	52609.74
+"Santa Clara"	"Office Of Affordable Housing"	8	0	61752.415
+"Santa Clara"	"Pre-Trial Services"	53	0	59809.44
+"Santa Clara"	"Probation"	970	0	80926.345
+"Santa Clara"	"Procurement Department"	35	0	81288.68
+"Santa Clara"	"Public Defender"	275	0	94585.87
+"Santa Clara"	"Public Health"	485	0	59158.86
+"Santa Clara"	"Registrar Of Voters"	111	441.56	12488.31
+"Santa Clara"	"Roads Operations"	264	0	62614.48
+"Santa Clara"	"Scc Fire District"	313	10013.44	140975.08
+"Santa Clara"	"Sheriff-DOC Contract"	672	12375.02	100595.435
+"Santa Clara"	"Sheriff Services"	818	1530.06	97761.405
+"Santa Clara"	"Social Services Agency"	2571	128.3	63261.7
+"Santa Clara"	"SSA Nutrition Services"	11	0	67239.26
+"Santa Clara"	"Supervisorial District 1"	9	0	69535.78
+"Santa Clara"	"Supervisorial District 2"	17	0	20085.52
+"Santa Clara"	"Supervisorial District 3"	11	0	68629.6
+"Santa Clara"	"Supervisorial District 4"	7	0	90568.35
+"Santa Clara"	"Supervisorial District 5"	15	0	46348.17
+"Santa Clara"	"Tax Collector"	92	0	41059.825
+"Santa Clara"	"Valley Health Plan/Mgdcare"	89	0	64864.33
+"Santa Clara"	"Valley Medical Center"	6974	634.31	58071.725
+"Santa Clara"	"Vector Control District"	42	504.745	59196.8
+"Santa Cruz"	"Agricultural Commission"	30	364.5	50914
+"Santa Cruz"	"Agricultural Extension Services"	1	0	51303
+"Santa Cruz"	"Assessor"	25	1361.5	55619
+"Santa Cruz"	"Auditor-Controller"	27	155	57981
+"Santa Cruz"	"Board Of Supervisors"	23	0	66239
+"Santa Cruz"	"Child Support Services"	63	541	56992
+"Santa Cruz"	"County Administrative Office"	18	197	61129.5
+"Santa Cruz"	"County Clerk"	40	76.5	3045.5
+"Santa Cruz"	"County Counsel"	19	152	138580
+"Santa Cruz"	"Custodial Funds"	1	0	5766
+"Santa Cruz"	"District Attorney"	92	4629	72251.5
+"Santa Cruz"	"Emergency Services"	1	0	104653
+"Santa Cruz"	"General Services"	55	955	46085
+"Santa Cruz"	"Health Services Agency"	550	706	62092.5
+"Santa Cruz"	"Human Services Department"	506	3061	57649
+"Santa Cruz"	"Info Services"	58	1285	77627.5
+"Santa Cruz"	"Info Services - Radio Shop"	7	475	53678
+"Santa Cruz"	"Parks And Recreation"	146	235.5	7115.5
+"Santa Cruz"	"Personnel"	36	830.5	58154.5
+"Santa Cruz"	"Planning"	63	276	76495
+"Santa Cruz"	"Probation"	155	795	58771
+"Santa Cruz"	"Public Works"	259	1511	63892
+"Santa Cruz"	"Recorder"	11	550.5	48476
+"Santa Cruz"	"Redevelopment Agency"	1	0	103653
+"Santa Cruz"	"Sheriff - Coroner"	346	7575	85054
+"Santa Cruz"	"Treasurer - Tax Collector"	14	2000	52214.5
+"Shasta"	"Ag Commissioner/Sealer Of Weigh"	18	0	38421
+"Shasta"	"Ag Extension Service"	2	0	32892.5
+"Shasta"	"Assessor"	40	0	50119
+"Shasta"	"Auditor Controller"	29	0	35599
+"Shasta"	"Board Of Supervisors"	5	0	54278
+"Shasta"	"Burney Substation"	10	21728	86019
+"Shasta"	"CAO-Personnel"	14	0	34956
+"Shasta"	"CAO-Purchasing"	2	13	12857
+"Shasta"	"CAO-Risk Management"	10	0	43274.5
+"Shasta"	"Clerk Of The Board"	3	0	42839
+"Shasta"	"Community Action Agency"	3	0	46477
+"Shasta"	"County Administrative Office"	7	0	79375
+"Shasta"	"County Clerk"	2	342	66697
+"Shasta"	"County Counsel"	12	0	95149.5
+"Shasta"	"DA-Victim Witness"	10	0	40380
+"Shasta"	"Dept. Of Child Support Services"	95	0	33650
+"Shasta"	"Detention Annex"	6	6752.5	51819.5
+"Shasta"	"District Attorney"	70	0	40133
+"Shasta"	"Election Admin & Registration"	41	0	2970
+"Shasta"	"Farm Advisor-Joint Lassen"	1	0	17436
+"Shasta"	"Fire Protection Administration"	2	6859.5	52148.5
+"Shasta"	"Health Services-HHSA"	94	0	39129.5
+"Shasta"	"Health Services-MH Combined"	14	0	43295.5
+"Shasta"	"Health Services-MHSA"	68	13.5	25546.5
+"Shasta"	"Health Services-PH-CCSS"	19	0	40525
+"Shasta"	"Housing & Comm Action Program"	8	0	36654
+"Shasta"	"Housing Cal Home"	1	0	10152
+"Shasta"	"Housing Rehabilitation"	1	0	45080
+"Shasta"	"IHSS - Public Authority"	3	0	28123
+"Shasta"	"Information Technology"	44	64	47960
+"Shasta"	"Intermountain Fair"	19	0	1029
+"Shasta"	"Mental Health"	96	7	44527
+"Shasta"	"Opportunity Center Clients"	233	0	1983
+"Shasta"	"Probation"	96	0	37020.5
+"Shasta"	"Probation-Juvenile Hall"	46	2322	34865
+"Shasta"	"Public Defender"	34	0	54182
+"Shasta"	"Public Health"	170	0	28432.5
+"Shasta"	"Public Works-County Serv Area"	11	811	40921
+"Shasta"	"Public Works-Facilities Mgmt."	39	0	32487
+"Shasta"	"Public Works-Fleet Management"	6	0	42271
+"Shasta"	"Public Works-Roads"	121	72	42211
+"Shasta"	"Recorder"	10	0	32897
+"Shasta"	"Res Mgmt.-Air Quality"	7	0	57310
+"Shasta"	"Res Mgmt.-Building Division"	15	0	28268
+"Shasta"	"Res Mgmt.-Environmental Health"	16	0	42650.5
+"Shasta"	"Res Mgmt.-Planning"	9	0	52521
+"Shasta"	"Sheriff"	134	2039	45309.5
+"Shasta"	"Sheriff'S Civil Unit"	6	0	30433
+"Shasta"	"Sheriff-Boating Safety"	15	904	15207
+"Shasta"	"Sheriff-Coroner"	8	3645.5	62535
+"Shasta"	"Sheriff-County Jail"	99	7221	46744
+"Shasta"	"Sheriff - Animal Shelter"	5	270	25685
+"Shasta"	"Social Services-Opp Center"	57	471	24360
+"Shasta"	"Social Services & Ben Admin"	531	44	31156
+"Shasta"	"Substance Abuse-Perinatal"	14	0	28034.5
+"Shasta"	"Treasurer-Tax Collector"	17	0	36882
+"Shasta"	"Veterans Service Office"	10	0	16919
+"Sierra"	"Assessor"	5	0	41461
+"Sierra"	"Assistant Treasurer"	1	0	60821
+"Sierra"	"Auditor"	3	0	50319
+"Sierra"	"Auditor/Treasurer-Tax Collector"	1	0	110257
+"Sierra"	"Board of Supervisors"	5	0	25265
+"Sierra"	"Building"	4	0	35474
+"Sierra"	"Clerk"	3	0	37284
+"Sierra"	"D.A."	1	0	38123
+"Sierra"	"District Attorney"	1	0	106841
+"Sierra"	"Health Department"	15	0	5095
+"Sierra"	"Human Services"	4	0	46165.37
+"Sierra"	"IS"	1	0	56706
+"Sierra"	"IS Help"	1	0	63187
+"Sierra"	"Mental Health"	24	0	4820
+"Sierra"	"Parks"	1	0	12011
+"Sierra"	"Planning"	4	0	46884
+"Sierra"	"Plant Maintenance"	3	0	21999
+"Sierra"	"Plant Manager"	1	0	47193
+"Sierra"	"Probation"	3	0	58656
+"Sierra"	"Public Works"	1	0	57334
+"Sierra"	"Road"	6	6.31	39296.31
+"Sierra"	"Road Department"	14	20.635	28616.905
+"Sierra"	"Sheriff"	20	1955.785	52504.375
+"Sierra"	"Social Services"	13	0	41113
+"Sierra"	"Solid Waste"	11	0	9431
+"Sierra"	"Transportation"	1	0	127630
+"Sierra"	"Treasurer"	1	0	32653
+"Sierra"	"Victim Witness"	1	0	44006
+"Siskiyou"	"Agriculture Commissioner/Sealer"	26	0	14244.5
+"Siskiyou"	"Air Pollution Control District"	3	0	51689
+"Siskiyou"	"Animal Control"	3	0	33167
+"Siskiyou"	"Assessor"	22	0	38459.5
+"Siskiyou"	"Auditor-Controller"	16	12	36544
+"Siskiyou"	"Automotive Service"	3	26	38478
+"Siskiyou"	"Bailiff - Court Services"	1	2329	61933
+"Siskiyou"	"Behavioral Health"	64	0	27599
+"Siskiyou"	"Behavioral Health - Local MHSA"	22	184.5	44025
+"Siskiyou"	"Board Of Supervisors"	6	0	34835.5
+"Siskiyou"	"Building Department"	4	0	54176.5
+"Siskiyou"	"Clerk"	3	0	68150
+"Siskiyou"	"Comm Corrections Performance Incntv"	1	79	40648
+"Siskiyou"	"Communications"	3	0	59840
+"Siskiyou"	"County Administrator"	5	0	55835
+"Siskiyou"	"County Counsel"	7	0	58235
+"Siskiyou"	"County Jail"	42	3293.5	52046
+"Siskiyou"	"County Library"	5	0	32439
+"Siskiyou"	"Courthouse & Grounds"	3	157	38389
+"Siskiyou"	"Dept. Of Child Support Services"	25	6	40585
+"Siskiyou"	"District Attorney-Public Admin"	26	0	37726.5
+"Siskiyou"	"Drug & Alcohol Program"	7	0	12552
+"Siskiyou"	"Elections & Registrations"	16	0	408
+"Siskiyou"	"Emergency Services"	2	480	40562.5
+"Siskiyou"	"Environmental Health"	9	0	64502
+"Siskiyou"	"Hammond Ranch Fire"	4	0	3270
+"Siskiyou"	"Human Services Administration"	128	0	35182.5
+"Siskiyou"	"Inmate Health Program"	6	991	27124
+"Siskiyou"	"Juvenile Hall"	27	296	23213
+"Siskiyou"	"Local Community Corrections"	11	30	33685
+"Siskiyou"	"Natural Resources"	1	0	59743
+"Siskiyou"	"Perinatal Substance Abuse"	3	0	9309
+"Siskiyou"	"Ph - Personal Health"	17	0	47331
+"Siskiyou"	"Planning"	7	0	33921
+"Siskiyou"	"Predatory Animal Control"	1	1778	36664
+"Siskiyou"	"Probation"	22	124	39968.5
+"Siskiyou"	"Public Defender"	8	0	69583.5
+"Siskiyou"	"Public Guardian"	2	0	21118
+"Siskiyou"	"Public Health Administration"	7	0	41182
+"Siskiyou"	"Recorder"	5	0	23589
+"Siskiyou"	"Road Construction & Maintenance"	95	408	43126
+"Siskiyou"	"Sheriff-Coroner"	76	2471	58599.5
+"Siskiyou"	"Siskiyou Co Flood Control & Water"	2	0	20553
+"Siskiyou"	"Siskiyou County Museum"	1	0	13866
+"Siskiyou"	"Siskiyou Narc Task Force- Asset For"	2	51	19466.5
+"Siskiyou"	"Siskiyou Transit And General Expres"	28	168.5	23140
+"Siskiyou"	"Solid Waste Disposal"	6	112	36690
+"Siskiyou"	"Surveyor"	1	0	28044
+"Siskiyou"	"Treasurer-Tax Collector"	7	0	48146
+"Siskiyou"	"Tulelake Farm Adviser"	2	0	8374
+"Siskiyou"	"Veterans Service Office"	3	110	20239
+"Siskiyou"	"Women, Infants & Children"	7	0	19659
+"Siskiyou"	"Yreka Farm Adviser"	2	0	13748
+"Solano"	"Agriculture Dept."	29	0	49323
+"Solano"	"Assr/Recorder Dept."	54	0	57394
+"Solano"	"Auditor/Controller Department"	36	170.5	64060.5
+"Solano"	"Board of Supervisors"	15	0	59012
+"Solano"	"Cooperative Extension-UC"	2	0	44119.5
+"Solano"	"County Administrator's Office"	19	0	94579
+"Solano"	"County Counsel Dept."	21	0	118779
+"Solano"	"Dept. of Child Support Services"	108	0	58201.5
+"Solano"	"Dept. of Information Technology"	65	0	75759
+"Solano"	"District Attorney Dept"	135	0	66839
+"Solano"	"Fouts Springs Youth Facility"	1	0	49518
+"Solano"	"General Services"	97	0	52236
+"Solano"	"Health & Social Services Dept"	1207	0	54730
+"Solano"	"Human Resources Dept."	36	0	52133
+"Solano"	"Library Dept"	283	0	8560
+"Solano"	"Probation Dept"	214	0	65489.5
+"Solano"	"Public Defender Dept"	89	0	78090
+"Solano"	"Res Mgmt-Deta Water Act"	1	0	106370
+"Solano"	"Res Mgmt-Public Works"	64	0	58731.5
+"Solano"	"Resource Management"	70	0	66781
+"Solano"	"Sheriff's EMPG Grants"	1	0	25252
+"Solano"	"Sheriff's Office Dept."	501	5052	74777
+"Solano"	"Treasurer-Tax Collector-Co Clk"	15	1210	50585
+"Solano"	"Veterans Services"	5	0	50069
+"Sonoma"	"Agricultural-Commissioners Office"	60	0	36593.5
+"Sonoma"	"Auditor-Controller"	107	0	60257
+"Sonoma"	"Board of Supervisors"	34	0	25463.5
+"Sonoma"	"Clerk Recorder Assessor"	130	0	54257
+"Sonoma"	"Community Development Commission"	36	0	58937.5
+"Sonoma"	"County Administrator's Office"	31	0	45654
+"Sonoma"	"County Counsel"	45	0	94633
+"Sonoma"	"Cu Cooperative Extension"	8	0	34111.5
+"Sonoma"	"Department Of Child Support Services"	99	0	58359
+"Sonoma"	"Department Of Health Services"	772	0	51455.5
+"Sonoma"	"District Attorneys Office"	136	0	66282.5
+"Sonoma"	"Economic Development Board"	27	0	19005
+"Sonoma"	"Fire And Emergency Services Department"	61	0	7507
+"Sonoma"	"General Services Department"	170	0	49186
+"Sonoma"	"Human Resources Department"	74	0	57040
+"Sonoma"	"Human Services Department"	969	0	50580
+"Sonoma"	"Information Systems Department"	114	0	85476.5
+"Sonoma"	"Permit Resource Management Department"	123	0	67861
+"Sonoma"	"Probation Department"	353	81	63721
+"Sonoma"	"Public Defender's Office"	67	0	85013
+"Sonoma"	"Regional Parks Department"	213	377	20080
+"Sonoma"	"Retirement"	22	0	61768
+"Sonoma"	"Sheriff"	742	9209	91091.5
+"Sonoma"	"Transportation and Public Works"	228	1403.5	59798.5
+"Sonoma"	"Water Agency"	319	83	69011
+"Stanislaus"	"Aging & Veterans Services"	22	0	44231
+"Stanislaus"	"Agricultural Commissioner"	51	0	37369
+"Stanislaus"	"Alliance WorkNet"	82	0	45401.5
+"Stanislaus"	"Animal Services"	28	134.5	39097
+"Stanislaus"	"Assessor"	53	0	54634
+"Stanislaus"	"Auditor Controller"	36	0	52130.5
+"Stanislaus"	"Behavioral Health & Recov Svs"	432	0	45292.5
+"Stanislaus"	"Board of Supervisors"	8	0	74542
+"Stanislaus"	"Chief Executive Office"	63	0	61412
+"Stanislaus"	"Child Support Services"	149	0	42788
+"Stanislaus"	"Childrens & Families Com"	4	0	51479
+"Stanislaus"	"Clerk/Recorder"	55	0	35714
+"Stanislaus"	"Community Services Agency"	916	228.5	42737.5
+"Stanislaus"	"Cooperative Extension"	4	0	37091
+"Stanislaus"	"County Counsel"	14	0	73408.5
+"Stanislaus"	"District Attorney"	128	0	52522
+"Stanislaus"	"Environmental Resources"	85	0	53002
+"Stanislaus"	"General Services Agency"	50	0	44284
+"Stanislaus"	"Health Services Agency"	543	0	34633
+"Stanislaus"	"Law Library"	4	0	17173
+"Stanislaus"	"Library"	141	0	19281
+"Stanislaus"	"Local Agency Formation Comm."	3	0	77867
+"Stanislaus"	"Parks & Recreation"	38	0	31722
+"Stanislaus"	"Planning & Community Develop"	27	0	63511
+"Stanislaus"	"Probation"	239	515	50655
+"Stanislaus"	"Public Defender"	37	0	81634
+"Stanislaus"	"Public Works"	100	0	52556.5
+"Stanislaus"	"Retirement Board"	12	0	55491.5
+"Stanislaus"	"Sheriff"	619	4433	57246
+"Stanislaus"	"Stanislaus Regional 911"	59	3597	67658
+"Stanislaus"	"Strategic Business Technology"	24	0	77787
+"Stanislaus"	"Treasurer"	27	0	43491
+"Sutter"	"Agricultural Commissioner"	22	0	57811
+"Sutter"	"Animal Control"	13	0	17167
+"Sutter"	"Assessor"	24	0	47083.5
+"Sutter"	"Auditor-Controller"	13	0	42697
+"Sutter"	"Bi-County Farm Advisor"	2	0	41553
+"Sutter"	"Board Of Supervisors"	6	0	33912.5
+"Sutter"	"Boat Patrol Reserves"	1	0	234
+"Sutter"	"Building Inspection"	1	0	56821
+"Sutter"	"Building Maintenance"	30	41.5	37150.5
+"Sutter"	"Child Support Services"	33	0	44788
+"Sutter"	"Clerk Of The Board"	3	0	18999
+"Sutter"	"Community Memorial Museum"	5	0	961
+"Sutter"	"County Administrator"	7	0	87580
+"Sutter"	"County Airport"	1	0	2941
+"Sutter"	"County Clerk"	1	0	80203
+"Sutter"	"County Counsel"	7	0	116073
+"Sutter"	"County Jail"	57	6683	56470
+"Sutter"	"County Library"	21	0	34372
+"Sutter"	"County Service Area F"	17	4118	68051
+"Sutter"	"Development Services Admin"	10	0	52790.5
+"Sutter"	"District Attorney"	31	0	61424
+"Sutter"	"Elections"	10	0	36117
+"Sutter"	"Emergency Services"	1	0	85854
+"Sutter"	"Engineering Services"	9	0	94509
+"Sutter"	"Environmental Health"	7	0	68559
+"Sutter"	"Fire Administration Services"	1	0	128961
+"Sutter"	"Fleet Management ISF"	5	0	53757
+"Sutter"	"General Services Department"	7	0	50203
+"Sutter"	"Human Resources"	8	0	60594
+"Sutter"	"Human Services Administration"	4	0	64871
+"Sutter"	"Information Technology ISF"	17	0	76968
+"Sutter"	"Jail Medical"	27	0	21462
+"Sutter"	"Jail Reserves"	14	0	876
+"Sutter"	"Mash-Mental Health Serv Act"	1	0	18352
+"Sutter"	"Mental Health Services"	167	0	40589
+"Sutter"	"Mhsa-Mental Health Serv Act"	46	0	58647
+"Sutter"	"Net 5 Sheriff"	1	0	44444
+"Sutter"	"Off Of Revenue Collection"	4	0	28472.5
+"Sutter"	"Patrol Reserves"	25	0	776
+"Sutter"	"Planning & Building"	22	0	13266
+"Sutter"	"Probation"	52	0	60941
+"Sutter"	"Public Defender"	1	0	91926
+"Sutter"	"Public Guardian & Conservator"	4	0	23795
+"Sutter"	"Recorder"	5	0	40653
+"Sutter"	"Road"	24	489.5	43606
+"Sutter"	"Sheriff's Court Bailiffs"	6	3324.5	60187
+"Sutter"	"Sheriff-Communications"	22	297	52261
+"Sutter"	"Sheriff-Coroner"	46	4367.5	70342.5
+"Sutter"	"Sheriff Boat Patrol"	3	14556	76787
+"Sutter"	"Sheriff Inmate Welfare"	1	2092	53912
+"Sutter"	"Sheriff Live Oak Contract"	11	3585	60508
+"Sutter"	"Sutter County Health"	56	0	41906.5
+"Sutter"	"Treasurer-Tax Collector"	8	0	43063
+"Sutter"	"Water Resources"	4	731.5	59923.5
+"Sutter"	"Welfare Administration"	184	0	40798
+"Sutter"	"Workers' Comp INS-ISF"	2	0	69551.5
+"Tehama"	"Agriculture Commissioner"	12	0	53647
+"Tehama"	"Agriculture Extension"	2	0	41003.5
+"Tehama"	"Air Pollution District"	6	0	34568
+"Tehama"	"Assessor"	19	0	39341
+"Tehama"	"Auditor Controller"	12	0	41215.5
+"Tehama"	"Bailiff"	6	1428	52349
+"Tehama"	"Board of Supervisors"	14	0	32752.5
+"Tehama"	"Building and Safety"	8	0	32944
+"Tehama"	"Camp Tehama"	1	0	7541
+"Tehama"	"Child Support Services"	22	0	35309.5
+"Tehama"	"Clerk-Recorder"	7	0	35189
+"Tehama"	"Clinic Services"	15	0	32549
+"Tehama"	"Community Action Agency"	17	0	15079
+"Tehama"	"Corning Veteran's Hall"	1	0	8750
+"Tehama"	"County Counsel"	10	0	42776.5
+"Tehama"	"Day Reporting Center"	13	3680	49848
+"Tehama"	"District Attorney"	21	0	56186
+"Tehama"	"District Attorney's Early Welfare Fraud"	1	587	58135
+"Tehama"	"District Attorney's Welfare Fraud"	2	267	60466
+"Tehama"	"District Attorney Victim/Witness"	5	0	33913
+"Tehama"	"District Attorney Welfare Fraud"	1	310	74892
+"Tehama"	"Division of Animal Services"	11	0	11219
+"Tehama"	"Drug & Alcohol"	28	0	29003
+"Tehama"	"Elections"	12	0	728
+"Tehama"	"Environmental Health"	9	0	56645
+"Tehama"	"Facilities Maintenance"	11	0	41096
+"Tehama"	"Fire"	5	1531	43668
+"Tehama"	"Jail"	44	5050.5	51010
+"Tehama"	"Jail Nursing Service"	1	0	29748
+"Tehama"	"Juvenile Detention Facility"	37	0	28359
+"Tehama"	"Law Library"	2	0	3887
+"Tehama"	"Library"	12	0	15044.5
+"Tehama"	"Mental Health"	106	0	35409.5
+"Tehama"	"Personnel"	4	0	45551.5
+"Tehama"	"Planning  Department"	2	0	6155
+"Tehama"	"Planning Department"	10	0	4592
+"Tehama"	"Probation First Offender"	2	0	35213
+"Tehama"	"Probation Office"	36	0	37612.5
+"Tehama"	"Public Guardian/Public  Administration"	6	0	34047
+"Tehama"	"Public Health"	42	0	34282
+"Tehama"	"Purchasing"	1	106	27429
+"Tehama"	"Risk Management"	3	0	38146
+"Tehama"	"Road Department"	71	113	41527
+"Tehama"	"Sheriff"	64	2121	52614.5
+"Tehama"	"Sheriff - Coroner"	2	7429	82380.5
+"Tehama"	"Sheriff Animal Regulation"	3	1077	36624
+"Tehama"	"Sheriff/Court Security"	1	0	49567
+"Tehama"	"Social Services Administration"	202	0	34477.5
+"Tehama"	"Tax Collector"	2	0	32760.5
+"Tehama"	"Tehama County Child & Families Commission"	2	0	48902.5
+"Tehama"	"Tehama County In Home Social Services Public Authority"	2	0	26963.5
+"Tehama"	"Treasurer"	4	0	63802
+"Trinity"	"Administration"	5	0	42028
+"Trinity"	"Animal Control"	6	0	4412
+"Trinity"	"Auditor"	7	0	38619
+"Trinity"	"Beh Health"	1	0	22996
+"Trinity"	"Behavioral Health"	33	0	35476
+"Trinity"	"Bldg. Dev"	4	0	56821
+"Trinity"	"Board of Supervisor"	5	0	25710
+"Trinity"	"Child Support"	8	0	41052
+"Trinity"	"Clerk/Recorder/Assessor"	6	0	19261.5
+"Trinity"	"Cu Davis"	1	0	1806
+"Trinity"	"Da"	12	0	42770.5
+"Trinity"	"General Services"	8	0	25869
+"Trinity"	"Grants"	3	0	8820
+"Trinity"	"Health"	9	0	24622
+"Trinity"	"Human Services"	58	50	29515
+"Trinity"	"It"	3	0	62197
+"Trinity"	"Jail"	20	2834.5	34489
+"Trinity"	"Library"	4	0	7555.5
+"Trinity"	"Planning"	8	0	600
+"Trinity"	"Probation"	26	0	43513.5
+"Trinity"	"Road"	50	0	34122
+"Trinity"	"Sheriff"	27	2070	59612
+"Trinity"	"Solid Waste"	30	0	24213
+"Trinity"	"Transit"	12	0	6298
+"Trinity"	"Treas/Tax"	3	0	26394
+"Trinity"	"Veterans"	1	0	16922
+"Trinity"	"Welfare"	2	633	13912
+"Trinity"	"WIC"	3	0	33497
+"Tulare"	"Ag Commissioner/Sealer"	63	1647	48492
+"Tulare"	"Assessor Clerk-Recorder"	96	0	42250
+"Tulare"	"Auditor-Controller"	66	0	36320.5
+"Tulare"	"Board of Supervisors"	7	0	113002
+"Tulare"	"Capital Projects"	8	0	50219.5
+"Tulare"	"Child Support Services Dept"	200	0	36179.5
+"Tulare"	"Cooperative Extension"	8	0	29555.5
+"Tulare"	"County Administration Office"	17	0	48341
+"Tulare"	"County Counsel"	63	0	49029
+"Tulare"	"District Attorney"	212	0	47764
+"Tulare"	"Fire Dept"	131	1531	60029
+"Tulare"	"General Services"	80	0	30590.5
+"Tulare"	"Health and Human Services"	3920	0	36698
+"Tulare"	"Human Resources & Development"	29	0	34892
+"Tulare"	"Information Technology"	156	0	57450
+"Tulare"	"Law Library"	2	0	48562.5
+"Tulare"	"Library"	42	0	31927
+"Tulare"	"Probation"	425	0	39592
+"Tulare"	"Public Defender"	107	0	37520
+"Tulare"	"Purchasing"	10	0	25530
+"Tulare"	"Resource Management Agency"	320	0	41625
+"Tulare"	"Retirement"	9	0	46205
+"Tulare"	"Sheriff"	799	2183.5	57901
+"Tulare"	"Workforce Investment Board"	18	0	54571
+"Tuolumne"	"Administration"	5	0	108862.59
+"Tuolumne"	"Agriculture Comm/Weights & Measurement"	4	0	56193.575
+"Tuolumne"	"Air Pollution Control"	2	84.895	80150.28
+"Tuolumne"	"Ambulance"	4	0	28212.37
+"Tuolumne"	"Animal Control"	14	7.8	29198.36
+"Tuolumne"	"Archives"	1	0	72020.24
+"Tuolumne"	"Assessor - Recorder"	15	0	46597.7
+"Tuolumne"	"Auditor - Controller"	16	0	42365.73
+"Tuolumne"	"Behavioral Health"	80	0	32651.33
+"Tuolumne"	"Board of Supervisors"	8	0	41275.935
+"Tuolumne"	"Boat Patrol"	3	5122.67	66980.44
+"Tuolumne"	"Columbia Airport"	5	0	40064.79
+"Tuolumne"	"Community Resources Agency"	26	0	59822.075
+"Tuolumne"	"County Counsel"	5	0	111113.25
+"Tuolumne"	"Court Security"	6	927.37	66918.355
+"Tuolumne"	"DA Victim Witness"	3	0	40544.02
+"Tuolumne"	"DAVW Statutory Rape Prosecute"	1	0	63107.71
+"Tuolumne"	"District Attorney"	17	0	51328.82
+"Tuolumne"	"Elections"	1	0	27527.39
+"Tuolumne"	"Facilities Management"	22	48.505	34177.68
+"Tuolumne"	"Fire"	23	0	1670.67
+"Tuolumne"	"Fleet Services"	8	670.99	46286.935
+"Tuolumne"	"Health"	36	0	22155.97
+"Tuolumne"	"Health- Van"	3	0	7134.7
+"Tuolumne"	"Human Resources - Risk Mgmt."	5	0	57258.8
+"Tuolumne"	"Information  Technology"	15	44.59	66714.72
+"Tuolumne"	"Jail"	47	4853.79	60470.88
+"Tuolumne"	"Library"	22	0	12081.14
+"Tuolumne"	"Probation"	55	0	39198.26
+"Tuolumne"	"Public Defender"	8	0	60126.035
+"Tuolumne"	"Public Power Agency"	1	0	28583.84
+"Tuolumne"	"Public Works - Road Fund"	31	951.93	43834.13
+"Tuolumne"	"Public Works Administration"	12	0	59556.055
+"Tuolumne"	"Public Works Spec Dist Admin"	1	0	44964.43
+"Tuolumne"	"Purchasing"	2	0	37874.24
+"Tuolumne"	"Radio/Communications"	1	2018.58	43525.14
+"Tuolumne"	"Recreation"	69	0	1919.34
+"Tuolumne"	"Revenue Recovery"	8	0	32330.14
+"Tuolumne"	"Sheriff - Communications"	14	6594.18	62032.385
+"Tuolumne"	"Sheriff - Coroner"	74	4647.38	73533.98
+"Tuolumne"	"Social Services"	145	0	35525.45
+"Tuolumne"	"Solid Waste"	3	0	53597.71
+"Tuolumne"	"Standard Park"	15	0	3051.94
+"Tuolumne"	"Tobacco Control Program"	2	0	42502.995
+"Tuolumne"	"Treasurer - Tax Collector"	6	12.2	38702.75
+"Tuolumne"	"Tuolumne Narcotics Team"	3	14048.36	92989.35
+"Tuolumne"	"Veterans Services"	4	0	18695.615
+"Tuolumne"	"Women Infants & Children(WIC)"	14	0	8444.54
+"Tuolumne"	"Youth Centers"	10	0	5338.285
+"Ventura"	"Agricultural Commissioner"	71	5	27333
+"Ventura"	"Animal Services"	72	1009	34881
+"Ventura"	"Area Agency on Aging"	28	0	42837.5
+"Ventura"	"Assessor"	135	0	52092
+"Ventura"	"Auditor-Controller"	76	0	51754
+"Ventura"	"Board of Supervisors"	29	0	73321
+"Ventura"	"County Clerk-Recorder"	68	150	42681.5
+"Ventura"	"County Counsel"	38	0	107204
+"Ventura"	"County Executive Office"	109	0	71109
+"Ventura"	"Department of Airports"	32	184.5	45062
+"Ventura"	"District Attorney"	278	0	72345.5
+"Ventura"	"Farm Advisor"	3	0	43399
+"Ventura"	"General Services Agency"	295	11	42398
+"Ventura"	"Harbor Administration"	78	0	7666.5
+"Ventura"	"Health Care Agency"	2979	73	45614
+"Ventura"	"Human Services Agency"	1269	34	45738
+"Ventura"	"Information Technology Services"	183	0	83146
+"Ventura"	"Local Agency Formation Comm"	3	0	118179
+"Ventura"	"Probation Agency"	479	63	63273
+"Ventura"	"Public Defender"	107	0	92924
+"Ventura"	"Public Works Agency"	428	0	53669.5
+"Ventura"	"Resource Management Agency"	183	0	70686
+"Ventura"	"Sheriff's Department"	1354	6298.5	85534
+"Ventura"	"Treasurer - Tax Collector"	38	0	41307.5
+"Ventura"	"VC Dept. Child Support Services"	227	0	50780
+"Ventura"	"VC Employees' Retirement Associate"	25	0	64187
+"Ventura"	"VC Fire Protection District"	592	30992	115042.5
+"Ventura"	"Ventura County Library"	154	0	11957.5
+"Yolo"	"Agriculture"	18	0	67543
+"Yolo"	"Animal Services"	21	1860	42198
+"Yolo"	"Assessor"	25	0	58410
+"Yolo"	"Auditor-Controller"	26	0	51529.5
+"Yolo"	"Board of Supervisors"	18	0	73665.5
+"Yolo"	"Child Support Services"	61	0	47574
+"Yolo"	"Children & Families Commission"	5	0	87373
+"Yolo"	"Co Facilities - Buildings"	13	1295	64997
+"Yolo"	"Community Dev Block Grants"	1	0	99994
+"Yolo"	"Community Development-Planning"	8	0	83258
+"Yolo"	"Cooperative Extension Service"	3	0	47961
+"Yolo"	"Coroner"	12	0	4980.5
+"Yolo"	"County Administrator"	21	0	74545
+"Yolo"	"County Clerk-Administration"	6	0	90926
+"Yolo"	"County Clerk-Recorder"	11	19	45189
+"Yolo"	"County Clerk - Elections"	22	0	3871
+"Yolo"	"County Counsel"	11	0	95473
+"Yolo"	"DA-Consumer & Env Protection"	3	0	72820
+"Yolo"	"District Attorney"	86	0	44519.5
+"Yolo"	"District Attorney-Child Abduct"	4	350	107938
+"Yolo"	"District Attorney-Crim Grants"	12	0	105103
+"Yolo"	"District Attorney-Grants"	4	0	63191.5
+"Yolo"	"District Attorney-MDIC"	3	0	33658
+"Yolo"	"District Attorney-Spec Invest"	1	259	59916
+"Yolo"	"District Attorney-Victim Wit"	5	0	47263
+"Yolo"	"Fleet Services"	2	0	78770.5
+"Yolo"	"Graphics"	3	0	614
+"Yolo"	"Human Resources"	13	0	70736
+"Yolo"	"Information Technology"	27	0	87932
+"Yolo"	"Law Library"	4	0	12021.5
+"Yolo"	"Library"	130	0	8774
+"Yolo"	"Library-Archives"	3	0	15915
+"Yolo"	"Library-YoloLink"	1	0	40753
+"Yolo"	"Local Agency Formation Comm"	3	0	63401
+"Yolo"	"Mental Health Services"	87	0	51239
+"Yolo"	"Office of Emergency Services"	1	0	81357
+"Yolo"	"Parks - Cache Creek"	1	0	43418
+"Yolo"	"Parks & Resources"	9	0	48763
+"Yolo"	"Planning and Public Works"	51	0	51720
+"Yolo"	"Probation-Administration"	14	0	44726
+"Yolo"	"Probation-Care of Court Wards"	1	280	63737
+"Yolo"	"Probation-COPS Juv. Justice"	6	75.5	62710.5
+"Yolo"	"Probation-Detention"	71	947	58031
+"Yolo"	"Probation-Service Unit"	13	0	57439
+"Yolo"	"Probation - AB109"	26	0	61370.5
+"Yolo"	"Probation - Comm Corrections"	12	0	61566
+"Yolo"	"Probation - Youth Offender"	5	297	65535
+"Yolo"	"Public Defender"	33	0	112927
+"Yolo"	"Public Guardian/Administrator"	6	0	52463.5
+"Yolo"	"Public Health"	58	0	39600
+"Yolo"	"Public Health-Child Disability"	14	0	70298
+"Yolo"	"Public Health-Environmental"	26	0	73967
+"Yolo"	"Public Works-Integrated Waste"	27	15	53496
+"Yolo"	"Purchasing"	3	0	56816
+"Yolo"	"Risk Management"	1	0	21283
+"Yolo"	"Sheriff-AB109"	28	3855.5	58877.5
+"Yolo"	"Sheriff-Bailiffs"	26	423	75573
+"Yolo"	"Sheriff-Boat Patrol"	2	9114	102229.5
+"Yolo"	"Sheriff-Civil"	6	413.5	56950
+"Yolo"	"Sheriff-Coroner"	17	0	56039
+"Yolo"	"Sheriff-Detention"	126	3865	66293.5
+"Yolo"	"Sheriff-Patrol"	40	4026	81822
+"Yolo"	"Sheriff-Training"	1	0	87976
+"Yolo"	"Social Services"	347	624	52166
+"Yolo"	"Telecommunications"	3	439	69316
+"Yolo"	"Veterans Service Office"	2	0	68843.5

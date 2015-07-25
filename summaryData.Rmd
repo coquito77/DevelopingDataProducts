@@ -1,0 +1,46 @@
+---
+title: "summarizeData"
+date: "July 24, 2015"
+output: html_document
+---
+
+code to summarize wages data from Los Angeles County for calendar year 2013
+
+```{r getdata, cache=TRUE}
+
+setwd("C:/Users/E551910/Desktop/DevelopingDataProducts/DevelopingDataProducts/")
+
+temp <- tempfile()
+download.file("http://publicpay.ca.gov/Reports/RawExport.aspx?file=2013_County.zip",temp)
+data <- read.csv(unz(temp, "2013_County.csv"), header = TRUE, fill = TRUE, skip = 4)
+unlink(temp)
+
+```
+```{r data clean up}
+
+# clean up the data 
+names(data)
+names(data) <- str <- gsub("[^[:alnum:]]", "", names(data))
+str(data)
+
+library(tidyr)
+library(dplyr)
+
+# summarize the data
+
+summarydata <- data %>% 
+  select(EntityName, DepartmentSubdivision, OvertimePay, TotalWages) %>% 
+  group_by(EntityName, DepartmentSubdivision) %>% 
+  summarize(
+    count = n(),
+    medianOT = median(OvertimePay, na.rm = TRUE),
+    medianTotalPay = median(TotalWages, na.rm = TRUE))
+
+
+# export summarized data
+
+write.table(summarydata, file = "./summarydata.txt", sep="\t", na = "0", row.names = FALSE)
+
+
+```
+

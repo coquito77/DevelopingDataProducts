@@ -1,0 +1,27 @@
+---
+title: "Government Compensation in California by County and Department"
+author: "Moises Evangelista"
+date: "July 24, 2015"
+output: slidy_presentation
+---
+
+## Data source and analysis
+
+This presentation uses data from the  California State Controller's Office, Controller Betty T. Yee.  These data can be accessed [here](http://publicpay.ca.gov/Reports/RawExport.aspx). 
+
+
+
+## Data analysis
+
+- For this analysis, the data was downloaded
+- Median total wages and overtime pay was calculated by county and department
+- The resulting data was visualized on a graph
+
+## How to use the application
+
+On the data application, select the county  of interest from the dropdown.  The graph will update based on the selection made. 
+
+The highest total wage for the county selected and the department with the highest total wage will also update.  
+
+In addition, the total overtime wage and the department with the highest overtime wage will also update.
+

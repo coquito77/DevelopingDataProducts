@@ -2,7 +2,7 @@
 
 This project is for Coursera's Developing Data Products. 
 
-A presentation for thiis project is here
+A presentation for this project is here
 
 http://rpubs.com/MoisesEvangelista/95225
 

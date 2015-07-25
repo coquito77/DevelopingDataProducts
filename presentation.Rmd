@@ -8,6 +8,8 @@ output: slidy_presentation
 ## Data source and analysis
 
 This presentation uses data from the  California State Controller's Office, Controller Betty T. Yee.  These data can be accessed [here](http://publicpay.ca.gov/Reports/RawExport.aspx). 
+ 
+The government employee wages data was put out after some government employees were being paid extremely high wages.  Information about one of these events can be found [here](https://en.wikipedia.org/wiki/City_of_Bell_scandal).
 
 
 
@@ -18,6 +20,8 @@ This presentation uses data from the  California State Controller's Office, Cont
 - The resulting data was visualized on a graph
 
 ## How to use the application
+
+The application can be accessed [here](https://coquito77.shinyapps.io/DevelopingDataProducts)
 
 On the data application, select the county  of interest from the dropdown.  The graph will update based on the selection made. 
 

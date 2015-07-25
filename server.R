@@ -1,9 +1,11 @@
 library(shiny)
 library(ggplot2)
 
-setwd("C:/Users/E551910/Desktop/DevelopingDataProducts/DevelopingDataProducts/")
+#setwd("C:/Users/E551910/Desktop/DevelopingDataProducts/DevelopingDataProducts/")
 
 dataset <-  read.csv(file="./data/summarydata.txt", sep="\t",head=TRUE)
+
+
 dataset$EntityName <- as.character(dataset$EntityName)
 dataset$DepartmentSubdivision <- as.character(dataset$DepartmentSubdivision)
 

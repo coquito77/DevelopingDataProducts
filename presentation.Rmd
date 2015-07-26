@@ -8,7 +8,7 @@ output: slidy_presentation
 ## Data source and analysis
 
 This presentation uses data from the  California State Controller's Office, Controller Betty T. Yee.  These data can be accessed [here](http://publicpay.ca.gov/Reports/RawExport.aspx). 
- 
+
 The government employee wages data was put out after some government employees were being paid extremely high wages.  Information about one of these events can be found [here](https://en.wikipedia.org/wiki/City_of_Bell_scandal).
 
 
@@ -64,35 +64,35 @@ print(xtable(prettyNum(highestTotalWages,
                        big.mark=",",
                        preserve.width="none"),
              digits=0, 
-             caption = "Top three total wage paying departments, excludes departments with less than 30 employeees",  
+             caption = "Top three total wage paying departments, excludes departments with fewer than 30 employeees",  
              label="tblFinalReg", 
              align = "rl{4cm}r{3cm}r{3cm}"
-             ), 
-      caption.placement = "bottom", 
-      include.rownames=FALSE, 
-      # table.placement="t", 
-      type='html',
-      comment=FALSE)
+), 
+caption.placement = "bottom", 
+include.rownames=FALSE, 
+# table.placement="t", 
+type='html',
+comment=FALSE)
 
 ```
 |      
-      
+
 |       
-       
+
 ```{r results='asis', echo=FALSE}
 
 print(xtable(prettyNum(highestWagesOT,
                        big.mark=",",
                        preserve.width="none"),
              digits=0, 
-             caption = "Top three overtime paying departments, excludes departments with less than 30 employeees",  
+             caption = "Top three overtime paying departments, excludes departments with fewer than 30 employeees",  
              label="tblFinalReg", 
              align = "rl{4cm}r{3cm}r{3cm}"
-             ), 
-      caption.placement = "bottom", 
-      include.rownames=FALSE, 
-      # table.placement="t", 
-      type='html',
-      comment=FALSE)
+), 
+caption.placement = "bottom", 
+include.rownames=FALSE, 
+# table.placement="t", 
+type='html',
+comment=FALSE)
 
 ```

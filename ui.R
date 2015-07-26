@@ -28,13 +28,13 @@ shinyUI(pageWithSidebar(
   sidebarPanel (
     
     selectInput('x','County Name', unique(dataset$EntityName)),
-    "Deparment with the highest median wage",
+    "Department with the highest median wage",
     h1(textOutput("highestWageDept")),
 
     "Highest median wage",
     h1(textOutput("highestWage")),
     
-    "Deparment with the highest median overtime wage",
+    "Department with the highest median overtime wage",
     h1(textOutput("highestOTWageDept")),
     
     "Highest median overtime wage",

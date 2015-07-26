@@ -1,8 +1,8 @@
 name: DevelopingDataProducts
 account: coquito77
 server: shinyapps.io
-bundleId: 226263
+bundleId: 226400
 url: https://coquito77.shinyapps.io/DevelopingDataProducts
-when: 1437925764.54834
+when: 1437936131.03586
 asMultiple: FALSE
 asStatic: FALSE

@@ -29,3 +29,70 @@ The highest total wage for the county selected and the department with the highe
 
 In addition, the total overtime wage and the department with the highest overtime wage will also update.
 
+## Highest total wages and total overtime pay {.smaller}
+
+```{r include=FALSE}
+
+setwd("C:/Users/E551910/Desktop/DevelopingDataProducts/DevelopingDataProducts/")
+
+dataset <-  read.csv(file="./data/summarydata.txt", sep="\t",head=TRUE)
+
+dataset$EntityName[which.max(dataset$medianTotalPay)]
+
+library(dplyr)
+
+highestTotalWages <- tbl_df(dataset) %>%
+  filter(count  >= 30) %>%
+  top_n(3, medianTotalPay)  %>%
+  arrange(desc(medianTotalPay)) %>%
+  select(County = EntityName, Department= DepartmentSubdivision, "Median total pay" = medianTotalPay)
+
+highestWagesOT <- tbl_df(dataset) %>%
+  filter(count  >= 30) %>%
+  top_n(3, medianOT)  %>%
+  arrange(desc(medianOT)) %>%
+  select(County = EntityName, Department= DepartmentSubdivision, "Median overtime pay" = medianOT)
+
+```
+
+
+```{r results='asis', echo=FALSE}
+
+library(xtable)
+
+print(xtable(prettyNum(highestTotalWages,
+                       big.mark=",",
+                       preserve.width="none"),
+             digits=0, 
+             caption = "Top three total wage paying departments, excludes departments with less than 30 employeees",  
+             label="tblFinalReg", 
+             align = "rl{4cm}r{3cm}r{3cm}"
+             ), 
+      caption.placement = "bottom", 
+      include.rownames=FALSE, 
+      # table.placement="t", 
+      type='html',
+      comment=FALSE)
+
+```
+|      
+      
+|       
+       
+```{r results='asis', echo=FALSE}
+
+print(xtable(prettyNum(highestWagesOT,
+                       big.mark=",",
+                       preserve.width="none"),
+             digits=0, 
+             caption = "Top three overtime paying departments, excludes departments with less than 30 employeees",  
+             label="tblFinalReg", 
+             align = "rl{4cm}r{3cm}r{3cm}"
+             ), 
+      caption.placement = "bottom", 
+      include.rownames=FALSE, 
+      # table.placement="t", 
+      type='html',
+      comment=FALSE)
+
+```

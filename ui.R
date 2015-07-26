@@ -14,16 +14,16 @@ dataset <-  read.csv(file="./data/summarydata.txt", sep="\t",head=TRUE)
 
 dataset$EntityName <- as.character(dataset$EntityName)
 
-title <- "Wage earnings for California counties in 2013"
+title <- "Wage earnings for California county employees in 2013"
 
-## Define UI for application that plots random distributions
+## Define UI for application that plots 
 
 shinyUI(pageWithSidebar(
   
   ## Application title
   headerPanel(title),
   
-  ## Sidebar with a slider input for number of observations
+  ## Sidebar county dropdowns and results
   
   sidebarPanel (
     
@@ -43,7 +43,7 @@ shinyUI(pageWithSidebar(
     
   ),
   
-  ## Show a plot of the generated distribution
+  ## Show a plot of the selected county depts total wages and overtime pay
   
   
   mainPanel(plotOutput("counts",height="700px"))

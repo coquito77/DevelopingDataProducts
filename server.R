@@ -15,8 +15,8 @@ meanOTMedian <- mean(dataset$medianOT, na.rm = TRUE)
 
 meanTotWageMedian <- mean(dataset$medianTotalPay, na.rm = TRUE)
 
+## Define server logic required to generate and plot
 
-## Define server logic required to generate and plot a random distribution
 shinyServer(function(input,output) {
       
   set <- reactive({

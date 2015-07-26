@@ -5,8 +5,7 @@ library(tidyr)
 library(dplyr)
 library(scales)
 
-## This code loads in the data and does minimal amount of cleaning for the 
-## table and plot
+## This code loads in the data. the data is in the data file
 
 # setwd("C:/Users/E551910/Desktop/DevelopingDataProducts/DevelopingDataProducts/")
 

@@ -36,6 +36,13 @@ summarydata <- data %>%
     medianOT = median(OvertimePay, na.rm = TRUE),
     medianTotalPay = median(TotalWages, na.rm = TRUE))
 
+# get a set for all counties and merge to the orig set
+
+summarydataAll <- summarydata
+
+summarydataAll$EntityName  <- "All Counties"
+
+summarydata <- rbind(summarydataAll, summarydata)
 
 # export summarized data
 

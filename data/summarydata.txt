@@ -1,4 +1,3388 @@
 "EntityName"	"DepartmentSubdivision"	"count"	"medianOT"	"medianTotalPay"
+"All Counties"	"AC Central Collections"	36	0	59558
+"All Counties"	"ACERA"	89	0	74838
+"All Counties"	"Adult and Aging Services"	512	0	56461
+"All Counties"	"Agency Administration"	343	0	57387
+"All Counties"	"Agency Director & Asst Director"	2	0	145179
+"All Counties"	"Aging"	11	0	83895
+"All Counties"	"Art Commission"	4	0	64651.5
+"All Counties"	"Assessor"	173	0	57845
+"All Counties"	"Auditor-Controller Office"	97	0	67619
+"All Counties"	"Auditor-Controller Recorder"	74	0	57515.5
+"All Counties"	"BHCS Grants"	3	0	84689
+"All Counties"	"Board wide"	2	0	65152
+"All Counties"	"Building Maintenance"	148	353.5	72099
+"All Counties"	"CAL ID -Alameda Co"	10	6319	58787.5
+"All Counties"	"CDA-Agency Admin & Finance"	21	0	77495
+"All Counties"	"CDA-Agriculture Commissioner"	7	0	56892
+"All Counties"	"CDA-Construction Department"	4	0	131103
+"All Counties"	"CDA-Lead"	10	0	65114
+"All Counties"	"CDA-Sealer of Weight & Msres"	8	0	66569.5
+"All Counties"	"CDA Agri Weights Grts"	36	0	45949.5
+"All Counties"	"CDA Housing and Community Dev"	11	0	78758
+"All Counties"	"CDA Housing Grants"	5	0	78330
+"All Counties"	"CDA LPPP Grants"	4	0	96551
+"All Counties"	"Child Support Services"	230	0	57009
+"All Counties"	"Children and Family Services"	554	0	74923
+"All Counties"	"CO Admstr-Clerk Of The Board"	25	0	5400
+"All Counties"	"Co Wide-Animal Control"	13	1335	48951
+"All Counties"	"Co Wide-Civil"	25	2415	59037
+"All Counties"	"Co Wide-Coroner-Pub Admstr"	32	6848.5	107177
+"All Counties"	"Co Wide-Crime Lab"	32	130	90447.5
+"All Counties"	"Co Wide-OES"	14	494.5	109943.5
+"All Counties"	"Communications"	1	5738	47614
+"All Counties"	"Coop Extension"	1	0	12995
+"All Counties"	"County Administrator's Office"	23	0	86356
+"All Counties"	"County Administrator-EDAB"	8	0	76037.5
+"All Counties"	"County Counsel"	55	0	138381
+"All Counties"	"County Library"	293	0	24615
+"All Counties"	"Court Services"	129	4520	102657
+"All Counties"	"Det & Corr-Glenn E Dyer Fac"	148	9751	78353.5
+"All Counties"	"Det & Corr-Jail Support"	57	11305	114092
+"All Counties"	"Det & Corr-Sta Rita Jail"	497	9656	85373
+"All Counties"	"Development Services"	41	0	86831
+"All Counties"	"District Attorney"	385	0	82294
+"All Counties"	"Employee Benefits Center"	16	0	74361
+"All Counties"	"Engineering and Construction"	80	0	84782.5
+"All Counties"	"Environmental Hlth Svcs"	94	0	81410.5
+"All Counties"	"Environmental Hth Proj Grants"	6	1057.5	86569.5
+"All Counties"	"Family Justice Center"	7	0	45196
+"All Counties"	"Fire District - ALACO"	1	0	42010
+"All Counties"	"Flood Control Zone 7"	113	0	102389
+"All Counties"	"Grand Jury"	2	0	115740
+"All Counties"	"GSA-Parking Facilities"	4	67	39547.5
+"All Counties"	"GSA-Property & Salvage"	14	0	37879.5
+"All Counties"	"GSA-Purchasing"	43	0	61418
+"All Counties"	"GSA-Veterans' Memorial Bldg"	4	0	1560
+"All Counties"	"GSA Admin/Ops Support"	27	0	76693
+"All Counties"	"HCSA-Behavioral Care"	543	0	73573
+"All Counties"	"HCSA Administration"	27	0	64496
+"All Counties"	"HCSA Human Resources"	15	0	66254
+"All Counties"	"Health Prot CSA EM-1983-1"	31	0	78545
+"All Counties"	"Health Prot CSA VC-1984-1"	27	795	67859
+"All Counties"	"Health Protection CSA L-1991-1"	11	0	78280
+"All Counties"	"HRS-Conference Center"	9	0	71331
+"All Counties"	"Human Resource Services"	66	0	54168.5
+"All Counties"	"Information Technology"	185	0	94463
+"All Counties"	"Injury Prevention"	5	0	50282
+"All Counties"	"Janitorial Services"	122	1618.5	42409.5
+"All Counties"	"Juv Field-Juvenile Svcs"	114	0	80234
+"All Counties"	"Juv Field -TANF"	1	0	61205
+"All Counties"	"Juv Inst-Administration"	17	5008	44890
+"All Counties"	"Juv Inst-Camp Sweeney"	28	4403	81185
+"All Counties"	"Juv Inst-Juvenile Hall"	207	12016	75503
+"All Counties"	"Labor Relations"	10	0	55888.5
+"All Counties"	"Law Enf-Consolidated Dispatch"	32	10420	83822.5
+"All Counties"	"Law Enf-Dublin Services"	55	20632	127555
+"All Counties"	"Law Enf-ETS"	205	20496	120679
+"All Counties"	"Maintenance and Operations"	138	194.5	67620
+"All Counties"	"Management Services"	58	0	41767.5
+"All Counties"	"Medical Services Program Admin"	61	0	61333
+"All Counties"	"Motor Pool"	21	0	58193
+"All Counties"	"Planning Comm-Adm"	39	0	68189
+"All Counties"	"Port of Oakland"	79	13762	80734
+"All Counties"	"Probation-Administration"	63	0	64702
+"All Counties"	"Probation-Adult"	147	0	85884
+"All Counties"	"Probt Grants"	31	0	86371
+"All Counties"	"Pub Hlth-Communicable Disease"	61	0	57908
+"All Counties"	"Pub Hlth-HIV-AIDS Services"	14	0	75973.5
+"All Counties"	"Public Defender"	168	0	112541.5
+"All Counties"	"Public Health-Famil Health Svs"	209	0	57407
+"All Counties"	"Public Health-Field Services"	56	0	82695.5
+"All Counties"	"Public Health Administration"	78	0	75587.5
+"All Counties"	"Public Health Grants"	1	0	25982
+"All Counties"	"Public Health Project Grants"	125	0	51610
+"All Counties"	"Public Hlth-Community Hlth Svs"	46	0	61222
+"All Counties"	"RDA Successor Agency"	7	0	79910
+"All Counties"	"Registrar of Voters"	31	0	50738
+"All Counties"	"Risk Management"	12	0	91764.5
+"All Counties"	"RTC"	85	0	32069
+"All Counties"	"Sheriff's-Administration"	104	0	64485.5
+"All Counties"	"Sheriff's-CIB"	11	10137	68149
+"All Counties"	"Sheriff's -Contracts"	78	15623.5	117079.5
+"All Counties"	"Step Up Program"	3	0	37211
+"All Counties"	"Superior Court Judges"	77	0	10248
+"All Counties"	"Supervisorial District No. 1"	8	0	75916.5
+"All Counties"	"Supervisorial District No. 2"	7	0	63571
+"All Counties"	"Supervisorial District No. 3"	7	0	69827
+"All Counties"	"Supervisorial District No. 4"	9	0	73614
+"All Counties"	"Supervisorial District No. 5"	7	0	90065
+"All Counties"	"Surplus Property Authority"	1	0	164394
+"All Counties"	"TAP Program"	557	0	16992
+"All Counties"	"Technical Service Division"	28	0	91299.5
+"All Counties"	"Treasurer Tax-Collector"	59	0	57234
+"All Counties"	"Unemployment Insurance"	1	0	79202
+"All Counties"	"Warrants Rec and Crime Analys"	17	4520	59935
+"All Counties"	"Weapons Screening"	48	0	37598
+"All Counties"	"Welfare Fraud Investigation"	13	0	81436
+"All Counties"	"Welfare to Work"	539	0	48609
+"All Counties"	"Workforce and Resource Dev"	255	0	55452
+"All Counties"	"Workforce Invest Board Grant"	20	0	67326.5
+"All Counties"	"Assessor"	3	0	54991
+"All Counties"	"Auditor"	4	0	68545
+"All Counties"	"Behavioral Health"	9	0	43284
+"All Counties"	"Board of Supervisors"	9	0	23642
+"All Counties"	"Community Development"	23	0	38178
+"All Counties"	"County Clerk"	2	0	66766
+"All Counties"	"County Counsel"	1	0	36943
+"All Counties"	"District Attorney"	3	0	43950
+"All Counties"	"Eastern Alpine Fire Dept"	1	0	84539
+"All Counties"	"Health & Human Services"	16	0	47457
+"All Counties"	"Human Resources"	1	0	60043
+"All Counties"	"Library"	5	0	20275
+"All Counties"	"Museum"	2	0	11088
+"All Counties"	"Planning Commission"	4	0	960
+"All Counties"	"Probation"	1	0	38888
+"All Counties"	"Recorder"	1	0	44206
+"All Counties"	"School Board"	5	0	2016
+"All Counties"	"Sheriff/Coroner"	17	9183	78389
+"All Counties"	"Treasurer/Tax Collector/Recorder"	1	0	51383
+"All Counties"	"Administrative Officer"	4	0	60459
+"All Counties"	"Ag Commissioner-Sealer"	5	0	65379
+"All Counties"	"Airport"	1	0	77570
+"All Counties"	"Amador Air District"	2	0	56030.5
+"All Counties"	"Amador Fire Protection"	1	0	48704
+"All Counties"	"Animal Control"	8	855.5	43546.5
+"All Counties"	"Assessor"	12	0	58829.5
+"All Counties"	"Auditor Controller"	8	0	48585
+"All Counties"	"Board of Supervisors"	7	0	67832
+"All Counties"	"Building Department"	5	0	52293
+"All Counties"	"Code Enforcement"	3	0	70729
+"All Counties"	"Coroner"	1	8088	105251
+"All Counties"	"County Counsel"	5	0	84425
+"All Counties"	"County Library"	9	0	39348
+"All Counties"	"District Attorney"	25	0	81065
+"All Counties"	"Drug/Alcohol"	3	0	62752
+"All Counties"	"Elections"	4	0	14786.5
+"All Counties"	"Emergency Services"	1	9236	107233
+"All Counties"	"Environmental Health"	8	0	65695
+"All Counties"	"Facilities Maintenance"	12	0	33139.5
+"All Counties"	"General Services Administration Motor Pool"	5	0	58099
+"All Counties"	"General Services Administration Support Services"	6	0	43159.5
+"All Counties"	"Health Department"	15	0	53609
+"All Counties"	"Information Technology"	7	0	67343
+"All Counties"	"Jail"	30	3181	62276
+"All Counties"	"Local Community Correction"	4	767	62919.5
+"All Counties"	"Mental Health"	27	0	44860
+"All Counties"	"Narcotics Task Force"	1	0	26565
+"All Counties"	"Personnel"	4	0	46927
+"All Counties"	"Planning Department"	3	0	67631
+"All Counties"	"Probation"	16	400.5	71763
+"All Counties"	"Public Conservator"	2	351.5	63420
+"All Counties"	"Public Works"	33	182	53112
+"All Counties"	"Recorder"	5	0	48189
+"All Counties"	"Records Management"	1	0	50807
+"All Counties"	"Sheriff"	49	3487	78682
+"All Counties"	"Sheriff (Court Bailiffs)"	11	0	23410
+"All Counties"	"Sheriff Dispatching"	11	683	55057
+"All Counties"	"Social Services"	49	30	40136
+"All Counties"	"Surveying & Engineering"	3	0	81950
+"All Counties"	"Treasurer-Tax Collector"	5	0	43846
+"All Counties"	"Veterans Service Officer"	2	0	30253.5
+"All Counties"	"Victim/Witness Program"	1	0	74139
+"All Counties"	"Waste Management"	1	0	86754
+"All Counties"	"Workmen's Compensation"	1	0	85114
+"All Counties"	"Administration"	34	0	49909
+"All Counties"	"Agriculture"	33	0	27342
+"All Counties"	"Assessor"	53	0	37429
+"All Counties"	"Auditor/Controller"	33	0	25672
+"All Counties"	"Behavioral Health"	594	0	30395.5
+"All Counties"	"Board of Supervisors"	14	0	39845
+"All Counties"	"Child Support Services"	136	0	31111
+"All Counties"	"Clerk-Recorder"	25	49	39876
+"All Counties"	"County Counsel"	11	0	52196
+"All Counties"	"Development Services"	37	0	42938
+"All Counties"	"District Attorney"	128	0	41881
+"All Counties"	"Employment and Social Services"	875	0	32558
+"All Counties"	"Farm and Home Advisor"	7	0	16459
+"All Counties"	"General Services"	71	0	36091
+"All Counties"	"Human Resources"	31	0	31735
+"All Counties"	"Information Systems"	30	0	67747.5
+"All Counties"	"Library"	134	0	10464
+"All Counties"	"Probation"	216	56.5	38881.5
+"All Counties"	"Public Health"	187	0	37900
+"All Counties"	"Public Works"	153	32	42928
+"All Counties"	"Sheriff-Coroner"	343	3188	54951
+"All Counties"	"Treasurer-Tax Collector"	44	0	18610
+"All Counties"	"Water Services"	12	0	47263
+"All Counties"	"Administration"	7	0	61012
+"All Counties"	"Agriculture"	4	0	50909.5
+"All Counties"	"Air Pollution"	1	0	43280
+"All Counties"	"Airport"	2	0	34183.5
+"All Counties"	"Animal Control"	12	0	15086
+"All Counties"	"Assessor"	15	0	45474
+"All Counties"	"Auditor/Controller"	11	0	48966
+"All Counties"	"Behavioral Health Services"	47	0	34585
+"All Counties"	"Board Of Supervisors"	7	0	49442
+"All Counties"	"Building"	8	0	49511.5
+"All Counties"	"Building And Grounds"	9	0	31489
+"All Counties"	"Calmet"	3	7623	71385
+"All Counties"	"Calworks & Human Services"	75	111	43706
+"All Counties"	"Clerk"	3	0	33944
+"All Counties"	"Cneu"	4	13180.5	78878
+"All Counties"	"Code Compliance"	2	0	60016.5
+"All Counties"	"Coroner"	1	0	62471
+"All Counties"	"County Counsel"	8	0	67902.5
+"All Counties"	"Dispatch"	17	3142	50059
+"All Counties"	"District Attorney"	14	0	62090.5
+"All Counties"	"Elections"	3	90	25960
+"All Counties"	"Environmental Managt Agency"	9	0	53503
+"All Counties"	"Equipment Service Center"	7	1247	39595
+"All Counties"	"Gis"	2	0	67925.5
+"All Counties"	"Human Resources"	7	0	48081
+"All Counties"	"Integrated Waste Management"	17	191	43429
+"All Counties"	"Jail"	31	2400	49324
+"All Counties"	"Library"	12	0	11911.5
+"All Counties"	"Literacy Program"	1	0	36987
+"All Counties"	"Marine Safety"	2	15362.5	88214
+"All Counties"	"Museum"	1	0	19982
+"All Counties"	"Oes"	2	5611	63680.5
+"All Counties"	"Onsite Wastewater"	2	0	57146
+"All Counties"	"Planning"	12	0	44417
+"All Counties"	"Probation"	27	0	31412
+"All Counties"	"Public Access Tv"	6	0	7159.5
+"All Counties"	"Public Authority Ihss"	2	0	59453
+"All Counties"	"Public Health"	22	0	37812.5
+"All Counties"	"Public Works Administration"	7	0	58080
+"All Counties"	"Recorder"	4	0	40434
+"All Counties"	"Roads & Bridges"	77	0	36776
+"All Counties"	"Sheriff"	56	5273	68574
+"All Counties"	"Substance Abuse"	11	0	36295
+"All Counties"	"Technology Services"	14	0	35017.5
+"All Counties"	"Treasurer/Tax Collector"	6	0	39821.5
+"All Counties"	"Victim/Witness Program"	1	0	48532
+"All Counties"	"AG Admin Services"	5	0	47343
+"All Counties"	"AG Commissioner"	9	0	46390
+"All Counties"	"Air Pollution"	3	761	50397
+"All Counties"	"Animal Control"	5	0	7096
+"All Counties"	"Assessor"	12	0	46976
+"All Counties"	"Auditor/Controller"	13	87	43683
+"All Counties"	"Behavioral Health Admin"	5	0	90482
+"All Counties"	"Board of Supervisors"	5	0	41553
+"All Counties"	"Boating"	2	4735.5	52494.5
+"All Counties"	"Central Services"	2	0	27142.5
+"All Counties"	"Child Support"	7	531	43696
+"All Counties"	"Clerk/Recorder"	8	342	47910
+"All Counties"	"Communications"	9	760	49684
+"All Counties"	"Cooperative Extension"	3	0	46272
+"All Counties"	"Coroner"	1	2431	68092
+"All Counties"	"County Counsel"	4	0	61341.5
+"All Counties"	"Court Bailiff"	3	77	54401
+"All Counties"	"Custodians"	4	0	24018.5
+"All Counties"	"District Attorney"	11	0	64743
+"All Counties"	"Drug Enforcement"	3	6553	81985
+"All Counties"	"Edhs Admin"	9	0	51108
+"All Counties"	"Elections"	1	0	100
+"All Counties"	"Environmental Health"	6	119.5	55503.5
+"All Counties"	"Health"	15	0	41763
+"All Counties"	"Insurance"	2	0	55411.5
+"All Counties"	"IT"	3	0	64095
+"All Counties"	"Jail"	19	1152	59887
+"All Counties"	"Library"	18	0	9424
+"All Counties"	"Maintenance"	4	0	26842
+"All Counties"	"Mental Health"	50	0	44272
+"All Counties"	"Migrant Housing"	4	0	33404
+"All Counties"	"Owes"	1	4316	60156
+"All Counties"	"Personnel"	7	0	13238
+"All Counties"	"Planning & Building"	8	0	52068
+"All Counties"	"Probation"	26	237	46560
+"All Counties"	"Public Works"	34	0	48336.5
+"All Counties"	"Revenue & Recovery"	1	0	55827
+"All Counties"	"Senior Nutrition"	2	82	12444
+"All Counties"	"Sheriff"	34	2400.5	73968.5
+"All Counties"	"Sheriff-Indian Gaming"	2	945	38688.5
+"All Counties"	"Solid Waste"	2	1236.5	15728
+"All Counties"	"Substance Abuse"	2	1074	46259
+"All Counties"	"Surveyor"	1	0	9897
+"All Counties"	"Transit"	15	0	44304
+"All Counties"	"Treasurer"	5	0	50508
+"All Counties"	"Veteran's Services"	1	0	55549
+"All Counties"	"Victim Witness"	1	0	59520
+"All Counties"	"Welfare"	45	573	42579
+"All Counties"	"Agriculture-Weights/Meas"	54	530	33526.5
+"All Counties"	"Airport Operations"	16	5887	49917.5
+"All Counties"	"Alcohol & Other Drugs Svc"	29	491	54654
+"All Counties"	"Animal Services"	102	728.5	36629.5
+"All Counties"	"Assessor"	123	381	51433
+"All Counties"	"Auditor - Controller"	52	376	52898
+"All Counties"	"Building Maintenance"	196	4227.5	41679
+"All Counties"	"Cal Hlth Bnft Marketplace"	165	184	12639
+"All Counties"	"CCC Dept Child Spprt Svcs"	177	274	46973
+"All Counties"	"Ccc Fire Protection District"	330	29660.5	125895.5
+"All Counties"	"Child Development"	106	69.5	27996
+"All Counties"	"Clerk Of The Board"	7	0	36875
+"All Counties"	"Comm Coll Child Dev"	4	3	26124
+"All Counties"	"Community Services"	363	65	21091
+"All Counties"	"Conservation And Development"	170	183	57789.5
+"All Counties"	"Contra Costa Health Plan"	224	1445.5	42244.5
+"All Counties"	"County Administrator"	22	0	79173
+"All Counties"	"County Counsel"	50	10.5	100651.5
+"All Counties"	"D A Revenue Narcotics"	1	396	48006
+"All Counties"	"D A Welfare Fraud"	1	0	127139
+"All Counties"	"Department Of Supervisors"	37	0	64621
+"All Counties"	"District Attorney"	223	1147	70582
+"All Counties"	"EHSD-Administrative Svcs"	191	1297	56063
+"All Counties"	"Ehsd-Adult & Aging Svcs"	220	927	45760.5
+"All Counties"	"EHSD-Child & Family Svcs"	311	1151	55854
+"All Counties"	"EHSD-Workforce Services"	995	1363.5	42525
+"All Counties"	"EHSD WFRC Investment Brd"	143	591	6477
+"All Counties"	"Elections"	55	434.5	37538
+"All Counties"	"Emergency Services"	28	3482.5	72611
+"All Counties"	"General Services Admin"	1	0	9020
+"All Counties"	"Health Svcs-Environ Hlth"	100	1383	81817.5
+"All Counties"	"Health Svcs-Public Health"	409	237	45333
+"All Counties"	"Health Svcs Consv/Guard"	24	191.5	48049
+"All Counties"	"Hlth Svcs-Calif Child Svcs"	66	75.5	51271.5
+"All Counties"	"Hlth Svcs-Detentn Inmates"	115	2297	64347
+"All Counties"	"Hlth Svcs-Hospital Entrprs"	2944	1025	48823.5
+"All Counties"	"Hlth Svcs Homeless Program"	10	322	35437.5
+"All Counties"	"Hlth Svcs Mentl Hlth"	516	433	49317.5
+"All Counties"	"Human Resources"	44	290	43956.5
+"All Counties"	"Information Technology"	59	233.5	67604
+"All Counties"	"ISF Fleet Services"	19	1399.5	49624
+"All Counties"	"Law & Justice Systems Dev"	2	0	76530
+"All Counties"	"Library-Admin & Supp Svcs"	126	180	27710.5
+"All Counties"	"Library-Community Svcs"	325	261	8259
+"All Counties"	"Long Term Disablty Ins Tr"	12	0	22102.5
+"All Counties"	"Npp"	2	0	63989.5
+"All Counties"	"Personnel Merit Board"	5	0	450
+"All Counties"	"Print & Mail Svcs"	21	804	35439
+"All Counties"	"Prisoners Welfare"	9	0	18367
+"All Counties"	"Probation Facilities"	214	5776	53978
+"All Counties"	"Probation Programs"	191	1159	68502
+"All Counties"	"Public Administrator"	2	0	73823
+"All Counties"	"Public Defender"	126	773	61660.5
+"All Counties"	"Public Works"	265	860	54918
+"All Counties"	"Purchasing"	6	0	67848
+"All Counties"	"Recorder"	41	90.5	40702
+"All Counties"	"Recorder Micro/Modernzatn"	10	18	42004
+"All Counties"	"Retirement Payroll"	58	463	51873.5
+"All Counties"	"Risk Management"	31	0	59879
+"All Counties"	"Serv Area Em-1 Zone B"	8	0	80479
+"All Counties"	"Sheriff"	473	9760.5	81460
+"All Counties"	"Sheriff Coroner"	8	15665	100570
+"All Counties"	"Sheriff Detention"	408	10722	75644
+"All Counties"	"Sheriff Law Enforce Trng Centr"	38	835.5	4578.5
+"All Counties"	"Sheriff Pol Area 5 Rnd Hill"	2	54534	142880.5
+"All Counties"	"Sheriff Police Services"	216	8817	90015
+"All Counties"	"Sheriff Serv Area P-2 Zone A"	2	36138	131229.5
+"All Counties"	"Sheriff Serv Area P-2 Zone B"	1	6226	92547
+"All Counties"	"Telecommunications"	22	11690	76252
+"All Counties"	"Treasurer-Tax Collector"	31	198	50466
+"All Counties"	"Trial Court Programs"	4	0	10458.5
+"All Counties"	"Veterans Service Office"	9	48	40147
+"All Counties"	"Zero Tolerance-Dom Violence"	1	0	74700
+"All Counties"	"Administration"	9	0	37302
+"All Counties"	"Agriculture"	5	0	39781
+"All Counties"	"Animal Control"	1	1509	23034
+"All Counties"	"Assessor"	8	0	45441.5
+"All Counties"	"Auditor"	7	0	49097
+"All Counties"	"Bar-O"	13	1702	36597
+"All Counties"	"Board of Supervisors"	5	0	37262
+"All Counties"	"Boating"	2	935.5	35985.5
+"All Counties"	"Building Inspection"	2	0	46124.5
+"All Counties"	"Building Maintenance"	13	0	25935
+"All Counties"	"Chat"	1	0	33907
+"All Counties"	"Child Support Services"	22	0	30048.5
+"All Counties"	"Clerk Recorder"	4	26.5	31911
+"All Counties"	"Community Development"	6	0	32506.5
+"All Counties"	"Coroner"	1	0	41216
+"All Counties"	"County Counsel"	3	0	64683
+"All Counties"	"District Attorney"	13	0	36173
+"All Counties"	"Drug and Alcohol"	9	0	22174
+"All Counties"	"Education Culture"	1	0	15742
+"All Counties"	"Elections"	1	0	11673
+"All Counties"	"Engineering"	3	0	43274
+"All Counties"	"Environmental Health"	2	0	55562.5
+"All Counties"	"Health"	13	0	32277
+"All Counties"	"Information Technology"	8	0	51905.5
+"All Counties"	"Jail"	29	1229	36335
+"All Counties"	"Juvenile Hall"	15	3882	33925
+"All Counties"	"Mental Health"	9	0	31804
+"All Counties"	"Mental Health-LPS"	2	8.5	18493.5
+"All Counties"	"Mental Health Services Act"	20	0	36272.5
+"All Counties"	"OES"	1	2490	54029
+"All Counties"	"Parks"	1	0	25935
+"All Counties"	"Planning"	1	0	51351
+"All Counties"	"Probation"	23	501	38722
+"All Counties"	"Public Nuisance"	1	0	45438
+"All Counties"	"Recreation"	1	0	40235
+"All Counties"	"Roads"	17	335	37440
+"All Counties"	"Sheriff"	32	2922	50416
+"All Counties"	"Treasurer"	4	0	55124.5
+"All Counties"	"TUPP"	3	0	23753
+"All Counties"	"Veterans Services"	2	0	28556
+"All Counties"	"Victim Witness"	1	0	50096
+"All Counties"	"Welfare Admin"	107	0	34757
+"All Counties"	"Agriculture"	16	0	48709.5
+"All Counties"	"Air Quality Management"	7	563	59682
+"All Counties"	"Assessor"	39	0	49549
+"All Counties"	"Auditor Controller"	27	0	52876
+"All Counties"	"Board of Supervisors"	18	0	51584.5
+"All Counties"	"Chief Administration"	80	0	40839
+"All Counties"	"Child Support Services"	69	77	40362
+"All Counties"	"Community Development Agency - Development Services"	99	139	53320
+"All Counties"	"Community Development Agency - Environmental Management"	38	87.5	42562
+"All Counties"	"Community Development Agency - Transportation"	187	1193	50907
+"All Counties"	"County Counsel"	22	0	61315.5
+"All Counties"	"District Attorney"	75	0	59118
+"All Counties"	"Health And Human Services"	62	279.5	54524
+"All Counties"	"Health And Human Services - Community Services"	106	0	28907.5
+"All Counties"	"Health And Human Services - Mental Health"	139	0	20846
+"All Counties"	"Health And Human Services - Public Health"	89	0	40618
+"All Counties"	"Health And Human Services - Social Services"	281	1004	31717
+"All Counties"	"Human Resources"	17	0	47978
+"All Counties"	"Information Technologies"	43	18	73016
+"All Counties"	"Library"	82	0	10051
+"All Counties"	"Probation"	157	643	46821
+"All Counties"	"Public Defender"	26	0	96335
+"All Counties"	"Recorder Clerk"	22	0	29653
+"All Counties"	"Recorder Clerk Elections"	28	0	1565
+"All Counties"	"Sheriffs Department"	428	2213	57981
+"All Counties"	"Surveyor"	12	0	80098
+"All Counties"	"Treasurer Tax Collector"	28	0	41225.5
+"All Counties"	"Veterans Services"	6	7	29364
+"All Counties"	"Water Agency"	5	23	78044
+"All Counties"	"Assessor-Recorder"	118	0	46254
+"All Counties"	"Auditor-Controller/Treasurer-Tax Collector"	104	0	39271
+"All Counties"	"Behavioral Health"	504	0	45942
+"All Counties"	"Board of Supervisors"	22	0	49612
+"All Counties"	"Cooperative Extension"	3	0	25868
+"All Counties"	"Coroner-Public Administration/Guardian"	21	0	46696
+"All Counties"	"County Administrative Office"	13	0	67522
+"All Counties"	"County Clerk - Elections"	95	285	2343
+"All Counties"	"County Counsel"	34	0	66877.5
+"All Counties"	"Department of Agriculture"	143	185	34601
+"All Counties"	"Department of Personnel Services"	28	0	44486
+"All Counties"	"Department of Public Health"	542	0	44894
+"All Counties"	"Department of Social Services"	2371	330	41103
+"All Counties"	"Dept of Child Support Services"	215	11	43012
+"All Counties"	"District Attorney"	307	0	47454
+"All Counties"	"IHSS - Public Authority"	7	0	33342
+"All Counties"	"Internal Services Department"	107	13	72670
+"All Counties"	"Internal Services Department-Radio Operations"	4	7146	63899.5
+"All Counties"	"Internal Services Department -  Facility Services"	112	241	29422.5
+"All Counties"	"Internal Services Department -  Fleet Services"	35	0	40267
+"All Counties"	"Internal Services Department -  Graphic Comm Service"	17	0	30089
+"All Counties"	"Internal Services Department -  Purchasing"	14	0	37402.5
+"All Counties"	"Internal Services Department - Telecommunications"	4	80	42209.5
+"All Counties"	"LAFCO Support"	2	0	50726
+"All Counties"	"Library"	1	0	121960
+"All Counties"	"Library Measure B"	310	0	30785.5
+"All Counties"	"PeopleSoft Operations"	2	5320	71957.5
+"All Counties"	"Personnel Services-Risk Management"	32	0	46393
+"All Counties"	"Planning-Parks and Grounds"	61	108	8249
+"All Counties"	"Probation"	278	616.5	47622.5
+"All Counties"	"Probation-Juvenile Justice Campus"	319	5134	54961
+"All Counties"	"Public Defender"	97	0	63902
+"All Counties"	"Public Works & Planning- Roads"	212	0	46117.5
+"All Counties"	"Public Works and Planning"	78	0	56706
+"All Counties"	"Public Works and Planning-American Ave Disposal"	30	1444	29593
+"All Counties"	"Public Works and Planning-Community Development"	13	0	64740
+"All Counties"	"Public Works And Planning-Neighborhood Stabilization Program"	2	0	26205
+"All Counties"	"Public Works and Planning-Resources"	20	0	60738
+"All Counties"	"Public Worls And Planning-Special Districts Administration"	19	45	54063
+"All Counties"	"Retirement Association"	29	0	40792
+"All Counties"	"Security Services"	75	238	25669
+"All Counties"	"Sheriff"	1133	6749	68965
+"All Counties"	"Veterans' Service Officer"	5	0	38584
+"All Counties"	"Agriculture Department"	13	0	54528
+"All Counties"	"Air Pollution Control"	6	0	47776.5
+"All Counties"	"Airport"	1	0	42078
+"All Counties"	"Alcohol And Drug Abuse Services"	9	0	41908
+"All Counties"	"Animal Control"	3	3329	46550
+"All Counties"	"Assessor"	9	0	52157
+"All Counties"	"Board of Supervisors"	5	0	31803
+"All Counties"	"Building Inspector"	2	0	23729
+"All Counties"	"California Children's Services"	1	35	48587
+"All Counties"	"Child Support Services"	9	480	37659
+"All Counties"	"Civil Division"	1	12754	59899
+"All Counties"	"Clerk of the Board"	3	0	50775
+"All Counties"	"Community Service Action"	32	0	34174.5
+"All Counties"	"Cooperative Extension"	7	0	1531
+"All Counties"	"Cops In Schools Grant"	1	10239	72489
+"All Counties"	"Cops Universal Hiring Grant"	3	16993	79235
+"All Counties"	"County Counsel"	2	0	73286
+"All Counties"	"Delinquency Prevention"	1	0	12578
+"All Counties"	"Department of Finance"	9	0	44349
+"All Counties"	"Dispatch"	11	223	6381
+"All Counties"	"District Attorney"	10	0	31732
+"All Counties"	"District Attorney-Vertical Prosecution"	2	0	10963.5
+"All Counties"	"Elections"	27	0	120
+"All Counties"	"Facilities"	11	0	35840
+"All Counties"	"Fleet Operations"	4	0	43845
+"All Counties"	"Health And Human Services Administration"	4	0	102323
+"All Counties"	"Health Services"	9	0	55792
+"All Counties"	"Human Resource Agency"	23	0	31787
+"All Counties"	"Jail"	29	4666	40431
+"All Counties"	"JJCPA Grant"	1	0	49607
+"All Counties"	"Juvenile Hall"	16	6105.5	38707.5
+"All Counties"	"Juvenile Probation And Camps Funding"	1	11897	66809
+"All Counties"	"Local Community Corrections"	6	2974	59041.5
+"All Counties"	"Mental Health"	53	120	35859
+"All Counties"	"Partnership Grant"	1	0	1293
+"All Counties"	"Personnel"	3	0	51476
+"All Counties"	"Planning Department"	4	0	52039.5
+"All Counties"	"Probation"	5	0	57783
+"All Counties"	"Public Guardian"	2	0	56951.5
+"All Counties"	"Public Health"	18	0	55141
+"All Counties"	"Public Works"	13	0	34063
+"All Counties"	"Recorder"	3	0	54600
+"All Counties"	"Road Department"	21	238	38834
+"All Counties"	"Road Engineers"	2	0	52723
+"All Counties"	"Road Shop"	4	2075.5	44851
+"All Counties"	"Sb678 Community Performance Incentive"	2	0	35642
+"All Counties"	"Sheriff"	25	1794	70844
+"All Counties"	"Slesf"	1	0	13055
+"All Counties"	"Social Services"	78	0	38549.5
+"All Counties"	"Solid Waste"	7	452	41303
+"All Counties"	"Special Investigations Tament Grant"	2	5616	47622.5
+"All Counties"	"Trial Court Security"	5	155	19855
+"All Counties"	"Veteran's Services Department"	1	0	37706
+"All Counties"	"Women, Infants And Children"	5	0	49587
+"All Counties"	"Youth Offender Intensive Supervision Program"	2	0	47018.5
+"All Counties"	"Administration"	48	0	50342.5
+"All Counties"	"Advanced Planning Department"	5	0	68897
+"All Counties"	"Agricultural Commissioner"	9	0	53030
+"All Counties"	"Airport Security"	11	0	24190
+"All Counties"	"Alcohol & Drug"	16	0	31615.5
+"All Counties"	"Alternate Counsel"	4	0	37261.5
+"All Counties"	"Animal Control"	12	186.5	26826.5
+"All Counties"	"Arcata-Eureka Airport"	17	640	44112
+"All Counties"	"Assessor"	28	0	37211.5
+"All Counties"	"Auditor-Controller"	15	0	43015
+"All Counties"	"Board of Supervisors"	11	0	72384
+"All Counties"	"Building Inspector"	12	0	51161.5
+"All Counties"	"Cal-Met Coastal Initiative"	1	12448	111903
+"All Counties"	"Cods Natural Resources Planning"	5	0	45169
+"All Counties"	"Communications"	2	0	16088.5
+"All Counties"	"Conflict Counsel"	9	0	57704
+"All Counties"	"Cooperative Extension"	5	0	4070
+"All Counties"	"Coroner - Public administrator"	6	6169	61670
+"All Counties"	"Correctional Facility Realign"	3	5851	43714
+"All Counties"	"County Administrative Officer"	5	0	101311
+"All Counties"	"County Counsel"	19	0	81238
+"All Counties"	"County Library"	77	0	6324
+"All Counties"	"County Surveyor"	1	0	84973
+"All Counties"	"Court Security"	15	325	24565
+"All Counties"	"Current Planning Department"	16	0	52950.5
+"All Counties"	"DA-Child Abuse Service Team"	3	0	15462
+"All Counties"	"Dept Of Child Support Services"	49	0	44175
+"All Counties"	"District Attorney"	47	0	39928
+"All Counties"	"Drug Court"	2	0	34647.5
+"All Counties"	"Early Childhood Care & Educati"	2	0	16225
+"All Counties"	"Economic Development Division"	9	0	36791
+"All Counties"	"Elections"	18	0	4696.5
+"All Counties"	"End Staff"	26	0	40053
+"All Counties"	"Environment Health"	32	0	43437.5
+"All Counties"	"Facility Management"	41	0	33703
+"All Counties"	"Hcaog"	6	0	69375.5
+"All Counties"	"Headwaters Division"	1	0	70269
+"All Counties"	"Health Education"	33	0	42398
+"All Counties"	"Healthy Moms"	12	0	37706
+"All Counties"	"Information Technology"	19	0	54736
+"All Counties"	"Juv Crime Prevention Act 2000"	2	0	53690
+"All Counties"	"Juvenile Hall"	34	443	32993
+"All Counties"	"Law Library"	5	0	3990
+"All Counties"	"Mach/Ccs Personnel Program"	25	0	44909
+"All Counties"	"Marijuana Eradication"	2	26223	94824
+"All Counties"	"Mental Health"	328	0	40193
+"All Counties"	"Motor Pool-Operating"	7	0	38322
+"All Counties"	"Office Of Emergency Services"	1	1898	52323
+"All Counties"	"Parks & Recreation"	12	65	9592.5
+"All Counties"	"Personnel"	7	0	68768
+"All Counties"	"Probation"	57	0	51781
+"All Counties"	"Proposition 10"	3	0	46820
+"All Counties"	"Public Defender"	18	0	54227
+"All Counties"	"Public Guardian - Conservator"	8	0	49111.5
+"All Counties"	"Public Health Administration"	40	0	39650
+"All Counties"	"Public Health Field Nursing"	66	0	48252
+"All Counties"	"Public Health Laboratory"	11	0	20763
+"All Counties"	"Public Safety Realignment"	11	0	51967
+"All Counties"	"Public Works - Land Use"	4	0	80990
+"All Counties"	"Purchasing Agent"	4	0	39038
+"All Counties"	"Recorder"	13	0	31691
+"All Counties"	"Regional Facility"	18	767	40611.5
+"All Counties"	"Revenue Recovery"	10	0	38366
+"All Counties"	"Risk Management"	6	0	20072.5
+"All Counties"	"Roads-Administration/Business"	11	0	39486
+"All Counties"	"Roads-Construction & Maint"	75	441	42126
+"All Counties"	"Roads-Engineering"	13	277	69684
+"All Counties"	"Roads-Equipment Maintenance"	13	502	42161
+"All Counties"	"Roads-Natural Resources"	3	0	66568
+"All Counties"	"Roads-Right Of Way"	9	0	36585
+"All Counties"	"Sheriff"	110	7212.5	68529
+"All Counties"	"Sheriff-Boat Safety Program"	1	17103	77321
+"All Counties"	"Sheriff - Jail"	114	10221.5	54552.5
+"All Counties"	"Social Services"	530	0	36199.5
+"All Counties"	"State Board Of Control"	2	0	33947
+"All Counties"	"Title Iv-E Waiver & Resolution"	2	340	65631.5
+"All Counties"	"Treasurer-Tax Collector"	11	0	33223
+"All Counties"	"Veterans Service Officer"	4	0	28203.5
+"All Counties"	"Victim-Witness Program"	3	0	40718
+"All Counties"	"Victim Advocacy & Outreach"	2	0	14007.5
+"All Counties"	"Water Management"	1	0	43284
+"All Counties"	"Wick Nutrition"	21	0	15205
+"All Counties"	"Ab1913-Probation"	4	5198.5	68392.5
+"All Counties"	"Agriculture Commissioner"	39	808.5	45852
+"All Counties"	"Air Pollution Control"	19	563.5	53302
+"All Counties"	"Airport-Imperial"	3	0	42910
+"All Counties"	"Animal Control"	7	51	41485
+"All Counties"	"Area Agency On Aging"	2	0	47016.5
+"All Counties"	"Assessor"	29	5	50300
+"All Counties"	"Auditor-Social Services Sect"	1	0	36435
+"All Counties"	"Auditors"	18	0	40046
+"All Counties"	"Behavioral Health"	241	513	35235
+"All Counties"	"Betty Jo Receiving Home"	15	1239.5	33562
+"All Counties"	"Board Of Supervisors"	5	0	58946
+"All Counties"	"Budget & Fiscal"	5	82	63871
+"All Counties"	"California Children Services"	9	0	39053
+"All Counties"	"Child Support Services"	61	29	39509
+"All Counties"	"Clerk Of The Board"	3	73.5	31676
+"All Counties"	"Cooperative Extension"	5	0	28983
+"All Counties"	"County Counsel"	13	55	54140
+"All Counties"	"County Property Services"	45	524	38707
+"All Counties"	"Court Security"	12	3574.5	54734.5
+"All Counties"	"Da I.V.S.I.T."	3	11021	77814
+"All Counties"	"District Attorney"	49	1114	51032
+"All Counties"	"Employee Retirement"	10	147	38847
+"All Counties"	"Equal Employment Opportunity"	1	0	72218
+"All Counties"	"Executive Office"	9	53	59358
+"All Counties"	"Fire Protection"	71	3150	39895
+"All Counties"	"Fire Protection-Impcity"	6	7135	60366.5
+"All Counties"	"Garage Operating Fund"	7	94	35218
+"All Counties"	"Glamis Dune"	2	23424.5	103388.5
+"All Counties"	"Health Services"	63	66.5	48852
+"All Counties"	"Hidta-Coalition Mmt"	2	12632	90223
+"All Counties"	"Hidta-Lecc"	2	2997	45611.5
+"All Counties"	"Hidta District Attorney"	7	715	48625
+"All Counties"	"Hidta Grant-Coalition"	2	11145.5	71838.5
+"All Counties"	"Holtville Law Enforcement"	6	9354	73829
+"All Counties"	"Human Resources & Risk Mngmnt"	18	29	53769.5
+"All Counties"	"Ihss Public Authority"	3	129	36290
+"All Counties"	"Imp Cnty Community Econ Develp"	6	0	46785.5
+"All Counties"	"Information Systems"	19	242	62247
+"All Counties"	"Juvenile Hall"	36	1870	38349
+"All Counties"	"Library"	10	5.5	20169.5
+"All Counties"	"Mhsa Act Prop #63"	52	739	38111.5
+"All Counties"	"MHSA P.E.I."	6	168.5	40372.5
+"All Counties"	"Mosquito Abatement"	5	311	44386
+"All Counties"	"Office Of Emergency Services"	2	7	49913.5
+"All Counties"	"Parks & Recreations"	6	1849	37992.5
+"All Counties"	"Planning Bulding Inspection"	12	736.5	45392
+"All Counties"	"Planning Commission"	2	0	1125
+"All Counties"	"Planning Department"	15	413	48467
+"All Counties"	"Probation And Corrections"	61	3679.5	55536
+"All Counties"	"Probation Ivsit"	2	16230.5	77991
+"All Counties"	"Public Administrator"	9	4	45829
+"All Counties"	"Public Defender"	22	142.5	65949
+"All Counties"	"Public Health Environmental Sv"	12	216	60991
+"All Counties"	"Public Wks Road Const & Maint"	76	653	42776.5
+"All Counties"	"Public Works Engineering & Sur"	3	195	57650
+"All Counties"	"Public Works Solid Waste Disp"	10	5704	39110
+"All Counties"	"Purchasing"	4	13	42304.5
+"All Counties"	"Recorder & County Clerk"	12	8	30388
+"All Counties"	"Registrar Of Voters/Elections"	17	125	7612
+"All Counties"	"Sheriff-Boat & Waterway"	1	3142	61499
+"All Counties"	"Sheriff-Coroner"	122	7511.5	62063
+"All Counties"	"Sheriff Corrections Div"	120	8960	56761.5
+"All Counties"	"Sheriff Process Fee"	1	0	10402
+"All Counties"	"Social Services"	409	667.5	44143
+"All Counties"	"Special Prosecutions Unit"	2	29961	67752.5
+"All Counties"	"Substance Abuse"	15	41	41697
+"All Counties"	"Tax Collector"	4	0	39641
+"All Counties"	"Tobacco Education"	2	0	59298
+"All Counties"	"Treasurer"	13	0	35980
+"All Counties"	"Veterans Services"	3	0	33675
+"All Counties"	"Victim Witness Asst Program"	3	0	39063
+"All Counties"	"Wia Funds-Oat"	36	40	42639
+"All Counties"	"Agricultural Commissioner"	8	0	33257.5
+"All Counties"	"Airport-eastern Sierra Regional"	4	534	46702
+"All Counties"	"Animal Control"	7	2829	51880
+"All Counties"	"Assessor"	8	0	53208.5
+"All Counties"	"Auditor/Controller"	8	0	29973
+"All Counties"	"Board Of Supervisors"	8	0	51112
+"All Counties"	"Building & Safety"	2	518	63863.5
+"All Counties"	"Child Support"	12	0	43833.5
+"All Counties"	"Cnty Admin Office"	4	0	75523.5
+"All Counties"	"Coroner"	4	0	14362
+"All Counties"	"County Clerk"	4	0	56425
+"All Counties"	"County Counsel"	5	0	63996
+"All Counties"	"Crippled Children"	1	0	92808
+"All Counties"	"District Attorney"	18	0	47953
+"All Counties"	"Elections"	1	0	242
+"All Counties"	"Environmental Health"	6	0	69382
+"All Counties"	"Farm Advisor"	1	0	54574
+"All Counties"	"Health"	18	0	47167
+"All Counties"	"Information Services"	10	136.5	64027.5
+"All Counties"	"Jail"	49	3771	59652
+"All Counties"	"Juvenile Institutions"	26	2010	46370.5
+"All Counties"	"Library"	24	0	5985
+"All Counties"	"Maintenance/building & Grounds"	8	0	39337
+"All Counties"	"Mental Health"	40	253.5	45794.5
+"All Counties"	"Mosquito Control"	4	540	44851.5
+"All Counties"	"Museum"	3	0	47322
+"All Counties"	"Parks"	8	14	43780
+"All Counties"	"Personnel"	3	1020	65215
+"All Counties"	"Planning & Zoning"	6	0	57055.5
+"All Counties"	"Probation"	15	0	62768
+"All Counties"	"Public Administrator/Guardian"	2	0	57712
+"All Counties"	"Public Works"	12	0	64481.5
+"All Counties"	"Risk Management"	1	0	85067
+"All Counties"	"Road"	37	1707	52665
+"All Counties"	"Sheriff"	40	1905.5	62157
+"All Counties"	"Social Services"	58	0	35674
+"All Counties"	"Solid Waste"	14	268.5	49628
+"All Counties"	"Substance Abuse"	9	62	39879
+"All Counties"	"Treasurer/Tax Collector"	4	0	59325
+"All Counties"	"Veteran Service Office"	1	2484	50736
+"All Counties"	"Water"	25	0	10008
+"All Counties"	"Aging And Adult Services"	183	213.5	19657
+"All Counties"	"Agriculture and Measurement Standards"	95	551	35392
+"All Counties"	"Airports"	30	1089	34334
+"All Counties"	"Animal Control"	87	1740.5	30838
+"All Counties"	"Assessor"	110	430.5	51710
+"All Counties"	"Auditor-Controller"	54	591	56928
+"All Counties"	"Board Of Supervisors-District 1"	11	0	21986
+"All Counties"	"Board Of Supervisors-District 2"	6	0	43693
+"All Counties"	"Board Of Supervisors-District 3"	5	0	39188
+"All Counties"	"Board Of Supervisors-District 4"	7	0	37018
+"All Counties"	"Board Of Supervisors-District 5"	12	0	7534.5
+"All Counties"	"Board Of Trade"	16	0	225
+"All Counties"	"Building Inspection"	38	412.5	52720.5
+"All Counties"	"California Childrens Services"	61	0	48753
+"All Counties"	"Child Support Services"	217	98	47581
+"All Counties"	"Clerk Of the Board Of Supervisors"	7	0	49181
+"All Counties"	"Code Compliance CE"	14	919	49345
+"All Counties"	"Community and Economic Development"	10	0	57738
+"All Counties"	"Construction Services"	23	2812.5	69135
+"All Counties"	"Correctional Medicine"	91	12435	91772
+"All Counties"	"County Administrative Officer"	25	240	62813
+"All Counties"	"County Clerk"	6	47	29433.5
+"All Counties"	"County Clerk Elections"	16	342.5	45504
+"All Counties"	"County Counsel"	49	2	95320
+"All Counties"	"Development Services Agency"	13	708.5	65054
+"All Counties"	"District Attorney"	232	565.5	59324
+"All Counties"	"District Attorney Forensic Division"	51	306.5	50675
+"All Counties"	"Emergency Medical Service"	8	46	60870.5
+"All Counties"	"Employers' Training Resource"	126	174	39815.5
+"All Counties"	"Engineering, Survey, and Permit Services"	37	107	56783
+"All Counties"	"Environmental Health"	65	1918	53305
+"All Counties"	"Farm And Home Advisor"	4	0	41203.5
+"All Counties"	"Fire"	735	24296.5	100286
+"All Counties"	"Garage"	23	1079.5	46998
+"All Counties"	"General Services"	119	363	40667
+"All Counties"	"Grand Jury"	1	0	47194
+"All Counties"	"Human Services"	1781	1209	40292
+"All Counties"	"Information Technology Services"	55	1251.5	78996
+"All Counties"	"KCERA"	1	0	1900
+"All Counties"	"Kern Council of Governments"	1	0	225
+"All Counties"	"Kern Medical Center"	1947	1114.5	43663
+"All Counties"	"Kern Sanitation Authority"	16	1079.5	59111
+"All Counties"	"Library"	208	871	7800
+"All Counties"	"Mental Health Services"	540	918	49184.5
+"All Counties"	"Parks & Recreation"	116	385	35947
+"All Counties"	"Personnel"	28	1	52726
+"All Counties"	"Planning & Community Development"	44	832.5	50083
+"All Counties"	"Probation"	686	2967	53277.5
+"All Counties"	"Public Defender"	112	0	70115
+"All Counties"	"Public Health"	277	241	43782
+"All Counties"	"Public Transit"	5	182.5	45696
+"All Counties"	"Recorder"	32	5	32284
+"All Counties"	"Risk Management"	37	251	49431
+"All Counties"	"Roads"	208	649.5	50341
+"All Counties"	"Sheriff"	1341	8524	69981
+"All Counties"	"Solid Waste"	148	453	49281
+"All Counties"	"Substance Abuse Program"	49	129	36214
+"All Counties"	"Treasurer-Tax Collector"	40	286	37675
+"All Counties"	"Veterans Services"	12	0	45420
+"All Counties"	"Admin - Minors Advocacy"	6	0	35986
+"All Counties"	"Administration"	7	0	66419
+"All Counties"	"Agr. Commissioner/Sealer"	29	0	43588
+"All Counties"	"Agriculture - Extension Svc"	3	0	26422
+"All Counties"	"Assessor"	27	0	46367
+"All Counties"	"Behavioral Health Admin"	7	0	43588
+"All Counties"	"BHA - AOD Program Admin"	2	122.5	61667
+"All Counties"	"BHA - MH Services Act"	21	0	40872
+"All Counties"	"Board Of Supervisors"	7	0	64547
+"All Counties"	"CDA - Building Inspection"	4	0	55105.5
+"All Counties"	"Community Development Agency"	11	0	44967
+"All Counties"	"County Clerk - Elections"	8	0	26932.5
+"All Counties"	"County Counsel"	12	0	45217.5
+"All Counties"	"D.A. - AB 109"	1	0	26371
+"All Counties"	"D.A. - Child Abduction"	2	4548.5	58681
+"All Counties"	"D.A. - Misc. Grants"	3	4687	74697
+"All Counties"	"D.A. - State Prisons"	8	216	72857.5
+"All Counties"	"DA - Domestic Violence VAWA"	3	0	72142
+"All Counties"	"Department of Finance"	18	0	58844
+"All Counties"	"Dept. of Child Support Services"	58	167	38743
+"All Counties"	"District Attorney"	47	0	42193
+"All Counties"	"Fire"	75	10181	74680
+"All Counties"	"Fire- Office of Emergency Mgmt."	1	0	46254
+"All Counties"	"Health"	1	57	32548
+"All Counties"	"Health- Information Management"	13	33	29991
+"All Counties"	"Health - Administration"	14	0	43152.5
+"All Counties"	"Health - AIDS Program"	3	61	50234
+"All Counties"	"Health - Bio Terrorism"	3	0	15917
+"All Counties"	"Health - Calif Child Services"	7	0	34048
+"All Counties"	"Health - CD Clinic"	6	0	41889.5
+"All Counties"	"Health - Child Health"	7	0	55057
+"All Counties"	"Health - Environmental Health"	11	32	67653
+"All Counties"	"Health - Family Planning"	11	0	50944
+"All Counties"	"Health - Grants"	3	0	50753
+"All Counties"	"Health - Lab"	3	32	76030
+"All Counties"	"Health - MCH"	2	145.5	56888
+"All Counties"	"Health - PHN"	4	0	72637.5
+"All Counties"	"Health - TB Program"	1	0	50173
+"All Counties"	"Health - Tobacco Grants"	2	1307	56016
+"All Counties"	"Health - WIC Program"	23	0	34946
+"All Counties"	"Human Resources"	8	0	49665
+"All Counties"	"Human Services"	314	543	39547.5
+"All Counties"	"Information Technology"	32	703	66990
+"All Counties"	"IT - Central Services"	4	232.5	35949.5
+"All Counties"	"IT - Internal Services Admin"	4	14	52562
+"All Counties"	"IT - Purchasing"	2	0	55721
+"All Counties"	"IT - Record Storage/Microfilm"	6	130.5	32781.5
+"All Counties"	"JTO Program Admin"	25	0	42178
+"All Counties"	"Law Library"	1	8	31524
+"All Counties"	"Library"	31	0	23248
+"All Counties"	"Probation"	53	113	50309
+"All Counties"	"Probation - Juvenile Center"	52	1633.5	42209.5
+"All Counties"	"Probation - Misc. Grants"	5	410	56049
+"All Counties"	"Probation - Sb-678"	3	103	27233
+"All Counties"	"Probation - Victim Assistant VAW"	1	0	10943
+"All Counties"	"Probation - Victim/Witness"	3	0	31626
+"All Counties"	"Probation - Yobg"	4	1273	52382.5
+"All Counties"	"Probation Ab-109"	28	58.5	31438
+"All Counties"	"Public Guardian/Veterans Svc"	18	0	23631.5
+"All Counties"	"Public Works-Engineering/Roads"	23	147	40865
+"All Counties"	"Public Works-Parks & Grounds"	14	523.5	29435.5
+"All Counties"	"Public Works - Administration"	4	0	52315.5
+"All Counties"	"Public Works - Building Maintenance"	32	114	36657
+"All Counties"	"Public Works - Fleet Mgmt. ISF"	8	51.5	38887.5
+"All Counties"	"Public Works - Surveyor"	5	0	62726
+"All Counties"	"Recorder"	8	0	27281
+"All Counties"	"Sheriff-Court Security Svcs."	11	0	55049
+"All Counties"	"Sheriff - AB-109"	53	2642	31669
+"All Counties"	"Sheriff - Administration"	20	1174.5	34057
+"All Counties"	"Sheriff - Animal Svcs. Shelter"	9	49	30519
+"All Counties"	"Sheriff - Field Operations"	72	4893	61886.5
+"All Counties"	"Sheriff - Jail"	101	5418	50189
+"All Counties"	"Sheriff - Jail Kitchen"	9	2546	41761
+"All Counties"	"Sheriff - Narcotics Task Force"	1	25	35136
+"All Counties"	"Sheriff - Operation AB443"	6	15972	79999.5
+"All Counties"	"Sheriff - Radio Communications"	16	7101.5	58171
+"All Counties"	"Sheriff - Rural Crime T.F."	3	6004	68391
+"All Counties"	"Sheriff -Animal Services Field"	2	8554	49811
+"All Counties"	"Administrative Office"	9	0	40069
+"All Counties"	"Agricultural Commissioner"	12	0	11434
+"All Counties"	"Air Quality Mgmt. Dist"	9	0	26636
+"All Counties"	"Alcohol & Other Drugs Ser"	26	0	21126.5
+"All Counties"	"Animal Care And Control"	25	0	8500
+"All Counties"	"Assessor"	18	0	28848
+"All Counties"	"Auditor-Controller"	12	0	33020
+"All Counties"	"Board Of Supervisors"	5	0	59157
+"All Counties"	"Building And Safety"	9	0	28280
+"All Counties"	"Buildings And Grounds"	19	64	14540
+"All Counties"	"Child Support Services"	36	11	30351
+"All Counties"	"Clerk To Board Of Supervisor"	1	0	41483
+"All Counties"	"County Counsel"	8	0	56896
+"All Counties"	"County Museum"	8	0	7868.5
+"All Counties"	"Da/Victim-Witness Assist"	6	0	38620.5
+"All Counties"	"Dept. Of Public Works"	7	0	35897
+"All Counties"	"District Attorney"	36	0	61848.5
+"All Counties"	"Economic Development Prog"	2	0	19139.5
+"All Counties"	"Elections"	10	0	1545
+"All Counties"	"Engineering & Inspection"	15	0	39390
+"All Counties"	"Environmental Health"	15	0	35778
+"All Counties"	"Flood/Lake Mgmt. Program"	6	0	51405.5
+"All Counties"	"Health Services Admin"	9	0	42284
+"All Counties"	"Human Resources"	9	0	33823
+"All Counties"	"Information Technology"	13	0	51191
+"All Counties"	"Integrated Waste Mgmt."	15	16	33254
+"All Counties"	"Isf-Fleet Maintenance"	6	0	33902
+"All Counties"	"Jail Facilities"	78	3999	48682
+"All Counties"	"Juvenile Home"	22	1499.5	31216.5
+"All Counties"	"Lampson Operation"	1	0	7964
+"All Counties"	"Law Library Trust"	3	0	1027
+"All Counties"	"Library - General"	20	0	19771.5
+"All Counties"	"Marine Patrol"	6	2031	22678.5
+"All Counties"	"Mental Health Admin"	89	0	24795
+"All Counties"	"Office Of Emergency Service"	1	1567	26102
+"All Counties"	"Parks And Recreation"	20	0	25491
+"All Counties"	"Planning Department"	23	0	32009
+"All Counties"	"Probation Officer-Juvenile"	39	143	40463
+"All Counties"	"Public Health"	29	0	27277
+"All Counties"	"Purchasing"	1	0	20546
+"All Counties"	"Recorder"	4	0	32332
+"All Counties"	"Recorder - Micrographics"	2	0	7630
+"All Counties"	"Road Department"	34	219	37050
+"All Counties"	"Section 8 Housing Program"	4	0	26967.5
+"All Counties"	"Sheriff-Bailiffs"	9	0	21573
+"All Counties"	"Sheriff-Central Dispatch"	10	8019.5	48272.5
+"All Counties"	"Sheriff-Coroner"	69	9122	69913
+"All Counties"	"Sheriff/Coroner"	1	0	19026
+"All Counties"	"Social Services Admin"	203	0	33661
+"All Counties"	"Social Services Programs"	3	0	24902
+"All Counties"	"Social Services Special P"	8	0	31912.5
+"All Counties"	"Special Districts Admin"	49	431	40139
+"All Counties"	"Special Projects"	3	0	13636
+"All Counties"	"Treasurer-Tax Collector"	18	0	19768.5
+"All Counties"	"U.C. Cooperative Extension"	5	0	7393
+"All Counties"	"Veteran Services Officer"	3	0	42496
+"All Counties"	"Visitor Center"	6	0	7317
+"All Counties"	"Administration"	5	6913	60825
+"All Counties"	"Agricultural Commissioner"	2	0	56758.5
+"All Counties"	"Assessor"	11	1696	53752
+"All Counties"	"Auditor"	9	0	47376
+"All Counties"	"Child Support Services"	9	0	38141
+"All Counties"	"Children & Family Services"	1	0	97625
+"All Counties"	"Cooperative Extension"	1	0	33994
+"All Counties"	"County Board of Supervisors"	5	0	38761
+"All Counties"	"County Clerk/Recorder"	7	149	44323
+"All Counties"	"County Counsel"	3	0	64431
+"All Counties"	"District Attorney"	10	6724	60282
+"All Counties"	"Economic Development/Housing"	2	0	47985.5
+"All Counties"	"Fair"	2	4388	62030.5
+"All Counties"	"Health and Social Services"	137	320.5	38044
+"All Counties"	"Personnel/Risk Management"	3	0	31404
+"All Counties"	"Planning"	11	0	44978
+"All Counties"	"Probation"	31	3832	44375
+"All Counties"	"Public Defender"	5	0	63003
+"All Counties"	"Public Works"	49	1927	41172
+"All Counties"	"Sheriff"	84	2379.5	42426
+"All Counties"	"Solid Waste"	10	1119	32543.5
+"All Counties"	"Treasurer/Tax Collec tor"	6	0	47528
+"All Counties"	"Affirmative Action Compliance"	2	0	984.5
+"All Counties"	"Agric Comm/Wts & Measures"	386	193	51625
+"All Counties"	"Alternate Public Defender"	297	0	116433
+"All Counties"	"Animal Care And Control"	334	829.5	45542.5
+"All Counties"	"Antelope Valley Rehabilitation Center"	84	505	43938.5
+"All Counties"	"Assessor"	1387	0	54865
+"All Counties"	"Auditor-Controller"	561	0	71141
+"All Counties"	"Beaches & Harbors"	262	140.5	44102
+"All Counties"	"Board Of Supervisors"	588	0	60572.5
+"All Counties"	"Chief Executive Office"	500	0	95432.5
+"All Counties"	"Chief Information Office"	25	0	140074
+"All Counties"	"Child Support Services"	1563	0	52218
+"All Counties"	"Children's Medical Services"	710	0	78128.5
+"All Counties"	"Children & Family Services"	7166	87	65172
+"All Counties"	"Community and Senior Services"	516	0	60196.5
+"All Counties"	"Consumer Affairs"	65	0	49517
+"All Counties"	"County Counsel"	534	0	95431.5
+"All Counties"	"Department of Medical Examiner - Coroner"	226	253.5	56166.5
+"All Counties"	"District Attorney"	2139	0	96588
+"All Counties"	"Fire Department"	4824	22034.5	109821
+"All Counties"	"Grand Jury"	5	0	82559
+"All Counties"	"Health Services"	1334	0	69682.5
+"All Counties"	"Human Resources Dept."	313	0	85207
+"All Counties"	"Internal Services Dept"	1038	380	78967.5
+"All Counties"	"Internal Services Dept."	885	0	76134
+"All Counties"	"Juvenile Court Health Services"	224	346.5	78924
+"All Counties"	"LAC+USC Healthcare Network"	8134	170.5	53395
+"All Counties"	"Mental Health"	4564	0	62312
+"All Counties"	"MetroCare Network"	5375	26	55147
+"All Counties"	"Military & Vets Affairs"	36	0	48275
+"All Counties"	"Museum Of Art"	51	2418	75474
+"All Counties"	"Museum Of Natural History"	19	0	65025
+"All Counties"	"Non-Departmental / Unbudgeted"	16	0	6688
+"All Counties"	"NonCnty - Los Angeles County Employee Retirement Association"	394	0	67098.5
+"All Counties"	"Office of AIDS Programs & Policy"	188	0	63759.5
+"All Counties"	"Office Of Managed Care"	193	0	70870
+"All Counties"	"Parks & Recreation Department"	2546	0	16336.5
+"All Counties"	"Probation Department"	5650	135	64575
+"All Counties"	"Public Defender"	1089	0	109924
+"All Counties"	"Public Health Programs"	2637	0	69452
+"All Counties"	"Public Library"	1640	0	13049.5
+"All Counties"	"Public Social Services Dept"	13699	129	46023
+"All Counties"	"Public Works Department"	3514	196	65141.5
+"All Counties"	"Rancho Los Amigos National Rehabilitation Center"	1510	30.5	52761.5
+"All Counties"	"Regional Planning Department"	182	0	79111.5
+"All Counties"	"Registrar Recorder"	1263	97	37204
+"All Counties"	"Sheriff"	18607	557	82224
+"All Counties"	"Substance Abuse Prevention and  Control"	223	0	62359
+"All Counties"	"Treasurer & Tax Collector"	486	0	47742.5
+"All Counties"	"Valley care Network"	3312	115	49883
+"All Counties"	"Admin"	7	0	54640
+"All Counties"	"Ag. Commission"	6	0	33091.5
+"All Counties"	"Agcom"	17	0	34492
+"All Counties"	"Agext"	1	0	11381
+"All Counties"	"Animal Services"	16	1093	25558.5
+"All Counties"	"Asser"	38	0	33009
+"All Counties"	"Assessor"	1	0	73
+"All Counties"	"Aud/Ll"	3	0	12221
+"All Counties"	"Auditor"	20	0	45858.5
+"All Counties"	"Behavioral Health"	115	0	43628
+"All Counties"	"Board of Supervisor"	20	0	48402
+"All Counties"	"Cao"	1	0	14866
+"All Counties"	"Central Garage"	6	0	43108.5
+"All Counties"	"Central Services"	2	33.5	17315.5
+"All Counties"	"Child Support"	43	0	37002
+"All Counties"	"Cnsv2"	3	0	36206
+"All Counties"	"Coact"	1	0	103618
+"All Counties"	"Corrections"	107	1358	40517
+"All Counties"	"County Clerk"	15	0	34462
+"All Counties"	"County Counsel"	7	0	30430
+"All Counties"	"Courts Admin"	108	0	37464.5
+"All Counties"	"District Attorney"	43	0	45713
+"All Counties"	"Engineer"	60	0	45053.5
+"All Counties"	"Environmental Health"	14	0	39936
+"All Counties"	"Fire"	109	0	765
+"All Counties"	"Frprv"	2	539.5	63214
+"All Counties"	"Health"	112	0	37102
+"All Counties"	"Human Resources"	16	0	28980.5
+"All Counties"	"Information Technology"	21	0	56897
+"All Counties"	"Juvenile Hall"	49	2816	46090
+"All Counties"	"Lafco"	7	0	100
+"All Counties"	"Library"	25	0	11771
+"All Counties"	"Planning"	32	0	37000
+"All Counties"	"Probation"	65	0	49020
+"All Counties"	"Rds-Engr"	1	0	3576
+"All Counties"	"Rma-Gnsv"	2	0	83723.5
+"All Counties"	"Rmaad"	1	0	2942
+"All Counties"	"Roads"	78	0	40450.5
+"All Counties"	"Roads-Shop"	1	0	543
+"All Counties"	"Sheriff"	127	1088	52723
+"All Counties"	"Social Services"	282	0	33457
+"All Counties"	"Tax Collector"	10	0	31859.5
+"All Counties"	"Vtsvc"	1	0	38298
+"All Counties"	"Administrator"	20	85	82562.5
+"All Counties"	"Agricultural Commissioner"	18	0	58527.5
+"All Counties"	"Assessor - Recorder"	72	402	63446
+"All Counties"	"Board of Supervisors"	28	0	71052.5
+"All Counties"	"Child Support Services"	36	1534	57493
+"All Counties"	"Community Development"	87	1323.5	74300
+"All Counties"	"County Counsel"	32	0	67365.5
+"All Counties"	"Cultural Services"	177	0	956
+"All Counties"	"Department of Finance"	75	309	54252
+"All Counties"	"District Attorney"	106	1363.5	58841.5
+"All Counties"	"Elections"	35	525.5	5326
+"All Counties"	"Farm Advisor"	2	0	44829
+"All Counties"	"Fire"	161	10379	49653
+"All Counties"	"Health & Human Services"	760	1239	57071
+"All Counties"	"Human Resources"	40	409	73945
+"All Counties"	"Information Services"	109	924	99496
+"All Counties"	"Library"	237	0	13498
+"All Counties"	"Probation"	137	2627.5	67867
+"All Counties"	"Public Defender"	44	0	93440.5
+"All Counties"	"Public Works"	251	3146	65264
+"All Counties"	"Retirement"	21	41	54291
+"All Counties"	"Sheriff"	330	7796	95629.5
+"All Counties"	"Treasurer - Tax Collector"	1	0	699
+"All Counties"	"Administration"	4	0	64359
+"All Counties"	"Adult Detention Facility"	21	2161	47265
+"All Counties"	"Alcohol/Drug"	2	0	47891.5
+"All Counties"	"Assessor"	11	0	43862
+"All Counties"	"Auditor"	10	0	47034
+"All Counties"	"Behavioral Health"	18	0	34462
+"All Counties"	"Board of Supervisors"	7	0	50522
+"All Counties"	"Boating Safety"	2	4278	55466
+"All Counties"	"Building Department"	6	0	25616.5
+"All Counties"	"Business & Econ Dev"	1	0	36767
+"All Counties"	"Child Support"	8	0	44250
+"All Counties"	"Clerk"	1	0	17905
+"All Counties"	"Community Correct SB678"	1	1665	50643
+"All Counties"	"County Clerk"	1	0	34083
+"All Counties"	"County Counsel"	2	0	92412
+"All Counties"	"Data Processing"	4	120	74212.5
+"All Counties"	"Dept. of Agriculture"	4	0	30425.5
+"All Counties"	"District Attorney"	16	0	35102.5
+"All Counties"	"Elections"	2	0	22319.5
+"All Counties"	"Engineering"	10	0	55185.5
+"All Counties"	"Facilities Maintenance"	22	0	31591
+"All Counties"	"Farm Advisor"	3	0	31002
+"All Counties"	"Fire"	40	0	3124
+"All Counties"	"Fire Safer Grant"	3	0	6848
+"All Counties"	"Fire/OES"	2	1721.5	34960
+"All Counties"	"Fleet Maintenance"	8	53.5	39794
+"All Counties"	"Health Department"	29	0	28558
+"All Counties"	"Housing"	3	0	30623
+"All Counties"	"Human Resources"	1	0	59079
+"All Counties"	"Human Services"	50	0	33536.5
+"All Counties"	"Human Services/Admin"	32	0	31381
+"All Counties"	"Jail Inmate Welfare"	1	0	13023
+"All Counties"	"Juvenile Detention"	9	0	5710
+"All Counties"	"Library"	29	0	5558
+"All Counties"	"Mental Health Svcs"	12	0	30262
+"All Counties"	"Parks & Rec"	38	0	1472
+"All Counties"	"Personnel"	2	0	46381.5
+"All Counties"	"Planning"	15	0	31911
+"All Counties"	"Plant Operation Svc"	3	637	45378
+"All Counties"	"Probation"	13	0	35551
+"All Counties"	"Probation-SLESF"	2	2522.5	49583
+"All Counties"	"Public Works Admin"	8	0	44134
+"All Counties"	"Revenue & Recovery"	1	0	44124
+"All Counties"	"Road Department"	25	381	36460
+"All Counties"	"Senior Nutrition"	4	0	14820.5
+"All Counties"	"Sheriff"	53	4567	58868
+"All Counties"	"Sheriff/Meth Grant"	1	13719	73300
+"All Counties"	"Solid Waste"	17	14	33981
+"All Counties"	"SS Wrap Around"	1	1062	59955
+"All Counties"	"Transit"	8	0	6616
+"All Counties"	"Treas/Tax Collector"	4	0	52705
+"All Counties"	"Trial Court Security"	6	0	11920.5
+"All Counties"	"Veterans"	1	0	17827
+"All Counties"	"Youthful Offenders Program"	1	4952	53658
+"All Counties"	"Agriculture"	13	0	31024
+"All Counties"	"Air Quality"	10	113	31686
+"All Counties"	"Alcohol / Other Drug Program"	27	0	44982
+"All Counties"	"Alternate Defender"	8	0	48396
+"All Counties"	"Animal Control"	14	7.5	23598.5
+"All Counties"	"Assessor"	18	0	40132
+"All Counties"	"Auditor - Controller"	12	0	37867
+"All Counties"	"Board Of Supervisors"	6	0	72345.5
+"All Counties"	"Buildings & Grounds"	29	0	28751
+"All Counties"	"CGAP - Dfc Grant"	1	338	35596
+"All Counties"	"Child Support Services"	35	61	33029
+"All Counties"	"Clerk Of The Board"	4	0	41531
+"All Counties"	"Clerk Recorder"	4	0	18342
+"All Counties"	"County Clerk - Election"	12	1	1792.5
+"All Counties"	"County Counsel"	12	0	63928.5
+"All Counties"	"Court Ab233 Program"	6	0	36278
+"All Counties"	"Da Anti Drug Abuse"	3	0	66227
+"All Counties"	"Da Victim Witness"	4	0	22332
+"All Counties"	"District Attorney"	42	0	41801.5
+"All Counties"	"Dot Administration"	92	458.5	35280.5
+"All Counties"	"Emergency Svc Cd Safety"	2	0	39616
+"All Counties"	"Employee Wellness"	1	0	48196
+"All Counties"	"Engineering & Technical Assist"	6	0	52134.5
+"All Counties"	"Environmental Health"	22	0	38289
+"All Counties"	"Executive Office"	8	0	71032
+"All Counties"	"Farm Advisor"	4	107	14204
+"All Counties"	"Garage"	2	0	41309
+"All Counties"	"General Liability"	3	575	47570
+"All Counties"	"General Services"	11	0	30973
+"All Counties"	"Health Benefits"	2	0	45084.5
+"All Counties"	"Hhsa Administration"	7	0	85224
+"All Counties"	"Human Resources"	9	0	47929
+"All Counties"	"Information Services"	18	0	53587
+"All Counties"	"Jail"	72	13101	64810
+"All Counties"	"Juvenile Hall"	42	4026.5	32668
+"All Counties"	"Library"	37	0	19904
+"All Counties"	"Mendocino County Fair"	3	0	24471
+"All Counties"	"Mental Health"	59	50	36309
+"All Counties"	"Micrographics"	1	0	33046
+"All Counties"	"Museum"	4	0	21079
+"All Counties"	"Ph Bioterrorism As"	2	339.5	49601
+"All Counties"	"Ph Maternal Child Health"	1	0	16175
+"All Counties"	"Ph Tobacco Ed"	1	3	16031
+"All Counties"	"Ph Wic"	14	641	31272.5
+"All Counties"	"Planning And Building"	30	0	42282.5
+"All Counties"	"Probation Office"	49	158	45046
+"All Counties"	"Public Defender"	23	0	55391
+"All Counties"	"Public Health"	17	0	35245
+"All Counties"	"Public Health Ccs"	7	0	36749
+"All Counties"	"Public Health Nursing"	19	0	36399
+"All Counties"	"Retiree Benefits"	1	53	39875
+"All Counties"	"Retirement"	4	0	45141
+"All Counties"	"Sheriff - Cops Program Ab3229"	1	0	51916
+"All Counties"	"Sheriff Coroner"	107	8261	65714
+"All Counties"	"Social Services"	364	0	34942.5
+"All Counties"	"Treasurer - Tax Collector"	6	838.5	43029.5
+"All Counties"	"Water Agency"	1	401	31344
+"All Counties"	"Workers Compensation"	2	0	57363
+"All Counties"	"Administrative Services - Custodial"	15	655	26811
+"All Counties"	"Administrative Services - Mail Room"	1	0	35394
+"All Counties"	"Administrative Services - Purchasing"	3	0	47474
+"All Counties"	"Administrative Services - Support Services"	1	0	69256
+"All Counties"	"Agricultural Commissioner"	33	0	48223
+"All Counties"	"Agricultural Commissioner - Animal Control"	25	9	24038
+"All Counties"	"Area Agency on Aging - Health Insurance Counseling and Advocates"	4	0	23331
+"All Counties"	"Area Agency on Aging - Merced Senior Service"	2	0	37357
+"All Counties"	"Area Agency on Aging - Ombudsman Program"	2	0	7873.5
+"All Counties"	"Area Agency on Aging - Pearls"	4	0	10047
+"All Counties"	"Assessor"	32	0	43569.5
+"All Counties"	"Auditor-Controller"	21	0	57098
+"All Counties"	"Board Of Supervisors"	11	0	55647
+"All Counties"	"Board Of Supervisors-District - 1"	1	0	20313
+"All Counties"	"Board Of Supervisors-District - 4"	1	0	2835
+"All Counties"	"Castle Airport Development Center"	14	0	38492
+"All Counties"	"Child Support Services Agency"	95	0	33562
+"All Counties"	"Commerce Aviation And Economic Development"	5	0	60018
+"All Counties"	"Cooperative Extension"	3	0	42611
+"All Counties"	"Coroner"	6	938	48783
+"All Counties"	"County Clerk"	1	125	42307
+"All Counties"	"County Counsel"	11	0	84206
+"All Counties"	"County Counsel - Departmental Legal Services"	2	0	121791
+"All Counties"	"County Counsel - Litigation"	1	0	116456
+"All Counties"	"County Executive Office"	10	0	82104
+"All Counties"	"Department Of Administrative Services"	4	0	56114
+"All Counties"	"Department Of Administrative Services - Communications"	1	77	50795
+"All Counties"	"Department Of Administrative Services - Information Systems"	39	29	63029
+"All Counties"	"Department Of Public Works - Building Division"	14	0	17901.5
+"All Counties"	"Department Of Public Works - Building Services Division"	14	302.5	49900.5
+"All Counties"	"Department Of Public Works - Parks Division"	32	0	11465.5
+"All Counties"	"Department Of Public Works - Public Works Administration"	12	0	88660
+"All Counties"	"Department Of Public Works - Recreation Division"	3	0	62584
+"All Counties"	"Department Of Public Works - Road Division"	65	273	44352
+"All Counties"	"Department Of Workforce Investment"	33	0	45072
+"All Counties"	"Department of Workforce Investment - Workforce Investment Act - Adults"	2	0	222
+"All Counties"	"District Attorney"	77	0	50647
+"All Counties"	"District Attorney - Anti Drug"	1	0	54142
+"All Counties"	"District Attorney - Victim Witness Assistance Program"	6	0	32238.5
+"All Counties"	"District Attorney - Welfare Fraud"	5	0	60463
+"All Counties"	"Elections"	7	118	3343
+"All Counties"	"Emergency Services"	1	0	23132
+"All Counties"	"Fire"	9	0	19305
+"All Counties"	"Fire Prevention"	5	0	18111
+"All Counties"	"Fleet Management Service"	6	0	43867
+"All Counties"	"Health - Administration"	13	0	43590
+"All Counties"	"Health - California Children Service"	23	0	36696
+"All Counties"	"Health - Child Health"	9	0	53249
+"All Counties"	"Health - Clinic Services"	16	0	41193.5
+"All Counties"	"Health - Disease Surveillance Investigation"	7	0	50045
+"All Counties"	"Health - Emergency Medical Services"	4	0	43309
+"All Counties"	"Health - Environmental Health"	23	0	59869
+"All Counties"	"Health - Laboratory"	3	0	43450
+"All Counties"	"Health - Maternal and Child Health"	15	0	43819
+"All Counties"	"Health - Prevention and Health Policy"	7	0	46521
+"All Counties"	"Health - Public Health Nursing"	1	0	43459
+"All Counties"	"Health - Vital Statistics/General Support"	1	0	41237
+"All Counties"	"Human Resources"	9	0	51678
+"All Counties"	"Human Services Agency"	29	60	40238
+"All Counties"	"Human Services Agency - Administrative Services Division"	107	0	35451
+"All Counties"	"Human Services Agency - Adult Protection - Public Guardian"	29	277	51760
+"All Counties"	"Human Services Agency - C-IV Project"	7	0	64540
+"All Counties"	"Human Services Agency - Eligibility Services Division"	240	509.5	39460.5
+"All Counties"	"Human Services Agency - Employment Services"	79	0	42982
+"All Counties"	"Human Services Agency - Los Banos"	25	2062	43130
+"All Counties"	"Human Services Agency - Multipurpose Senior Services Program"	5	0	55511
+"All Counties"	"Human Services Agency - Project Planning And Development Group"	8	141.5	58445
+"All Counties"	"Human Services Agency - Social Services Division"	147	376	50527
+"All Counties"	"In Home Support Services Public Authority"	2	0	49344.5
+"All Counties"	"Indigent Defense"	1	0	35929
+"All Counties"	"Juvenile Hall"	64	1147	44783
+"All Counties"	"Library"	49	0	14070
+"All Counties"	"Maddy And Emergency Services"	1	0	28342
+"All Counties"	"Medical Assistance Program"	9	0	30232
+"All Counties"	"Mental Health - Administration"	45	0	41898
+"All Counties"	"Mental Health - Alcohol And Drug Abuse"	27	32	42508
+"All Counties"	"Mental Health - Cal Works Alcohol and Drug"	1	71	42143
+"All Counties"	"Mental Health - COPE"	1	0	3780
+"All Counties"	"Mental Health - Drop In Center"	11	0	8765
+"All Counties"	"Mental Health - Drug Court"	1	0	36084
+"All Counties"	"Mental Health - Dual Diagnosis Program"	1	122	15721
+"All Counties"	"Mental Health - Innovation"	5	0	16490
+"All Counties"	"Mental Health - Inpatient"	55	590	42526
+"All Counties"	"Mental Health - Managed Care"	2	0	7598.5
+"All Counties"	"Mental Health - Merced Adult"	98	0	40398
+"All Counties"	"Mental Health - Merced Children"	1	0	13858
+"All Counties"	"Mental Health - Public Guardian Conservator/Public Administrator"	8	524.5	43177
+"All Counties"	"Planning And Community Development"	15	0	46809
+"All Counties"	"Probation"	17	0	41526
+"All Counties"	"Probation - Adult"	30	109	60000.5
+"All Counties"	"Probation - Crime Prevention Act"	7	0	60037
+"All Counties"	"Probation - Juvenile"	25	0	61950
+"All Counties"	"Public Defender"	26	0	57393.5
+"All Counties"	"Recorder"	9	0	38279
+"All Counties"	"Registrar Of Voters"	6	238	38028
+"All Counties"	"Retirement Operating"	11	0	33107
+"All Counties"	"Revenue And Reimbursement"	15	0	48489
+"All Counties"	"Risk Management"	6	0	48786
+"All Counties"	"Sealer Of Weights And Measures"	4	0	31696
+"All Counties"	"Sheriff"	150	1593.5	50442.5
+"All Counties"	"Sheriff - California ID"	3	0	26026
+"All Counties"	"Sheriff - California MMET Grant"	2	18169.5	82577
+"All Counties"	"Sheriff - COPS Universal Grant"	5	4115	55908
+"All Counties"	"Sheriff - Corrections"	104	14556	64562
+"All Counties"	"Sheriff - Court Operations"	44	0	17119.5
+"All Counties"	"Sheriff Inmate Welfare"	3	13	31172
+"All Counties"	"Tax Collector"	10	0	6926.5
+"All Counties"	"Treasurer"	5	0	63534
+"All Counties"	"Volunteer Firemen - Atwater"	20	0	539.5
+"All Counties"	"Volunteer Firemen - Ballico"	6	0	992.5
+"All Counties"	"Volunteer Firemen - Cressey"	6	0	327
+"All Counties"	"Volunteer Firemen - Delhi"	22	0	693.5
+"All Counties"	"Volunteer Firemen - Dos Palos"	13	0	568
+"All Counties"	"Volunteer Firemen - Gustine"	18	0	516
+"All Counties"	"Volunteer Firemen - Hilmar"	20	0	824.5
+"All Counties"	"Volunteer Firemen - Le Grand"	11	0	471
+"All Counties"	"Volunteer Firemen - Livingston"	18	0	1675.5
+"All Counties"	"Volunteer Firemen - Los Banos"	10	0	405
+"All Counties"	"Volunteer Firemen - Mckee"	24	0	556.5
+"All Counties"	"Volunteer Firemen - Merced"	11	0	317
+"All Counties"	"Volunteer Firemen - Planada"	7	0	489
+"All Counties"	"Volunteer Firemen - Santa Nella"	2	0	218
+"All Counties"	"Volunteer Firemen - Snelling"	3	0	346
+"All Counties"	"Volunteer Firemen - Stevinson"	7	0	3011
+"All Counties"	"Volunteer Firemen - Winton"	25	0	1312
+"All Counties"	"Administration"	4	1248	38007
+"All Counties"	"Agriculture"	16	122	8582.5
+"All Counties"	"Assessor"	6	0	42443.5
+"All Counties"	"Auditor"	4	0	35644.5
+"All Counties"	"Behavioral Health"	38	393	11150
+"All Counties"	"Board of Supervisors"	9	0	21218
+"All Counties"	"Buildings and Grounds"	2	63	25306
+"All Counties"	"CalWorks"	7	0	33309
+"All Counties"	"Cemetery"	9	0	6350
+"All Counties"	"Clerk / Recorder"	1	0	28199
+"All Counties"	"Dispatch"	9	515	22198
+"All Counties"	"District Attorney"	9	968	35333
+"All Counties"	"Family Support"	2	0	30450
+"All Counties"	"Farm Advisor"	2	0	27443.5
+"All Counties"	"First 5 Families"	1	0	64467
+"All Counties"	"Health Services"	1	0	109030
+"All Counties"	"Information Technology"	4	0	38037
+"All Counties"	"Jail"	18	975	3930.5
+"All Counties"	"Library"	8	0	5348.5
+"All Counties"	"Mental"	1	0	4188
+"All Counties"	"Migrant Housing Operation"	3	0	33100
+"All Counties"	"Modoc County Transportation"	4	0	48072
+"All Counties"	"Natural Resource"	1	0	48595
+"All Counties"	"Office of Emergency Services"	3	92	35776
+"All Counties"	"Planning"	5	0	29397
+"All Counties"	"Probation"	11	694	8032
+"All Counties"	"Public Health"	23	216	41771
+"All Counties"	"Public Works"	2	0	40599.5
+"All Counties"	"Road Department"	31	903	46568
+"All Counties"	"Sheriff"	23	3809.5	28038
+"All Counties"	"Social Services"	40	585	22606.5
+"All Counties"	"Tax Collector"	4	0	2472.5
+"All Counties"	"Treasurer"	3	0	38369
+"All Counties"	"Veterans Services"	1	0	30741
+"All Counties"	"Watermaster"	4	173	20512.5
+"All Counties"	"Animal Control"	8	141	33157.5
+"All Counties"	"Assessor"	10	0	53814
+"All Counties"	"Board of Supervisors"	8	0	45446.5
+"All Counties"	"Building"	2	3353	74650
+"All Counties"	"Clerk/Recorder"	5	0	65781
+"All Counties"	"Community Development"	9	0	53842
+"All Counties"	"County Administration"	10	748	46420
+"All Counties"	"County Counsel"	7	0	52755
+"All Counties"	"Department Of Finance"	18	1016.5	55321.5
+"All Counties"	"District Attorney"	9	6242	96645
+"All Counties"	"Economic Development"	5	151	45330
+"All Counties"	"Engineering And Projects"	4	0	72101.5
+"All Counties"	"Facilities"	15	1236	43065
+"All Counties"	"Information Technology"	12	1425	67857.5
+"All Counties"	"Jail"	23	3079.5	54702
+"All Counties"	"Mental Health"	21	822.5	42596
+"All Counties"	"Paramedics"	27	13625	83988
+"All Counties"	"Planning Commission"	5	0	800
+"All Counties"	"Probation"	12	302.5	40152.5
+"All Counties"	"Public Health"	21	264	55011
+"All Counties"	"Road Department"	30	1854	48469.5
+"All Counties"	"Sheriff"	45	6190	65419
+"All Counties"	"Social Services"	28	1656	41658.5
+"All Counties"	"Solid Waste"	7	2557	49136
+"All Counties"	"Agriculture Commissioner"	76	153	51472.5
+"All Counties"	"Assessor/Clerk/Recorder"	75	0	43172
+"All Counties"	"Auditor Controller"	46	0	65607.5
+"All Counties"	"Board Of Supervisors"	22	0	83362
+"All Counties"	"Child Support Services"	108	0	51659
+"All Counties"	"Clerk Of The Board"	4	0	57025
+"All Counties"	"Cooperative Extension Service"	8	0	23390
+"All Counties"	"County Administrative Office"	36	0	77856.5
+"All Counties"	"County Counsel"	42	0	110232.5
+"All Counties"	"District Attorney"	140	0	84303.5
+"All Counties"	"Economic Development"	47	0	54760
+"All Counties"	"Elections"	14	0	55372.5
+"All Counties"	"Emergency Communication"	79	19819	82988
+"All Counties"	"Equal Opportunity Office"	4	0	74594.5
+"All Counties"	"Health"	914	0	50003.5
+"All Counties"	"Human Resources"	35	0	54497
+"All Counties"	"Information Technology"	110	0	78945.5
+"All Counties"	"Library"	117	0	15967
+"All Counties"	"Natividad Medical Center"	1148	1541.5	51109.5
+"All Counties"	"Parks"	140	53	11122
+"All Counties"	"Probation"	310	0	72041.5
+"All Counties"	"Public Defender"	51	0	79480
+"All Counties"	"Resource Management Agency"	276	0	50276
+"All Counties"	"Sheriff-Coroner"	431	7750	101685
+"All Counties"	"Social Services"	822	0	47753
+"All Counties"	"Treasurer/Tax Collector"	48	0	49119.5
+"All Counties"	"Water Resources Agency"	48	0	68704
+"All Counties"	"Ag Commissioner/sealer"	51	0	45466
+"All Counties"	"Airport - Operations"	7	0	61787
+"All Counties"	"Animal Services"	9	6984	56811
+"All Counties"	"Animal Shelter - Operations"	9	10	43182
+"All Counties"	"Assessor"	25	0	58414
+"All Counties"	"Auditor-controller"	23	0	68808
+"All Counties"	"Board Of Supervisors"	5	0	91429
+"All Counties"	"Building Inspection"	16	0	70298.5
+"All Counties"	"Child Support Services"	36	878.5	56046.5
+"All Counties"	"Communications"	6	1557	77410
+"All Counties"	"Coroner"	7	0	2883
+"All Counties"	"Corrections"	109	2488	65741
+"All Counties"	"County Counsel"	20	0	115297.5
+"All Counties"	"County Executive Office"	21	0	72339
+"All Counties"	"County Library - Operations"	100	0	18172
+"All Counties"	"Cu Cooperative Extension"	4	0	45650
+"All Counties"	"District Attorney"	67	0	57845
+"All Counties"	"District Attorney - Consumer"	4	267.5	58256.5
+"All Counties"	"Elections"	6	0	46113.5
+"All Counties"	"Fleet Management - Operations"	3	50	67105
+"All Counties"	"Hose - Agency Administration"	6	0	92740
+"All Counties"	"Hose - Alcohol And Drug Svc"	30	0	59468
+"All Counties"	"Hose - Child Welfare Services"	67	0	45464
+"All Counties"	"Hose - Comprehensive Services"	43	0	61031
+"All Counties"	"Hose - Fiscal"	31	0	53635
+"All Counties"	"Hose - Health Care Enhancement"	1	711	26181
+"All Counties"	"Hose - Mental Health"	93	0	68028
+"All Counties"	"Hose - Operations"	17	0	49117
+"All Counties"	"Hose - Organizational Resource"	6	0	58609.5
+"All Counties"	"Hose - Public Health"	66	0	51817
+"All Counties"	"Hose - Quality Management"	8	0	70865
+"All Counties"	"Hose - Self Sufficiency"	104	417	52640
+"All Counties"	"Housing And Intergovernmental"	5	0	71078
+"All Counties"	"Human Resources"	14	0	69907
+"All Counties"	"Information Technology Services"	45	0	91313
+"All Counties"	"Juvenile Hall"	62	166.5	49916
+"All Counties"	"Lafco"	3	0	67125
+"All Counties"	"Pies-Local Enforcement Agency"	2	0	86536
+"All Counties"	"Pies - Environmental Health"	23	0	72299
+"All Counties"	"Planning Building & Envy Services"	41	0	67352
+"All Counties"	"Probation"	81	0	72793
+"All Counties"	"Property Management"	31	0	45587
+"All Counties"	"Public Defender"	25	0	71578
+"All Counties"	"Public Works"	56	0	77014
+"All Counties"	"Recorder/County Clerk"	9	0	47339
+"All Counties"	"Records Management"	5	0	41308
+"All Counties"	"Roads"	31	599	58627
+"All Counties"	"Sheriff"	132	10655	116127.5
+"All Counties"	"Special Investigations Unit"	4	21362	118113.5
+"All Counties"	"Training And Org Dev"	1	0	106148
+"All Counties"	"Treasurer-tax Collector"	12	0	55390.5
+"All Counties"	"Agriculture Services"	10	0	24490.5
+"All Counties"	"Airport"	6	137	16229
+"All Counties"	"Assessor"	27	11	38849
+"All Counties"	"Auditor - Controller"	13	0	54205
+"All Counties"	"Behavioral Health"	56	0	41245.5
+"All Counties"	"Building Inspection"	15	0	27612
+"All Counties"	"Central Services"	1	0	47759
+"All Counties"	"Child Support Services"	23	0	45603
+"All Counties"	"Clerk Of The Board"	12	0	43639.5
+"All Counties"	"Clerk Recorder"	5	56	33976
+"All Counties"	"Code Enforcement"	6	0	49290
+"All Counties"	"Collections"	2	0	46751
+"All Counties"	"Community Development Administration"	17	0	43221
+"All Counties"	"County Counsel"	9	0	55044
+"All Counties"	"County Executive Office"	7	0	100950
+"All Counties"	"Department Of Public Works Administration"	3	0	53037
+"All Counties"	"Department Of Social Services"	105	257	40536
+"All Counties"	"District Attorney"	29	0	48283
+"All Counties"	"Elections"	15	142	5671
+"All Counties"	"Emergency Management"	1	0	93935
+"All Counties"	"Environmental Health"	15	0	53377
+"All Counties"	"Facilities Management"	14	0	43364
+"All Counties"	"Fleet"	10	190.5	45040
+"All Counties"	"Geographic Information Systems"	4	0	33634.5
+"All Counties"	"Health & Human Services Agency Administration"	28	0	46972
+"All Counties"	"Housing & Community Services"	3	0	3023
+"All Counties"	"Human Resources"	8	0	54226.5
+"All Counties"	"Information Systems Administration"	31	0	61813
+"All Counties"	"Juvenile Hall"	42	198	26806
+"All Counties"	"Library Administration"	5	0	30263
+"All Counties"	"Library Branch 1 - Madelyn Helling"	10	0	13906
+"All Counties"	"Library Branch 2 Grass Valley"	8	0	31408.5
+"All Counties"	"Library Branch 3 - Truckee"	9	0	11121
+"All Counties"	"Library Branch 5 - Penn Valley"	1	0	17460
+"All Counties"	"Library Branch 6 - Bear River"	1	0	747
+"All Counties"	"Planning"	10	0	59132
+"All Counties"	"Probation"	38	0	45237.5
+"All Counties"	"Public Defender"	13	0	77148
+"All Counties"	"Public Health"	52	0	32917.5
+"All Counties"	"Purchasing"	2	0	49143.5
+"All Counties"	"Risk Management"	2	0	74555
+"All Counties"	"Roads Engineering"	6	0	79193
+"All Counties"	"Roads Maintenance"	51	400	33497
+"All Counties"	"Sheriff Administration Support Services"	26	0	38190
+"All Counties"	"Sheriff Animal Control"	4	1986	39000
+"All Counties"	"Sheriff Corrections"	73	10333	67380
+"All Counties"	"Sheriff Court Security"	7	2586	68832
+"All Counties"	"Sheriff Dispatchers"	14	14854.5	58989
+"All Counties"	"Sheriff Operations"	66	5210	71399.5
+"All Counties"	"Sheriff Truckee"	12	10700	77715.5
+"All Counties"	"Solid Waste Western"	3	0	44922
+"All Counties"	"Transit"	28	171.5	21052
+"All Counties"	"Treasurer - Tax Collector"	9	0	45280
+"All Counties"	"Veterans Services"	3	0	20931
+"All Counties"	"Victim Witness Program"	4	0	26482
+"All Counties"	"Waste Water Management"	19	1934	57968
+"All Counties"	"Assessor"	348	1528.5	64475.5
+"All Counties"	"Auditor-Controller"	401	24	50010
+"All Counties"	"Board of Supervisors - 1st District"	16	0	33562.5
+"All Counties"	"Board of Supervisors - 2nd District"	7	0	62151
+"All Counties"	"Board of Supervisors - 3rd District"	14	0	25482.5
+"All Counties"	"Board of Supervisors - 4th District"	13	0	47686
+"All Counties"	"Board of Supervisors - 5th District"	9	0	61922
+"All Counties"	"Child Support Services"	563	0	47401
+"All Counties"	"Clerk-Recorder"	109	11	43360
+"All Counties"	"Clerk of The Board"	28	0	54268.5
+"All Counties"	"County Counsel"	102	0	130441.5
+"All Counties"	"County Executive Office"	197	0	71850
+"All Counties"	"District Attorney"	798	0	85642.5
+"All Counties"	"Health Care Agency"	2558	0	60821.5
+"All Counties"	"Human Resource Services"	138	0	70060.5
+"All Counties"	"Internal Audit"	16	0	101239
+"All Counties"	"John Wayne Airport"	177	0	69270
+"All Counties"	"OC Community Resources"	1644	0	33712.5
+"All Counties"	"OC Dana Point Harbor"	17	0	57417
+"All Counties"	"OC Public Works"	950	47.5	64164
+"All Counties"	"OC Waste & Recycling"	277	460	54762
+"All Counties"	"Office Of The Performance Audit Director"	4	0	110148.5
+"All Counties"	"Orange County Public Administration"	7	458	67631
+"All Counties"	"Orange County Public Guardian"	46	0	68404
+"All Counties"	"Probation"	1299	86	62267
+"All Counties"	"Public Defender"	407	0	98655
+"All Counties"	"Registrar of Voters"	67	194	44538
+"All Counties"	"Sheriff-Coroner"	3997	3716	72801
+"All Counties"	"Social Services Agency"	4018	0	47444.5
+"All Counties"	"Treasurer/Tax Collector"	90	0	46742.5
+"All Counties"	"ADM-Administrative Services"	7	0	61077
+"All Counties"	"ADM-Central Services"	9	0	53333
+"All Counties"	"ADM-Info Tech Systems Division"	64	0	93872.5
+"All Counties"	"ADM-Procurement Services"	10	0	64011.5
+"All Counties"	"ADM-Revenue Services"	15	0	48078
+"All Counties"	"ADM-Telecommunication Services"	20	1403.5	100093
+"All Counties"	"AGR-Agricultural Comm/Sealer"	22	0	49266.5
+"All Counties"	"APC-Air Pollution Control Dist"	33	0	57388
+"All Counties"	"ASR-Assessors Office"	81	0	71271
+"All Counties"	"AUD-Auditor Controllers Office"	42	0	55653
+"All Counties"	"BLD-Building Division"	24	165	80167
+"All Counties"	"CCL-County Counsel"	23	0	101082
+"All Counties"	"CDR-Community Dev/Res Agency"	30	0	66172
+"All Counties"	"CDR-Engineering & Surveying"	24	0	97015
+"All Counties"	"CEO-Board of Supervisors Offc"	21	0	56304
+"All Counties"	"CEO-Clerk of the Board"	6	0	53816
+"All Counties"	"CEO-County Executive Office"	28	0	70924.5
+"All Counties"	"CEO-Economic Development"	6	0	65970.5
+"All Counties"	"CEO-Emergency Services"	5	0	58678
+"All Counties"	"CEO-Orgnztnl Dvlpmnt Dvsn"	4	0	60298
+"All Counties"	"CEO-Risk Mgmt.-Gen Liab-Wkrs Comp"	5	0	101455
+"All Counties"	"CEO-Risk Mgmt. & Labor Relations"	7	0	106041
+"All Counties"	"CLK-County Clerk-Recorder"	56	0	55288
+"All Counties"	"CSS-Child Support Services"	49	0	44533
+"All Counties"	"DAO-District Attorneys Office"	112	0	70550.5
+"All Counties"	"DPW-Administration"	10	0	72808.5
+"All Counties"	"DPW-Engineering"	42	0	94905.5
+"All Counties"	"DPW-Fleet Operations"	20	149.5	64694
+"All Counties"	"DPW-Flood Control Management"	3	0	110085
+"All Counties"	"DPW-Natl Pollutn Elimntn Sys"	8	20.5	43698
+"All Counties"	"DPW-Placer County Transit"	34	498.5	47220.5
+"All Counties"	"DPW-Road Maintenance"	83	1112	60007
+"All Counties"	"DPW-TART"	25	833	57098
+"All Counties"	"FAC-Administration"	15	0	61077
+"All Counties"	"FAC-Building Maintenance"	54	0	49591.5
+"All Counties"	"FAC-Capital Improvements"	10	0	100983
+"All Counties"	"FAC-CSA28-Dutch Flat Rec"	5	0	2888
+"All Counties"	"FAC-DeWitt Development"	6	515.5	79260.5
+"All Counties"	"FAC-Museums"	10	0	37722
+"All Counties"	"FAC-Parks & Grounds Maintenance"	33	0	57164
+"All Counties"	"FAC-Utility Services"	62	1293.5	72920
+"All Counties"	"FRM-Farm Advisor"	6	0	18211.5
+"All Counties"	"HHS-Administration"	59	0	52778
+"All Counties"	"HHS-Administration and MIS"	3	0	16614
+"All Counties"	"HHS-Adult System of Care"	147	0	49096
+"All Counties"	"HHS-Animal Services"	19	407	52084
+"All Counties"	"HHS-Children System of Care"	188	0	58652.5
+"All Counties"	"HHS-Community Clinics"	13	0	6963
+"All Counties"	"HHS-Community Health"	8	0	11096.5
+"All Counties"	"HHS-Domestic Animal Control"	1	50	33396
+"All Counties"	"HHS-Environmental Health"	29	0	77600
+"All Counties"	"HHS-Housing Assistance Service"	2	0	64171
+"All Counties"	"HHS-Human Services"	258	0	44533
+"All Counties"	"HHS-IHSS Public Authority"	7	0	42412
+"All Counties"	"HHS-Medical Clinics"	77	0	20363
+"All Counties"	"HHS-Public Health"	70	0	56721
+"All Counties"	"LIB-County Library"	83	0	10248
+"All Counties"	"Local Agency Formation Co."	2	168	88042
+"All Counties"	"PLN-Planning Division"	17	0	98415
+"All Counties"	"PRO-Food Services Program"	20	752.5	39295.5
+"All Counties"	"PRO-Probation Department"	151	175	66195
+"All Counties"	"PRS-Clerical Pool"	28	0	1587
+"All Counties"	"PRS-Employee Benefits"	10	0	70873
+"All Counties"	"PRS-Personnel Department"	23	0	60207
+"All Counties"	"RDV-Redevelopment"	1	0	52697
+"All Counties"	"SRF-Administration"	47	0	57775
+"All Counties"	"SRF-Auburn/So. Placer Patrol"	130	7991	109619.5
+"All Counties"	"SRF-Jail Corrections & Deten"	219	1351	71213
+"All Counties"	"SRF-Sheriff Grants Program"	13	3745	64851
+"All Counties"	"SRF-So. Placer Corrections & Deten"	31	508	23131
+"All Counties"	"SRF-Support Services"	65	30	57575
+"All Counties"	"SRF-Tahoe Operations"	45	5963	112903
+"All Counties"	"TAX-Treasurer/Tax Collector"	29	0	57144
+"All Counties"	"VET-Veterans Services Office"	6	0	34601
+"All Counties"	"Ab109-Sheriff"	3	2088	36882
+"All Counties"	"Agriculture"	5	0	22281
+"All Counties"	"Airports"	2	0	26837.5
+"All Counties"	"Alcohol & Drug"	4	195.5	6599
+"All Counties"	"Animal Control"	8	0	5948
+"All Counties"	"Assessor"	12	0	36921
+"All Counties"	"Auditor"	8	0	44039.5
+"All Counties"	"Beh. Health Ab109"	2	0	10231
+"All Counties"	"Board Of Supervisor"	7	0	44749
+"All Counties"	"Boat Patrol"	5	157	13674
+"All Counties"	"Building"	5	0	55760
+"All Counties"	"Child Support"	10	0	33694.5
+"All Counties"	"Clerk Recorder"	7	0	15369
+"All Counties"	"County Counsel"	4	0	58901.5
+"All Counties"	"County Parks"	3	0	10593
+"All Counties"	"Court Security"	7	0	9291
+"All Counties"	"Csa #12 Senior Transportation"	8	0	15711
+"All Counties"	"District Attorney"	13	0	42495
+"All Counties"	"Elections"	10	0	108
+"All Counties"	"Engineering"	3	0	46414
+"All Counties"	"Environmental Health"	6	0	54471.5
+"All Counties"	"Facility Services"	11	0	27006
+"All Counties"	"Farm"	2	0	21090
+"All Counties"	"Gis"	1	0	46139
+"All Counties"	"Greenville Memorial Hall"	1	0	2080
+"All Counties"	"Human Resources"	6	0	9370
+"All Counties"	"Information Technology"	4	0	66727
+"All Counties"	"Jail"	17	2813	39821
+"All Counties"	"Jail/Sb678"	2	1651.5	28726.5
+"All Counties"	"Library"	15	0	6605
+"All Counties"	"Literacy"	10	0	6063
+"All Counties"	"Memorial Hall"	1	0	4160
+"All Counties"	"Mental Health"	39	0	20623
+"All Counties"	"Mhsa"	21	0	814
+"All Counties"	"Museum"	1	0	57858
+"All Counties"	"Planning"	3	0	64085
+"All Counties"	"Probation"	22	0	21050.5
+"All Counties"	"Public Guardian"	2	13	34474.5
+"All Counties"	"Public Health"	35	0	37290
+"All Counties"	"Public Works"	72	331	37460.5
+"All Counties"	"Retirees Health"	19	0	8136
+"All Counties"	"Samsha"	1	0	418
+"All Counties"	"Senior Service"	17	0	7921
+"All Counties"	"Sheriff"	51	2123	62796
+"All Counties"	"Sheriff - AB443"	3	0	10731
+"All Counties"	"Sierra County Literacy"	1	0	4025
+"All Counties"	"Sierra House"	12	135	11147
+"All Counties"	"Social Services"	47	230	29308
+"All Counties"	"Treasurer/Tax Collector"	5	0	42389
+"All Counties"	"Veteran Services"	2	0	12663.5
+"All Counties"	"Victim Witness"	1	2713	65979
+"All Counties"	"Agricultural Commissioner"	51	0	56870
+"All Counties"	"Assessor-Clerk Recorder"	404	245.5	47301
+"All Counties"	"Auditor - Controller"	94	0	57137
+"All Counties"	"Aviation"	9	443	38755
+"All Counties"	"Board Of Supervisors"	71	1641.5	63567
+"All Counties"	"Building And Safety"	36	655	60425
+"All Counties"	"Child Support Services"	335	765.5	50690
+"All Counties"	"Code Enforcement"	92	231	67237
+"All Counties"	"Community Action"	38	0	36258.5
+"All Counties"	"Community Facility Districts"	3	0	82094
+"All Counties"	"Cooperative Extension"	5	0	37131
+"All Counties"	"County Counsel"	72	0	115051
+"All Counties"	"County Service Area 152 National Pollutant Discharge Elimination System"	47	382	45108
+"All Counties"	"Department of Health"	1378	317	42795
+"All Counties"	"Department of Public Social Services"	3736	280	41088
+"All Counties"	"District Attorney"	721	863	73513
+"All Counties"	"Economic Development Agency"	330	259	51227
+"All Counties"	"Executive Office"	32	998	81162.5
+"All Counties"	"Facilities Management"	445	706	36652
+"All Counties"	"Fair and National Date Festival"	17	552	36801
+"All Counties"	"Fire Protection"	222	3369	58346
+"All Counties"	"Flood Control"	245	351	57826
+"All Counties"	"Human Resources"	2939	634	14639
+"All Counties"	"In-Home Support Services Public Authority"	21	146	40663
+"All Counties"	"Local Agency Formation Commission"	5	0	66393
+"All Counties"	"Mental Health"	1289	483	41747
+"All Counties"	"Office on Aging - Title III"	155	0	8816
+"All Counties"	"Planning"	18	0	75966.5
+"All Counties"	"Probation"	891	2003.5	53362
+"All Counties"	"Public Defender"	245	406	87204
+"All Counties"	"Purchasing"	110	257	41280.5
+"All Counties"	"Regional Parks and Open Space District"	247	335	12638
+"All Counties"	"Registrar Of Voters"	30	396	38812
+"All Counties"	"Riverside Conservation Authority"	11	0	96722
+"All Counties"	"Riverside County Children and Families Commission"	23	171	53306
+"All Counties"	"Riverside County Information Technology"	243	2734	90665
+"All Counties"	"Riverside County Regional Medical Center"	2907	2347	49534
+"All Counties"	"Riverside County Sheriff"	4076	5382	80606
+"All Counties"	"Salton Sea Authority"	1	0	87861
+"All Counties"	"Transportation"	355	1139.5	58570
+"All Counties"	"Transportation Land Management Agency"	62	195	54470.5
+"All Counties"	"Treasurer - Tax Collector"	115	65.5	38150
+"All Counties"	"Veterans Services"	17	0	31683
+"All Counties"	"Waste Management"	156	690	47909.5
+"All Counties"	"Agricultural Commission/Wts/Meas"	44	0	39030.5
+"All Counties"	"Airports"	366	95.5	44136.5
+"All Counties"	"Animal Care & Regulation"	32	1021	46809.5
+"All Counties"	"Assessors Office"	158	0	58654
+"All Counties"	"Board Of Supervisors"	5	0	104553
+"All Counties"	"Carmichael Recreation And Parks District"	103	0	4821
+"All Counties"	"Chief Financial Office"	30	0	70856
+"All Counties"	"Chief Operations Office"	1	0	215725
+"All Counties"	"Child Support Services"	317	0	43179
+"All Counties"	"Civil Service Commission"	2	0	83147.5
+"All Counties"	"Clerk Of The Board"	10	0	50988.5
+"All Counties"	"Community Development"	214	0	69290
+"All Counties"	"Conflict Criminal Defenders"	6	0	41069.5
+"All Counties"	"Cooperative Extension"	2	23.5	42015.5
+"All Counties"	"Coroner"	40	119.5	57404.5
+"All Counties"	"Correctional Health Services"	142	315.5	65944.5
+"All Counties"	"County Clerk/Recorder"	70	15	42811.5
+"All Counties"	"County Counsel"	74	0	131727.5
+"All Counties"	"County Executive Office"	28	0	72949.5
+"All Counties"	"District Attorney"	448	0	84578.5
+"All Counties"	"Environmental Management"	120	0	74689.5
+"All Counties"	"Finance"	182	0	42028.5
+"All Counties"	"Flood Management"	1	0	58838
+"All Counties"	"General Services"	526	36	67513
+"All Counties"	"Health And Human Services"	2036	0	56758
+"All Counties"	"Human Assistance"	2020	0	48104
+"All Counties"	"Is Ccr County Clerk/Recorder"	1	0	55707
+"All Counties"	"Mission Oaks Recreation And Parks District"	243	0	1988
+"All Counties"	"Multi-Agency Collaboration"	3	0	64085
+"All Counties"	"Municipal Services"	51	0	23400
+"All Counties"	"Personnel Services"	209	0	65463
+"All Counties"	"Probation"	758	263.5	71220
+"All Counties"	"Public Defender"	147	0	120945
+"All Counties"	"Regional Parks"	146	0	16524.5
+"All Counties"	"Retirement Administration"	43	0	50763
+"All Counties"	"Revenue Recovery"	57	0	48751
+"All Counties"	"Sd Internal Services Department"	101	0	52026
+"All Counties"	"Sd Policy And Planning"	48	0	88318
+"All Counties"	"Sd Sacramento Area Sewer District"	310	1502	67680
+"All Counties"	"Sd Sacramento Reg Co Sanit Dist Ops"	335	606	78915
+"All Counties"	"Sheriff"	2108	1253.5	93429
+"All Counties"	"Sunrise Recreation And Park District"	432	0	3367
+"All Counties"	"Technology"	380	0	82846
+"All Counties"	"Transportation"	267	247	64446
+"All Counties"	"Voter Registration & Elections"	64	0	9919.5
+"All Counties"	"Waste Management & Recycling"	245	2984	57954
+"All Counties"	"Water Resources"	224	29.5	72128
+"All Counties"	"Administration"	4	0	59142
+"All Counties"	"Agriculture Commissioner"	14	0	28477.5
+"All Counties"	"Assessor"	14	0	55053
+"All Counties"	"Auditor"	9	0	50594
+"All Counties"	"Board Of Supervisors"	5	0	44653
+"All Counties"	"Buildings/Grounds Maintenance"	2	0	25608
+"All Counties"	"Children & Family Commission"	3	0	9691
+"All Counties"	"Clerk Of The Board"	2	0	47129
+"All Counties"	"Communications"	1	0	30009
+"All Counties"	"Community Svc Work Force Dev"	12	0	34556.5
+"All Counties"	"Council Of Governments"	10	0	57598
+"All Counties"	"County Clerk"	2	0	126043
+"All Counties"	"County Counsel"	6	0	91212.5
+"All Counties"	"County Surveyor"	1	0	30548
+"All Counties"	"District Attorney"	9	0	72284
+"All Counties"	"Elections"	6	0	14278.5
+"All Counties"	"Emergency Servies"	1	0	34448
+"All Counties"	"Ems"	1	0	35604
+"All Counties"	"Family Support"	17	0	46476
+"All Counties"	"Health"	24	0	45333
+"All Counties"	"Human Services"	75	0	41563
+"All Counties"	"Information Technician"	5	0	56529
+"All Counties"	"Jail"	25	10401	73318
+"All Counties"	"Juvenile Hall"	19	6	36165
+"All Counties"	"Library"	11	0	30557
+"All Counties"	"Mental Health"	42	0	41597
+"All Counties"	"Migrant Center"	3	0	35052
+"All Counties"	"Personnel"	3	0	95364
+"All Counties"	"Planning"	6	0	51905
+"All Counties"	"Probation"	19	0	57479
+"All Counties"	"Public Authority"	1	0	40581
+"All Counties"	"Public Works"	7	0	69619
+"All Counties"	"Public Works Road Maintenance"	17	0	38828
+"All Counties"	"Sheriff Office Operations"	27	9658	95178
+"All Counties"	"Solid Waste Disposal"	2	0	90817.5
+"All Counties"	"Substance Abuse"	12	0	51060.5
+"All Counties"	"Tax Collector"	4	23.5	26499
+"All Counties"	"Treasurer"	4	0	34845
+"All Counties"	"Vets Memorial Park"	1	1167	50172
+"All Counties"	"Victim Witness"	2	0	37070.5
+"All Counties"	"Agriculture/Weights & Measures"	67	0	38124
+"All Counties"	"Airports Administration"	19	1278	52872
+"All Counties"	"Architecture & Engineering"	22	0	62399.5
+"All Counties"	"Arrowhead Regional Medical Center"	3507	930	39841
+"All Counties"	"Assessor-Recorder-Clerk"	234	0	42564
+"All Counties"	"Auditor-Controller/Treas/Tax Collector"	76	0	46805.5
+"All Counties"	"Auditor-Controller/Treas/Tax Collectr"	227	0	41963
+"All Counties"	"Auditor/Controller-Recorder"	6	0	4875
+"All Counties"	"Behavioral Health"	914	0	48117.5
+"All Counties"	"Board Gov Csa 42, Oro Grande"	1	0	3524
+"All Counties"	"Board Governed"	1041	1821	57292
+"All Counties"	"Board Governed Csa 20"	9	0	21784
+"All Counties"	"Board Governed CSA 40"	1	1466	59254
+"All Counties"	"Board Governed Yucaipa Park"	3	0	7971
+"All Counties"	"Board of Retirement"	2	0	34488.5
+"All Counties"	"Board Of Supervisors"	63	0	46003
+"All Counties"	"Clerk of the Board"	17	0	40431
+"All Counties"	"Community Dev & Housing"	16	0	51415
+"All Counties"	"County Administrative Office"	58	0	72349
+"All Counties"	"County Counsel"	92	0	59399.5
+"All Counties"	"County Library"	291	0	12259
+"All Counties"	"County Museum"	28	0	38003.5
+"All Counties"	"Csa 56 - Wrightwood Park & Rec"	2	0	9063
+"All Counties"	"District Attorney"	501	0	69789
+"All Counties"	"Economic Development Function"	16	0	55413.5
+"All Counties"	"Facilities Management"	124	0	37313.5
+"All Counties"	"Fleet Management"	79	1157	60112
+"All Counties"	"Human Resources"	128	0	56434
+"All Counties"	"Human Services"	6916	0	35335.5
+"All Counties"	"In Home Spt Svcs-Pub Authority"	19	0	32609
+"All Counties"	"Information Services"	312	0	75135
+"All Counties"	"Land Use Services"	129	0	55073
+"All Counties"	"Probation"	1202	385.5	59160.5
+"All Counties"	"Public Defender"	252	0	75678
+"All Counties"	"Public Health"	874	0	40575.5
+"All Counties"	"Public Works"	592	0	51763
+"All Counties"	"Purchasing"	60	0.5	36558.5
+"All Counties"	"Real Estate Administration"	23	0	67358
+"All Counties"	"Redevelopment Agency"	5	0	99285
+"All Counties"	"Regional Parks"	220	0	5245
+"All Counties"	"Registrar Of Voters"	41	770	27574
+"All Counties"	"Risk Management"	60	0	60370
+"All Counties"	"Sb County Fpd - Limited Term"	99	7351	20703
+"All Counties"	"Sheriff"	3512	1243	65437
+"All Counties"	"Treasurer-Tax Collector"	2	0	6600
+"All Counties"	"Veterans Affairs"	19	0	44309
+"All Counties"	"Workforce Development Dept"	104	0	44180
+"All Counties"	"Agriculture Weights and Measures"	189	193	49085
+"All Counties"	"Air Pollution Control District"	160	0	69572.5
+"All Counties"	"Animal Services"	174	508.5	40692
+"All Counties"	"Assessor/Recorder/County Clerk"	455	12	50282
+"All Counties"	"Auditor And Controller"	236	0	49022.5
+"All Counties"	"Board of Supervisors"	2	0	58583.5
+"All Counties"	"Board Of Supervisors District 1"	11	0	83188
+"All Counties"	"Board Of Supervisors District 2"	9	0	81868
+"All Counties"	"Board Of Supervisors District 3"	14	0	40988.5
+"All Counties"	"Board Of Supervisors District 4"	9	0	79825
+"All Counties"	"Board Of Supervisors District 5"	11	0	65532
+"All Counties"	"Chief Administrative Office"	15	0	81868
+"All Counties"	"Civil Service Commission"	10	0	575
+"All Counties"	"Clerk Board/Supervisors"	45	0	43137
+"All Counties"	"Community Services Group"	8	0	100524.5
+"All Counties"	"County Communications Office"	22	0	69635.5
+"All Counties"	"County Counsel"	142	0	87906
+"All Counties"	"County Library"	415	0	29008
+"All Counties"	"County Technology Office"	17	0	121351
+"All Counties"	"Department Of Child Support"	506	0	48205.5
+"All Counties"	"Department of Public Works-Airport Enterprise Fund"	37	0	61442
+"All Counties"	"District Attorney"	1108	0	64554
+"All Counties"	"Environmental Health"	294	112.5	67779
+"All Counties"	"Facilities Management"	285	346	57236
+"All Counties"	"Finance and General Government Group"	22	0	83069.5
+"All Counties"	"Fleet Maintenance Support"	51	0	59732
+"All Counties"	"Fleet Services Internal Service Fund Management"	3	125	52555
+"All Counties"	"Fleet Services Internal Service Fund Parts And Fuel"	8	0	60718
+"All Counties"	"Grand Jury"	1	0	67333
+"All Counties"	"Health And Human Services Agency"	6070	131	45749
+"All Counties"	"Housing And Community Development"	109	0	47624
+"All Counties"	"Human Resources"	151	0	55245
+"All Counties"	"Inactive Waste Site Management"	22	0	55529.5
+"All Counties"	"Land Use and Environment Group"	13	0	67468
+"All Counties"	"Law Enforcement Review Board"	4	0	78187
+"All Counties"	"Local Agency Formation"	17	0	900
+"All Counties"	"Medical Examiner"	60	1145.5	56719.5
+"All Counties"	"Office Of Emergency Services"	19	0	63033
+"All Counties"	"Parks And Recreation"	346	0	24166.5
+"All Counties"	"Planning And Development Services"	186	0	64103.5
+"All Counties"	"Probation Department"	1375	1508	60296
+"All Counties"	"Public Defender"	411	0	77293
+"All Counties"	"Public Safety Group"	414	0	2255.5
+"All Counties"	"Public Works, Department Of General"	46	0	76844
+"All Counties"	"Public Works, Department Of Road"	365	0	63418
+"All Counties"	"Purchasing And Contracting"	57	0	69236
+"All Counties"	"Registrar Of Voters"	338	0	3428.5
+"All Counties"	"San Diego County Retirement"	100	0	56313
+"All Counties"	"Sheriff"	4279	3027	67955
+"All Counties"	"Treasurer-Tax Collector"	150	0	39573.5
+"All Counties"	"Wastewater Management"	44	528	60101
+"All Counties"	"Aging - Community Services"	20	0	48908.5
+"All Counties"	"Agricultural Commissioner"	60	0	40867.5
+"All Counties"	"Alcohol-Drug Alternative Program"	5	0	50095
+"All Counties"	"Assessor"	87	0	50000
+"All Counties"	"Auditor - Controller"	28	0	51524.5
+"All Counties"	"Behavioral Health Admin"	95	0	42745
+"All Counties"	"Board of Supervisors"	19	0	92261
+"All Counties"	"California Childrens Services"	36	0	40803
+"All Counties"	"Capital Projects"	10	0	21760.5
+"All Counties"	"CCS - MTU"	19	0	47892
+"All Counties"	"Central Telephone"	14	237.5	67256.5
+"All Counties"	"Child Support  Svs"	172	0	46790
+"All Counties"	"Children - Families Program"	9	0	78144
+"All Counties"	"Community Development Services"	45	0	66507
+"All Counties"	"Community Infra-Engineer Svs"	8	0	76237.5
+"All Counties"	"Conservator Services"	29	0	44363
+"All Counties"	"Cooperative Extension"	5	0	39469
+"All Counties"	"Correctional Health Services"	92	1398.5	41824
+"All Counties"	"County Administrator"	13	0	119614
+"All Counties"	"County Counsel"	19	0	147585
+"All Counties"	"County Head Start"	5	0	55256
+"All Counties"	"D A - Child Abduction"	3	0	54995
+"All Counties"	"D A - Public Assist Fraud Pros"	10	0	103565
+"All Counties"	"D A - Victim Assistance"	9	0	45901
+"All Counties"	"D A - Victim Witness Program"	10	429.5	48844.5
+"All Counties"	"DA-Consumer Fraud-Prop 64"	14	0	57293.5
+"All Counties"	"DA-Criminal Restitution Program"	3	0	43398
+"All Counties"	"Dept. of Aging-Commodity Program"	5	0	18712
+"All Counties"	"Dept. of Aging-Community Action"	20	454	46881.5
+"All Counties"	"Dept. of Aging-Linkages Program"	1	330	17140
+"All Counties"	"Dept. of Aging-Senior Nutrition"	7	0	15067
+"All Counties"	"Dept. of Aging - Energy ECIP"	7	125	39469
+"All Counties"	"Dept. of Aging - Energy Weather"	4	168.5	43970.5
+"All Counties"	"Dept. of Aging - Ombudsman"	1	624	63960
+"All Counties"	"Dept. of Aging - RSVP"	1	0	52908
+"All Counties"	"District Attorney"	152	0	103184
+"All Counties"	"Emergency Medical Services"	8	0	76480.5
+"All Counties"	"Emergency Services"	15	900	31035
+"All Counties"	"Employment - Economic Development"	115	69	50013
+"All Counties"	"Environmental Health"	67	0	73683
+"All Counties"	"Facilities Management"	46	152.5	62908
+"All Counties"	"Fleet Services"	33	0	51057
+"All Counties"	"Flood Channel Maintenance"	30	19	51658
+"All Counties"	"Flood Management"	6	0	74194
+"All Counties"	"Glassy-Winged Sharpshooter Prv"	7	0	18919
+"All Counties"	"Health Care Services Admin"	4	0	153168.5
+"All Counties"	"Hosp- Trauma Center"	6	0	11659
+"All Counties"	"Hosp-CDCR Medical Guarded Unit"	19	1278	49955
+"All Counties"	"Hosp-Medical Financial Assistant"	12	0	43604
+"All Counties"	"Hosp -Sexual Asslt Frnsc Examiner"	6	695	3219
+"All Counties"	"Hosp ACS Administration"	17	0	30998
+"All Counties"	"Hosp Administration"	9	0	144943
+"All Counties"	"Hosp Admitting"	21	441	36480
+"All Counties"	"Hosp Biomedical Engineering"	4	867	61948
+"All Counties"	"Hosp Cafeteria"	18	947.5	35462.5
+"All Counties"	"Hosp Cardiac Catheter Lab"	4	1860.5	99718
+"All Counties"	"Hosp Case Management"	15	392	89165
+"All Counties"	"Hosp Childrens Health Services"	16	135.5	43613.5
+"All Counties"	"Hosp Clinical Dietetics"	8	0	66838
+"All Counties"	"Hosp Communications"	10	839	39309.5
+"All Counties"	"Hosp Credit - Collections"	1	29	35916
+"All Counties"	"Hosp CT Scanner"	2	4022	55600.5
+"All Counties"	"Hosp Data Processing"	16	1540	60794
+"All Counties"	"Hosp Dietary"	49	345	22062
+"All Counties"	"Hosp Distribution Services"	15	440	36274
+"All Counties"	"Hosp EKG"	6	738.5	75773.5
+"All Counties"	"Hosp Emergency Room"	90	2445	50687.5
+"All Counties"	"Hosp Employee Health Clinic"	2	396	45695.5
+"All Counties"	"Hosp ER Registration"	19	1157	32603
+"All Counties"	"Hosp Errand - Escort"	8	259	17907.5
+"All Counties"	"Hosp Family Medicine Clinic"	23	302	24162
+"All Counties"	"Hosp FP Clinic California St."	5	142	28187
+"All Counties"	"Hosp General Accounting"	14	0	43576
+"All Counties"	"Hosp Grounds"	4	182.5	43100
+"All Counties"	"Hosp Healthy Beginnings-Calif St"	11	23	28441
+"All Counties"	"Hosp Healthy Beginnings-Fr Camp"	12	31	24812.5
+"All Counties"	"Hosp Hemodialysis Center"	55	738	39590
+"All Counties"	"Hosp Housekeeping"	87	0	22498
+"All Counties"	"Hosp Human Resources"	4	83.5	38166
+"All Counties"	"Hosp Infections Disease-Oncology"	6	98.5	50266
+"All Counties"	"Hosp Intensive Care Nursery"	56	3027	79201.5
+"All Counties"	"Hosp Labor-Del-Recovery-Post Part"	98	1480.5	66174.5
+"All Counties"	"Hosp Laboratory Clinic"	55	1248	45486
+"All Counties"	"Hosp Laundry - Linen"	14	875.5	24427
+"All Counties"	"Hosp Med-Surg Acute BMS-CMS"	98	3048.5	47186.5
+"All Counties"	"Hosp Med-Surg Intensive Care"	58	3641.5	81980.5
+"All Counties"	"Hosp Medical Clinic"	11	14	22471
+"All Counties"	"Hosp Medical Information Svcs"	3	0	47017
+"All Counties"	"Hosp Medical Library"	1	0	49133
+"All Counties"	"Hosp Medical Records"	44	379.5	44891.5
+"All Counties"	"Hosp Medical Staff"	5	114	42197
+"All Counties"	"Hosp Nuclear Medicine"	1	911	90513
+"All Counties"	"Hosp Nursing Administration"	8	0	134143
+"All Counties"	"Hosp Nursing Education"	3	0	39469
+"All Counties"	"Hosp Nursing Float Personnel"	63	1775	27708
+"All Counties"	"Hosp Occupational Med Clinic"	1	284	37512
+"All Counties"	"Hosp Occupational Therapy"	2	112	26179.5
+"All Counties"	"Hosp Op Registration"	22	11	39860.5
+"All Counties"	"Hosp Orthopedic Clinic"	8	69	37376.5
+"All Counties"	"Hosp Outside Services"	2	5.5	48222.5
+"All Counties"	"Hosp Paramedic Ed Radiology St"	2	950	77676
+"All Counties"	"Hosp Pathology Clinic"	3	3032	50147
+"All Counties"	"Hosp Patient Accounting"	32	0	39598.5
+"All Counties"	"Hosp Pediatrics"	13	2217	89378
+"All Counties"	"Hosp Pharmacy"	38	1366	45795
+"All Counties"	"Hosp Phone Center"	8	13	27567
+"All Counties"	"Hosp Physical Therapy"	5	543	82169
+"All Counties"	"Hosp Physician Compensation"	82	0	213611
+"All Counties"	"Hosp Plant Maintenance"	21	1656	59552
+"All Counties"	"Hosp Plant Operations"	5	9695	69950
+"All Counties"	"Hosp Primary Medicine Clinic"	12	196.5	25866.5
+"All Counties"	"Hosp Progressive Care Unit"	76	1384.5	37392
+"All Counties"	"Hosp Pulmonary Function Lab"	2	1723	65902
+"All Counties"	"Hosp Purchasing - Warehouse"	3	0	46790
+"All Counties"	"Hosp Residents-Family Practice"	31	0	32114
+"All Counties"	"Hosp Residents - Internal Med"	33	0	34178
+"All Counties"	"Hosp Residents - Surgery"	18	0	50807
+"All Counties"	"Hosp Respiratory Care"	36	2121	52543.5
+"All Counties"	"Hosp Security"	1	0	50068
+"All Counties"	"Hosp Sleep Lab"	3	0	71567
+"All Counties"	"Hosp Social Services"	10	879	43263.5
+"All Counties"	"Hosp Special Care Clinic"	5	235	18106
+"All Counties"	"Hosp Speech Therapy"	3	0	63470
+"All Counties"	"Hosp Standards - Compliance"	10	0	86501.5
+"All Counties"	"Hosp Sterile Processing Svc"	17	432	27297
+"All Counties"	"Hosp Surgery - Recovery"	74	1313.5	44973.5
+"All Counties"	"Hosp Surgery Clinic"	10	38	26397
+"All Counties"	"Hosp Ultrasonography"	5	686	87029
+"All Counties"	"Hosp Volunteer Services"	2	53	32012
+"All Counties"	"Hospital Audiology"	3	0	44984
+"All Counties"	"Hospital Interpreter Svs"	1	0	29373
+"All Counties"	"Hospital Radiology"	44	550	37903
+"All Counties"	"Housing Appeals Board"	5	0	125
+"All Counties"	"HSA-Staff Development-Trainees"	32	0	3886
+"All Counties"	"HSA-Temporary Extra Help"	17	0	12982
+"All Counties"	"HSA - Admin Support"	100	0	64773.5
+"All Counties"	"HSA - Administration"	1	168	60363
+"All Counties"	"HSA - Clerical Support"	151	114	41257
+"All Counties"	"HSA - EDP Support Cost"	8	1987.5	67986.5
+"All Counties"	"HSA - Eligibility Staff"	380	1087.5	47982
+"All Counties"	"HSA - Gain"	34	0	53924.5
+"All Counties"	"HSA - Services Staff"	209	602	67231
+"All Counties"	"HSA - Staff Development"	44	0	11657
+"All Counties"	"HSA_Fraud Investigative Staff"	3	213	62491
+"All Counties"	"Human Resources"	51	0	74894
+"All Counties"	"Information Systems Division"	68	0	92269
+"All Counties"	"Juvenile Detention"	129	4350	60797
+"All Counties"	"Lovelace Transfer District"	23	853	43513
+"All Counties"	"Mary Graham Childrens Shelter"	75	349	36553
+"All Counties"	"Mental Health-Activity Center"	30	0	30829.5
+"All Counties"	"Mental Health-Administration"	5	0	40159
+"All Counties"	"Mental Health-Adult Outpatient"	201	0	41760
+"All Counties"	"Mental Health-Childrens Service"	51	0	61087
+"All Counties"	"Mental Health-Older Adult Srvs"	12	0	51519
+"All Counties"	"Mental Health - Clerical"	70	0	39469
+"All Counties"	"Mental Health - Lodi Clinic"	4	0	55813.5
+"All Counties"	"Mental Health Pharmacy"	27	0	42071
+"All Counties"	"Mental Health PHF-Inpatient Fac"	105	1611	39977
+"All Counties"	"Mental Health Services"	40	0	59502.5
+"All Counties"	"Neighborhood Preservation"	6	0	71056.5
+"All Counties"	"North County Landfill"	11	1082	59158
+"All Counties"	"Office of Revenue - Recovery"	37	0	31128
+"All Counties"	"Parks - Recreation"	85	10	19471
+"All Counties"	"Pretrial Services"	8	2782	64637
+"All Counties"	"Probation-Adult- SB678"	12	2161	65011.5
+"All Counties"	"Probation-LOC Comm Corr- AB109"	29	1851	63287
+"All Counties"	"Probation - Administration"	19	0	46790
+"All Counties"	"Probation - Adult"	58	660.5	62180
+"All Counties"	"Probation - Juvenile"	71	87	46715
+"All Counties"	"Probation Juvenile-Suppl AB109"	7	4931	70477
+"All Counties"	"Public  Works-Road Main-South"	18	173	50385.5
+"All Counties"	"Public Defender"	78	0	103988.5
+"All Counties"	"Public Defender-Administration"	1	0	2496
+"All Counties"	"Public Health-Admin Support"	26	0	56279.5
+"All Counties"	"Public Health-AFLP- CAL Learn"	9	0	44757
+"All Counties"	"Public Health-Clinical Services"	22	0	40740
+"All Counties"	"Public Health-Health Education"	20	0	39272.5
+"All Counties"	"Public Health-MCAH"	18	0	55332
+"All Counties"	"Public Health-Public Health Lab"	15	0	58538
+"All Counties"	"Public Health - CHDP"	11	0	74651
+"All Counties"	"Public Health - Community Svs"	13	0	46306
+"All Counties"	"Public Health - TB CD"	24	0	48852.5
+"All Counties"	"Public Health - WIC"	29	0	39126
+"All Counties"	"Public Works- RM Watchman"	1	678	7481
+"All Counties"	"Public Works-Engnr-Design"	23	0	59170
+"All Counties"	"Public Works-Engr Trans Plng"	3	0	86176
+"All Counties"	"Public Works-Information System"	2	32	86941
+"All Counties"	"Public Works-Road Main-Central"	9	0	43080
+"All Counties"	"Public Works-Road Main-East"	13	298	48383
+"All Counties"	"Public Works-Road Main-North"	24	39	51379.5
+"All Counties"	"Public Works-Road Main Central"	16	129	50857
+"All Counties"	"Public Works - Administration"	10	0	101258.5
+"All Counties"	"Public Works - Central Srvs"	8	0	41201.5
+"All Counties"	"Public Works - Engnr Bridge"	8	0	68895.5
+"All Counties"	"Public Works - Engnr Field"	23	0	59170
+"All Counties"	"Public Works - Engnr Traffic"	5	0	80066
+"All Counties"	"Public Works - Fiscal"	8	29.5	53177.5
+"All Counties"	"Public Works - Personnel-Trng"	2	399	49991
+"All Counties"	"Public Works - Traffic Maintenance"	23	61	36541
+"All Counties"	"Purchasing- Records Management"	4	0	38623
+"All Counties"	"Purchasing - Admin - Fiscal"	4	0	89549
+"All Counties"	"Purchasing - Buying"	9	0	56059
+"All Counties"	"Purchasing - Duplicating"	3	0	42875
+"All Counties"	"Purchasing - Mail Section"	6	0	34777
+"All Counties"	"Purchasing - Support Services"	1	329	53420
+"All Counties"	"PW - Dev Srvs-Public Services"	4	0	57284
+"All Counties"	"Recorder - County Clerk"	26	0	46558.5
+"All Counties"	"Refuse Disposal Administration"	11	0	63495
+"All Counties"	"Registrar of Voters"	31	514	21583
+"All Counties"	"Retirement Office"	24	0	48594.5
+"All Counties"	"Sealer of Weights - Measures"	6	0	53166.5
+"All Counties"	"Sheriff- Animal Control"	7	368	48061
+"All Counties"	"Sheriff- Manteca Unified Court"	12	0	34898
+"All Counties"	"Sheriff-AB109-Alternatives"	2	10166.5	75468.5
+"All Counties"	"Sheriff-AB109-Bailiff"	1	6250	91170
+"All Counties"	"Sheriff-AB109-Jail Beds"	21	13238	80880
+"All Counties"	"Sheriff-AB109-Programming"	2	11455.5	75865
+"All Counties"	"Sheriff-AB109-Support"	5	4190	53621
+"All Counties"	"Sheriff-Admin-Support Services"	13	48	138135
+"All Counties"	"Sheriff-AS-Background-Training"	30	0	28485.5
+"All Counties"	"Sheriff-AS-Management Services"	1	1528	55721
+"All Counties"	"Sheriff-Commissary"	1	329	45127
+"All Counties"	"Sheriff-Cust-Prisoner Welfare"	6	0	48167.5
+"All Counties"	"Sheriff-Custody-Regular Staff"	243	16905	88056
+"All Counties"	"Sheriff-Custody-SLESF-AB109"	1	14290	80501
+"All Counties"	"Sheriff-French Camp Unif Court"	3	0	40340
+"All Counties"	"Sheriff-Hi Tech Crimes Task Fo"	1	6297	88521
+"All Counties"	"Sheriff-Information Systems"	4	208.5	86770.5
+"All Counties"	"Sheriff-Lathrop-CHRP Grant"	3	22457	96765
+"All Counties"	"Sheriff-Lathrop Police Contract"	25	11554	96474
+"All Counties"	"Sheriff-Mountain House"	6	12559.5	89882
+"All Counties"	"Sheriff-Patrol-Airport"	1	17056	92590
+"All Counties"	"Sheriff-Patrol-CHP Grant"	16	6204.5	64303
+"All Counties"	"Sheriff-Patrol-CHRP Grant"	13	19658	92261
+"All Counties"	"Sheriff-Rural Crime Task Force"	2	14705.5	101739.5
+"All Counties"	"Sheriff-Stockton Unified Court"	66	0	54153
+"All Counties"	"Sheriff - Auto Theft Program"	2	0	33907
+"All Counties"	"Sheriff - Boating Safety"	7	14605	101112
+"All Counties"	"Sheriff - CAL MMET"	2	17862.5	140387.5
+"All Counties"	"Sheriff - Civil"	17	346	44221
+"All Counties"	"Sheriff - Communications"	42	4219.5	63960
+"All Counties"	"Sheriff - Community Corps"	7	0	45248
+"All Counties"	"Sheriff - Coroner-Morgue"	8	2656.5	73397.5
+"All Counties"	"Sheriff - Cust - Admin Support"	34	338.5	46758
+"All Counties"	"Sheriff - Cust - Probationary"	14	216	6334
+"All Counties"	"Sheriff - Cust - Work Furlough"	2	33	42635
+"All Counties"	"Sheriff - Cust -AWP"	6	0	43037
+"All Counties"	"Sheriff - Cust. Realignment"	5	2895	78020
+"All Counties"	"Sheriff - Detectives"	33	10997	101173
+"All Counties"	"Sheriff - Detectives Tech Svcs"	13	5858	62767
+"All Counties"	"Sheriff - Jail Industries"	1	0	26833
+"All Counties"	"Sheriff - Patrol"	119	11574	93992
+"All Counties"	"Sheriff - Public Administrator"	4	0	41807.5
+"All Counties"	"Sheriff - Records - Criminal"	23	946	44416
+"All Counties"	"Sheriff - Records - Custody"	19	1724	41987
+"All Counties"	"Solid Waste - Waste Diversion"	2	0	39131
+"All Counties"	"Solid Waste -Engineering"	3	639	82158
+"All Counties"	"Solid Waste AB-939"	3	0	69913
+"All Counties"	"Stockton Metropolitan Airport"	13	0	46575
+"All Counties"	"Substance Abuse Services"	203	0	3010
+"All Counties"	"Surveyor"	4	0	25105.5
+"All Counties"	"SW-Lovelace Transfer Op"	12	2042.5	59818
+"All Counties"	"SW - North County Recycling"	21	1026	43215
+"All Counties"	"Treasurer-Tax Collector"	29	0	46790
+"All Counties"	"Utility Districts"	23	413	52644
+"All Counties"	"Veterans Service Office"	5	0	48856
+"All Counties"	"Water Resources"	7	0	57744
+"All Counties"	"Administrative Office"	11	0	80984
+"All Counties"	"Agricultural Commissioner"	70	0	46180.5
+"All Counties"	"Air Pollution Control District"	27	0	85779
+"All Counties"	"Airports"	22	0	40074
+"All Counties"	"Animal Services"	24	52.5	43280.5
+"All Counties"	"Assessor"	95	0	52899
+"All Counties"	"Auditor-Controller"	41	0	68682
+"All Counties"	"Behavioral Health"	361	0	45469
+"All Counties"	"Board of Supervisors"	18	0	51601.5
+"All Counties"	"Child Support Services"	42	0	53560.5
+"All Counties"	"Clerk-Recorder"	27	0	47853
+"All Counties"	"County Counsel"	24	0	86819
+"All Counties"	"County Medical Services Program"	14	0	25450
+"All Counties"	"Department of Social Services"	484	0	51291
+"All Counties"	"District Attorney"	105	0	66655
+"All Counties"	"Drinking Driver Programs"	19	0	42214
+"All Counties"	"Emergency Services"	10	0	42779.5
+"All Counties"	"Farm Advisor"	6	0	43872
+"All Counties"	"Fleet Services"	17	0	52467
+"All Counties"	"General Services Agency"	91	0	47986
+"All Counties"	"Golf Courses"	28	0	9106
+"All Counties"	"Grand Jury"	1	0	22492
+"All Counties"	"Human Resources"	26	0	49154.5
+"All Counties"	"Information Technology Division"	74	0	89170
+"All Counties"	"Law Enforcement Medical Care"	41	122	27303
+"All Counties"	"Law Library"	3	0	22881
+"All Counties"	"Library"	98	0	42003
+"All Counties"	"Organizational Development"	1	0	47399
+"All Counties"	"Parks"	130	0	5394
+"All Counties"	"Pension Trust Retirement Fund"	1	0	97676
+"All Counties"	"Planning Department"	106	0	70082.5
+"All Counties"	"Probation Department"	174	0	60383.5
+"All Counties"	"Public Health Department"	214	0	47417.5
+"All Counties"	"Public Works"	214	0	63920
+"All Counties"	"Reprographics"	2	0	12336
+"All Counties"	"Risk Management"	8	0	70328
+"All Counties"	"Sheriff-Coroner"	426	4514	92061.5
+"All Counties"	"Treasurer-Tax Collector"	37	0	41909
+"All Counties"	"Veterans Services"	8	0	40105
+"All Counties"	"39Th Ave Family Health Center"	98	113	52492.5
+"All Counties"	"Aaa Program Staff"	5	0	71927
+"All Counties"	"Ab109 Employment Services"	5	0	66786
+"All Counties"	"Ab109 Re-Alignment"	2	281.5	48299.5
+"All Counties"	"Ab12 Extended Foster Care"	1	1254	77447
+"All Counties"	"Achieve 180"	2	0	93153.5
+"All Counties"	"Acute Medical Surgery 2A/B"	85	3067	85502
+"All Counties"	"Acute Psychiatric 3A/B"	44	1563.5	67622.5
+"All Counties"	"Acute Psychiatric Unit 3A/B"	13	5593	95665
+"All Counties"	"Admin Clerical Support"	1	462	45701
+"All Counties"	"Administration"	14	0	148481.5
+"All Counties"	"Administration & Support"	9	0	86106
+"All Counties"	"Administration Division"	7	0	49367
+"All Counties"	"Administrative Support"	5	0	32012
+"All Counties"	"Adult Literacy Program"	2	0	51241.5
+"All Counties"	"Adult Services Administration"	12	0	94669
+"All Counties"	"Adult Services Clerical"	28	0	55953.5
+"All Counties"	"Adult Srvcs La Puente Clini"	3	0	80635
+"All Counties"	"Adult Svcs-Region Iii-Central"	16	0	87494.5
+"All Counties"	"Afdc Fg/U & Fc"	241	2489	63299
+"All Counties"	"Afdc Fg/U &Fc"	8	1509.5	70866
+"All Counties"	"Affirmative Action/Eeo"	2	0	90415.5
+"All Counties"	"Ag Commissioner/Sealer Admin"	41	0	58719
+"All Counties"	"Aging And Adult Services"	7	0	70624
+"All Counties"	"Aids-Community Services"	9	541	50345
+"All Counties"	"Aids-Health & Social Services"	5	0	76331
+"All Counties"	"Aids Administration"	3	0	121214
+"All Counties"	"Airports"	12	379	60380
+"All Counties"	"Analyst Services"	6	0	96045.5
+"All Counties"	"Animal Control"	4	0	290
+"All Counties"	"App Support/Proj Labor"	27	112	104091
+"All Counties"	"Appraisal Services"	89	0	67339
+"All Counties"	"As-Fs-Mf-Eligibility-Es"	9	0	99834
+"All Counties"	"As/Fs/Mf/Eligibility/Es"	1	0	159670
+"All Counties"	"Assessment Appeals Board"	3	0	26118
+"All Counties"	"Assessment Center"	11	0	61944
+"All Counties"	"Atherton Branch Library"	13	0	8815
+"All Counties"	"Audit Division"	7	0	87726
+"All Counties"	"Automation"	11	0	71570
+"All Counties"	"Automation Support Services"	2	477	88663.5
+"All Counties"	"Ba Training Units"	16	0	18883.5
+"All Counties"	"Background Investigations/Psu"	6	0	11580
+"All Counties"	"Behavior Health & Recovery"	27	0	65889
+"All Counties"	"Belmont Branch Library"	27	0	10446
+"All Counties"	"Benefits Division"	12	0	52674
+"All Counties"	"Bioterrorism Unit"	1	100171	247673
+"All Counties"	"Bldg Security-North Courts"	2	18117.5	118655.5
+"All Counties"	"Board-Restitution Program"	1	0	64803
+"All Counties"	"Board of Supervisor-District 1"	1	0	129521
+"All Counties"	"Board of Supervisor-District 2"	1	0	137379
+"All Counties"	"Board of Supervisor-District 3"	1	0	33331
+"All Counties"	"Board of Supervisor-District 4"	2	0	12063.5
+"All Counties"	"Board of Supervisor-District 5"	1	0	135179
+"All Counties"	"Bookmobile"	2	0	44040
+"All Counties"	"Bos-District 1"	3	0	88023
+"All Counties"	"Bos-District 2"	4	0	77852.5
+"All Counties"	"Bos-District 3"	5	0	79655
+"All Counties"	"Bos-District 4"	10	0	2688
+"All Counties"	"Bos-District 5"	5	0	58405
+"All Counties"	"Bridges Non-Grant"	3	0	85119
+"All Counties"	"Brisbane Branch Library"	4	0	17298.5
+"All Counties"	"Broadmoor Police Department"	13	1607	88334
+"All Counties"	"Budget And Contracts"	2	0	75858
+"All Counties"	"Burlingame Health Admin"	1	0	59
+"All Counties"	"Business Management"	7	0	50070
+"All Counties"	"Business Systems"	1	0	171174
+"All Counties"	"Business Systems Development"	1	0	107203
+"All Counties"	"Business Systems Manager"	1	0	111453
+"All Counties"	"Business Systems Staff"	17	0	97541
+"All Counties"	"C&Fs Clerical Support"	19	0	26003
+"All Counties"	"C&Fs Other Admin Support"	6	0	59067.5
+"All Counties"	"Cal-Id Lab"	5	1545	71061
+"All Counties"	"Calwin"	3	0	95103
+"All Counties"	"Calworks S&B-Clerical Staff"	3	0	36839
+"All Counties"	"Calworks S&B-Program Staff"	22	0	57127
+"All Counties"	"Camp Glenwood"	23	0	69792
+"All Counties"	"Canyon Oaks - Cfs"	1	2771	50534
+"All Counties"	"Canyon Oaks Youth Center"	40	1165.5	58818
+"All Counties"	"Cargo Theft Task Force"	1	37250	144880
+"All Counties"	"Caron Grant"	3	0	8534
+"All Counties"	"Case Management"	16	386	38944
+"All Counties"	"Cast"	9	0	82439
+"All Counties"	"Ccs Administration"	21	0	67871
+"All Counties"	"Ccs Medical Therapy"	31	0	65800
+"All Counties"	"Central Processing"	6	1668.5	49608
+"All Counties"	"Child Nutrition Program"	1	0	8112
+"All Counties"	"Child Protective Services"	47	5058	88850
+"All Counties"	"Child Protective Svcs"	42	671	81741
+"All Counties"	"Child Welfare Services"	56	878	40905.5
+"All Counties"	"Children'S System Of Care"	5	0	52074
+"All Counties"	"Children Health Services"	23	0	81034
+"All Counties"	"Choices"	10	0	56597
+"All Counties"	"Chronic Disease Prevention"	6	0	42992.5
+"All Counties"	"Civil Enforcement"	4	4406.5	122391
+"All Counties"	"Civil Penalties"	3	0	175442
+"All Counties"	"Civil Support"	6	0	50161
+"All Counties"	"Claims Payable"	3	0	55398
+"All Counties"	"Classification-Sheriff"	9	7110	101906
+"All Counties"	"Clerk Of The Board"	2	619.5	69146
+"All Counties"	"Clinic Administration"	1	0	189080
+"All Counties"	"Cmo Membership And Contributio"	1	249	2252
+"All Counties"	"Coastside Clinic"	21	521	55955
+"All Counties"	"Coding Serivces"	7	0	64241
+"All Counties"	"Commissary"	4	1555	46999.5
+"All Counties"	"Commission On Disabilities"	1	0	79518
+"All Counties"	"Commission On Status Of Women"	3	99	8199
+"All Counties"	"Commissioners"	6	0	400
+"All Counties"	"Commissioners In 12160"	5	0	5400
+"All Counties"	"Commissioners In 17280"	5	0	500
+"All Counties"	"Commissioners In 38100"	16	0	275
+"All Counties"	"Communications"	2	0	63698
+"All Counties"	"Community Schools-Institutions"	4	1471.5	62094.5
+"All Counties"	"Community Weekend Work"	8	582	38468.5
+"All Counties"	"Computrust Accounting"	11	0	47289
+"All Counties"	"Conservatorship"	2	0	60390
+"All Counties"	"Contract Professional Services"	2	0	97110
+"All Counties"	"Contracts"	4	0	68495.5
+"All Counties"	"Contracts/Procurement"	1	1114	64154
+"All Counties"	"Controller-Payroll"	10	0	53914.5
+"All Counties"	"Controller Information Systems"	5	0	79702
+"All Counties"	"Cops-Grant"	2	6172	53418.5
+"All Counties"	"Coroner Section"	9	6463	61023
+"All Counties"	"Corporate Compliance/Hippa"	3	0	20867
+"All Counties"	"Correctional Health"	57	1152	50660
+"All Counties"	"Correctional Mental Health"	17	0	22734
+"All Counties"	"County Clerk-Recorder"	23	48	49218
+"All Counties"	"County Community Development"	9	0	58064
+"All Counties"	"County Counsel"	45	0	106375
+"All Counties"	"County Management"	6	0	218915
+"All Counties"	"Countywide Security Unit"	2	12588	114253
+"All Counties"	"Court Officers"	3	1828	88505
+"All Counties"	"Court Security Services"	40	526.5	106995.5
+"All Counties"	"Court Work"	2	2484	63562.5
+"All Counties"	"Coyote Point Marina Operations"	5	0	16595
+"All Counties"	"Coyote Point Park"	20	184.5	11851.5
+"All Counties"	"Crime Lab"	24	0	91966
+"All Counties"	"Crime Lab Projects"	1	4004	110829
+"All Counties"	"Crime Suppression Unit"	2	29906.5	133885.5
+"All Counties"	"Crystal Springs Trail"	2	1715	42544.5
+"All Counties"	"Cs-Fs-Mf-Elg/Es-Dstmis"	11	0	46777
+"All Counties"	"Cs-Fs-Mf-Elg/Es/Dstmis"	36	169.5	35919.5
+"All Counties"	"Cs-Fs-Sf-Elg-Ucs"	1	0	44361
+"All Counties"	"Cs-Fs-Sf-Elg Ucs"	26	13.5	41167.5
+"All Counties"	"Cs-Fs-Sf-Es-Gain"	2	72	32967
+"All Counties"	"Csw Sw Training Unit"	1	1310	90579
+"All Counties"	"Current Planning"	14	0	81759
+"All Counties"	"Custodial Services"	28	0	45435
+"All Counties"	"Customer Billing"	2	3328.5	78831
+"All Counties"	"Customer Services Center-Rwc"	2	0	81657.5
+"All Counties"	"Customer Services Center-Sm"	17	908	46365
+"All Counties"	"Cws/Cms"	1	0	49693
+"All Counties"	"Da-General Criminal"	117	0	90352
+"All Counties"	"Da Public Safety Realignment"	3	0	35719
+"All Counties"	"Daly City Clinic"	37	0	52901
+"All Counties"	"Daly City Youth Center"	8	0	46954.5
+"All Counties"	"Dea Municipal Task Force"	1	45585	169477
+"All Counties"	"Deferred Entry Of Judgment"	2	0	83330.5
+"All Counties"	"Dental Administration"	7	0	32511
+"All Counties"	"Department Management"	4	0	152710
+"All Counties"	"Department Of Housing Manageme"	3	0	155415
+"All Counties"	"Dept Of Child Support Services"	93	0	61735
+"All Counties"	"Desktop Services - Rwc"	11	393	97848
+"All Counties"	"Desktop Services - San Mateo"	10	2658	101067
+"All Counties"	"Detention Administration"	5	0	71565
+"All Counties"	"Disaster Preparedness"	1	0	94035
+"All Counties"	"Disease Prevention"	21	267	64751
+"All Counties"	"Diversion Services"	1	0	76246
+"All Counties"	"Dpw-Business Systems Support"	5	0	92803
+"All Counties"	"Dpw-Clerical Services"	3	0	45167
+"All Counties"	"Dpw-County Trans Program"	1	0	91192
+"All Counties"	"Dpw-Design"	21	0	81018
+"All Counties"	"Dpw-Equip/Fleet Administration"	1	0	110912
+"All Counties"	"Dpw-Financial Services Support"	14	0	51154
+"All Counties"	"Dpw-Maintenance"	11	508	74049
+"All Counties"	"Dpw-Mgmt Svcs Admin Support"	9	0	75761
+"All Counties"	"Dpw-Road Equipment Maintenance"	8	1443.5	69753
+"All Counties"	"Dpw-Road Maintenance"	50	578.5	63845.5
+"All Counties"	"Dpw-Special District Maint"	7	4098	69325
+"All Counties"	"Dpw-Stationary Engineer Svcs"	32	0	73767.5
+"All Counties"	"Dpw-Waste Mgmt Prog & Svcs"	9	0	72030
+"All Counties"	"Dpw - Eng Svcs Admin Support"	2	0	78172.5
+"All Counties"	"Driver Training"	3	0	4840
+"All Counties"	"Drug Court"	3	0	84781
+"All Counties"	"Dual Diagnosis"	2	0	79946
+"All Counties"	"E P A Sanitary District"	15	0	24566
+"All Counties"	"East Palo Alto Branch Library"	17	0	19651
+"All Counties"	"Edgewood Park"	4	339.5	33893
+"All Counties"	"Education Department"	2	391.5	89276
+"All Counties"	"Eeg/Ekg"	5	400	35578
+"All Counties"	"Ehs-Business Plan"	14	105.5	87184.5
+"All Counties"	"Ehs-Medical Waste"	1	339	98423
+"All Counties"	"Ehs-Pool"	3	139	95632
+"All Counties"	"Ehs-Stormwater"	1	0	76958
+"All Counties"	"Elder Mental Health Outreach"	8	0	84025
+"All Counties"	"Elections"	1643	0	140
+"All Counties"	"Eligibility Determination-Ohp"	9	0	64831
+"All Counties"	"Emergency Medical Service"	6	0	91425.5
+"All Counties"	"Emergency Room"	61	1315	59105
+"All Counties"	"Emergency Services"	5	6182	86788
+"All Counties"	"Employment Services-Admin Mgmt"	4	0	93576.5
+"All Counties"	"Endo"	7	52	50752
+"All Counties"	"Env Hlth-Food/Pools/Water Sys"	25	0	72977
+"All Counties"	"Envir Hlth-Cross Connect Prog"	4	0	43103.5
+"All Counties"	"Envir Hlth-Household Haz Waste"	17	0	6943
+"All Counties"	"Envir Hlth-Leak Undrgd Fuel Tk"	8	0	78567.5
+"All Counties"	"Envir Hlth-Underground Tanks"	3	635	89632
+"All Counties"	"Environ Hlth-Housing"	5	321	89603
+"All Counties"	"Environ Hlth-Land Use"	2	0	89272
+"All Counties"	"Environ Hlth-Solid/Infect Med"	3	325	90689
+"All Counties"	"Environ Hlth Administration"	8	0	64519.5
+"All Counties"	"Epa Field Supervision"	3	0	79019
+"All Counties"	"Epa Intensive Supervision"	5	315	87641
+"All Counties"	"Epidemiology"	5	0	59490
+"All Counties"	"Estate Coordination Unit"	7	0	52090
+"All Counties"	"Evidence-Based Supervision"	2	227.5	86801.5
+"All Counties"	"Executive Administration"	4	0	82441.5
+"All Counties"	"Facilities"	4	520.5	67028
+"All Counties"	"Facilities Projects"	8	0	74174
+"All Counties"	"Facilities Service Admin"	11	0	74324
+"All Counties"	"Fair Hearings"	9	1724	77994
+"All Counties"	"Fair Oaks Children'S Clinic"	3	965	34495
+"All Counties"	"Fair Oaks Community Services"	3	186	17041
+"All Counties"	"Fair Oaks Family Hlth Center"	1	0	105756
+"All Counties"	"Family Health Administration"	7	0	103360
+"All Counties"	"Family Health Field Services"	39	0	85627
+"All Counties"	"Family Preservation"	6	0	75118
+"All Counties"	"Fatherhood Collaborative"	2	0	44934.5
+"All Counties"	"Financial Planning & Analysis"	3	0	95336
+"All Counties"	"Firearms Domestic Violence"	1	37574	148692
+"All Counties"	"Fiscal Management"	5	0	99127
+"All Counties"	"Fiscal Services"	6	0	69971
+"All Counties"	"Fiscal Staff Ifas"	30	0	53374.5
+"All Counties"	"Fitzgerald Marine Reserve"	5	396	32808
+"All Counties"	"Flood Park"	5	349	10335
+"All Counties"	"Food And Nutrition Services"	40	563.5	47721.5
+"All Counties"	"Food Services"	1	0	115319
+"All Counties"	"Foster City Branch Library"	30	0	11680
+"All Counties"	"Frc Collaboratives"	6	0	69561
+"All Counties"	"Fusion Center"	11	0	78256
+"All Counties"	"Fy11 Dna Backlog Grant"	1	0	17601
+"All Counties"	"Fy11 State Homeland Security G"	1	0	7073
+"All Counties"	"Fy11 Uasi Grant"	1	0	177071
+"All Counties"	"Gain"	9	0	49693
+"All Counties"	"Gang Intellegence Unit"	7	20654	98533
+"All Counties"	"General Accounting"	15	0	49611
+"All Counties"	"Girls Program"	2	0	86601
+"All Counties"	"Glenwood-Cfs"	3	3461	45749
+"All Counties"	"Glenwood Aftercare"	4	94.5	85799
+"All Counties"	"Grant Funded Quality Programs"	1	0	68252
+"All Counties"	"Half Moon Bay"	9	35299	145078
+"All Counties"	"Half Moon Bay Branch Library"	19	0	38516
+"All Counties"	"Health & Hosp Facilities Mgmt"	25	729	73746
+"All Counties"	"Health Applications"	1	0	35636
+"All Counties"	"Health Care For Homeless"	3	0	72605
+"All Counties"	"Health Care Outreach Project"	9	0	61461
+"All Counties"	"Health Coverage Unit"	39	0	59899
+"All Counties"	"Health It Staffing"	6	17.5	78691
+"All Counties"	"Health Officer"	1	0	244093
+"All Counties"	"Health Policy"	18	0	29952.5
+"All Counties"	"Health Security"	2	0	95279.5
+"All Counties"	"Health Services Administration"	11	0	69823
+"All Counties"	"Healthcare Coordination Unit"	22	17	20835
+"All Counties"	"Healthcare Coverage Initiative"	2	2782.5	54191.5
+"All Counties"	"Hidta Program"	13	0	45195
+"All Counties"	"High Risk Offender-Adult"	4	224	85479.5
+"All Counties"	"High Risk Offender-Juvenile"	3	0	86356
+"All Counties"	"Highlands Recreation District"	68	0	2446
+"All Counties"	"Hlt-Business Admin-Accounting"	3	0	72411
+"All Counties"	"Hlt-Nursing Services"	6	299	98417.5
+"All Counties"	"Hlt-Support Unit"	2	2927	53900.5
+"All Counties"	"Holding Cells-2Nd Floor"	2	18622	133710
+"All Counties"	"Holding Cells-4Th Floor"	2	38464.5	144556.5
+"All Counties"	"Home Detention-Emp"	3	1485	87927
+"All Counties"	"Homeless & Safety Net Services"	7	0	54438
+"All Counties"	"Housekeeping"	39	1276	46153
+"All Counties"	"Housekeeping-Probation"	3	1021	47081
+"All Counties"	"Hq Patrol-Sheriff"	43	17443	130130
+"All Counties"	"Hrd"	2	0	60858
+"All Counties"	"Hrd-Administration"	13	0	54502
+"All Counties"	"Huddart Park"	14	478	14388
+"All Counties"	"Human Resources"	3	0	61140
+"All Counties"	"Ihss"	30	0	73690
+"All Counties"	"Ihsspa"	7	0	50196
+"All Counties"	"In-Patient Psychiatric Beds"	3	0	52978
+"All Counties"	"Independent Living Program"	1	3807	86310
+"All Counties"	"Infection Control"	2	2071.5	116649
+"All Counties"	"Information And Web Services"	2	0	83259
+"All Counties"	"Information Services"	9	2438	104480
+"All Counties"	"Infusion Center"	3	3183	113931
+"All Counties"	"Inmate Intake Processing"	12	1399	64757
+"All Counties"	"Inmate Transportation"	19	9836	124926
+"All Counties"	"Institutions Administration"	3	0	114853
+"All Counties"	"Institutions Clerical"	2	139	53262.5
+"All Counties"	"Intake"	22	0	80013
+"All Counties"	"Intake-Conserv Investigation"	3	6077	90568
+"All Counties"	"Intensive Care Unit"	25	1639	97805
+"All Counties"	"Intergovernmental Affairs"	4	0	103064
+"All Counties"	"Investigation Admin-Sheriff"	3	0	58999
+"All Counties"	"Isd Payroll"	1	195	53222
+"All Counties"	"It Sec/Svr/Data Center"	16	1369.5	103415.5
+"All Counties"	"Jail Planning"	11	0	109276
+"All Counties"	"Junipero Serra Park"	4	112	36851
+"All Counties"	"Juvenile Diversion"	1	42463	163012
+"All Counties"	"Juvenile Services Admin"	5	0	95344
+"All Counties"	"Juvenile Services Clerical"	14	0	57628
+"All Counties"	"Juvenile Traffic"	2	0	50605.5
+"All Counties"	"Keller Center"	4	1350	105334
+"All Counties"	"Kemp Girls Camp"	15	2963	61758
+"All Counties"	"Labor Relations"	5	0	92779
+"All Counties"	"Laboratory"	49	213	46473
+"All Counties"	"Ladera Recreation District"	52	0	1754.5
+"All Counties"	"Landscape Maintenance"	4	0	46779
+"All Counties"	"Law Library"	10	0	12307
+"All Counties"	"Lean Perform Improvement Act"	5	0	75868
+"All Counties"	"Library Administration"	10	0	88269
+"All Counties"	"Linkages"	2	0	39058.5
+"All Counties"	"Local Agency Formation Comm"	1	0	128242
+"All Counties"	"Local Wast Oil Education"	4	0	40373.5
+"All Counties"	"Long Range Planning"	5	0	67817
+"All Counties"	"Ltc Main"	41	1897	52582
+"All Counties"	"Ltc Medical Care"	3	0	15920
+"All Counties"	"Ltd Trust Fund"	51	0	11444
+"All Counties"	"Maguire Main Jail"	157	14717	114707
+"All Counties"	"Mail Room/Copy Center"	1	37	42630
+"All Counties"	"Mail Services"	7	68	44935
+"All Counties"	"Main Jail-Cfs"	15	552	45039
+"All Counties"	"Main Jail Booking"	24	15671	100993
+"All Counties"	"Maintenance Unit"	9	0	67809
+"All Counties"	"Managed Care"	12	0	73167
+"All Counties"	"Marketing & Public Relations"	1	1622	82005
+"All Counties"	"Materials Management/Purchase"	10	267.5	58301
+"All Counties"	"Measure A - Oes District Coord"	1	0	4426
+"All Counties"	"Medical Clinic"	19	214	64840
+"All Counties"	"Medical Interpreter/Translatio"	2	27	62134
+"All Counties"	"Medical Psychiatric Unit"	32	0	66846.5
+"All Counties"	"Medical Records"	17	43	49144
+"All Counties"	"Medical Staff Office"	4	0	64758.5
+"All Counties"	"Memorial Park"	18	455	15753
+"All Counties"	"Mental Health-Alcohol And Drug"	13	0	92280
+"All Counties"	"Mental Health Admin Region Iii"	14	0	47852.5
+"All Counties"	"Mental Health Administration"	139	0	17163
+"All Counties"	"Mental Health Primary Care"	8	0	49815.5
+"All Counties"	"Mentally Ill Offender Grant"	1	5927	55140
+"All Counties"	"Mh-Region I-Adult Services"	13	0	71351
+"All Counties"	"Mh Ab377"	6	0	79158
+"All Counties"	"Mh Admin Region I"	1	0	72607
+"All Counties"	"Mh Admin Region Iv"	2	0	59643.5
+"All Counties"	"Mh Admn Region I"	4	0	50078.5
+"All Counties"	"Mh Conservatorship"	3	0	81789
+"All Counties"	"Mh Hillcrest"	4	239.5	86280.5
+"All Counties"	"Mh Hillcrest-Admin"	12	0	77108.5
+"All Counties"	"Mh Region 1-Child/Ad Services"	6	0	66064.5
+"All Counties"	"Mh Region I-Adult Services"	6	0	82400.5
+"All Counties"	"Mh Region I-Child/Ad Services"	4	0	70013
+"All Counties"	"Mh Region Iii Child/Ad Service"	4	0	80832.5
+"All Counties"	"Mh Region Iv Admin"	9	0	28758
+"All Counties"	"Mh Region Iv Adult Services"	7	0	110451
+"All Counties"	"Mh Region Iv Child/Ad Services"	1	0	64965
+"All Counties"	"Mh Region Iv Child/Adult Svcs"	16	0	64825
+"All Counties"	"Mh Residency Training"	21	0	63073
+"All Counties"	"Mh Special Education"	15	0	66529
+"All Counties"	"Mh Therapeutic Day School"	14	0	62768
+"All Counties"	"Millbrae Branch Library"	28	0	10162
+"All Counties"	"Millbrae Law Enforcement"	20	16808	127820.5
+"All Counties"	"Minimum Security Transition Fa"	4	29627	125617.5
+"All Counties"	"Mlh-Adult Svcs-South County"	7	0	68619
+"All Counties"	"Mlh-Adult Svcs Administration"	2	0	114241.5
+"All Counties"	"Mlh-Coastside"	2	0	109292.5
+"All Counties"	"Mlh-Youth Svcs Administration"	2	0	114493
+"All Counties"	"Mlh-Youth Svcs Case Management"	3	0	79838
+"All Counties"	"Mlh Coastside"	10	0	61558.5
+"All Counties"	"Mlh Youth Svcs Admin"	3	0	101014
+"All Counties"	"Mlh/Hsa-Youth Services"	2	0	45536.5
+"All Counties"	"Modified Work Program"	3	0	50324
+"All Counties"	"Motor Vehicles Division"	13	1538	65092
+"All Counties"	"Mssp"	8	0	78537
+"All Counties"	"Network Services"	7	1671	89719
+"All Counties"	"Nij Dna Backlog Fed"	1	0	33544
+"All Counties"	"Non Departmental"	5	0	38787
+"All Counties"	"North County Patrol"	8	16722.5	121153
+"All Counties"	"Nursing Administration"	31	547	16774
+"All Counties"	"Occupational Therapy"	5	0	54630
+"All Counties"	"Office Of Director(Support)"	4	0	57805
+"All Counties"	"Office Of The Director"	1	0	220078
+"All Counties"	"Operations Administration"	1	0	175619
+"All Counties"	"Outpatient Business Services"	37	183	57662
+"All Counties"	"Pacifica Branch Library"	20	0	27364
+"All Counties"	"Parenting Program"	2	0	59106
+"All Counties"	"Parks Measure A"	2	0	42295
+"All Counties"	"Parks O&M Expenses"	1	0	139722
+"All Counties"	"Pathology"	1	35	48561
+"All Counties"	"Pathology Support"	5	186	4507
+"All Counties"	"Pathways"	9	0	74215
+"All Counties"	"Patient Access"	24	833	53391
+"All Counties"	"Pay For Performance Activities"	1	0	58623
+"All Counties"	"Payroll"	7	417	40959
+"All Counties"	"Pc Coordination"	1	0	14644
+"All Counties"	"Performance Management"	1	705	103996
+"All Counties"	"Personnel"	3	0	50292
+"All Counties"	"Personnel-Sheriff"	15	0	36687
+"All Counties"	"Personnel Services"	36	0	3240
+"All Counties"	"Ph-Correctional Mental Health"	1	0	61927
+"All Counties"	"Ph-Mobile Outreach Clinic"	14	44.5	52706.5
+"All Counties"	"Ph Emergency Preparedness"	9	0	63634
+"All Counties"	"Pharmacy"	20	710.5	55716.5
+"All Counties"	"Pharmacy-Outpatient Retail"	23	697	57870
+"All Counties"	"Physical Therapy"	17	6	43983
+"All Counties"	"Planning Administration"	15	0	54035
+"All Counties"	"Planning And Development"	1	0	103693
+"All Counties"	"Planning And Special Projects"	1	0	2256
+"All Counties"	"Pln-Building Inspection"	17	0	70689
+"All Counties"	"Point Of Care"	1	2093	95714
+"All Counties"	"Portola Traffic"	1	0	86704
+"All Counties"	"Portola Valley Branch Library"	8	0	29495.5
+"All Counties"	"Post Anesthesia /Short Stay Un"	11	2600	126807
+"All Counties"	"Post Release Community Supv"	13	393	87262
+"All Counties"	"Pre-Trial Services"	14	502.5	67435
+"All Counties"	"Prenatal-To-Three Initiative"	23	0	102088
+"All Counties"	"Prevention Clericial Support"	5	45	7017
+"All Counties"	"Prevention Management"	2	0	99570.5
+"All Counties"	"Primary Care Interface"	11	0	78775
+"All Counties"	"Prob-Hillcrest Placement Unit"	3	63	82482
+"All Counties"	"Prob-Housekeeping Unit"	1	666	14693
+"All Counties"	"Prob-Transportation Officers"	3	3228	50214
+"All Counties"	"Prob Hillcrest Placement Unit"	2	172.5	85688.5
+"All Counties"	"Probation-Administration"	4	0	49235
+"All Counties"	"Probation Admin & Fiscal"	10	0	52023.5
+"All Counties"	"Programing & Collection Servic"	13	0	45944
+"All Counties"	"Project Management Office"	1	0	91733
+"All Counties"	"Prop-Central"	1	0	74737
+"All Counties"	"Prop-North"	2	0	84731
+"All Counties"	"Prop-South"	2	0	90329.5
+"All Counties"	"Prop 36"	1	0	89860
+"All Counties"	"Prop 69 Dna"	1	3711	110303
+"All Counties"	"Property Tax/Spec Accounting"	12	0	53916
+"All Counties"	"Property Unit"	7	0	38604
+"All Counties"	"Psc-Administration"	10	0	30089.5
+"All Counties"	"Psc-Operations"	53	19362	99807
+"All Counties"	"Psc-Systems"	3	17045	106117
+"All Counties"	"Psychiatric Emergency Services"	24	2179	61383.5
+"All Counties"	"Public Administrator-Services"	3	0	56208
+"All Counties"	"Public Administrator-Warehouse"	3	0	37308
+"All Counties"	"Public Administrator Transitio"	8	0	34382.5
+"All Counties"	"Public Guardian-Lps"	9	0	77368
+"All Counties"	"Public Guardian-Probate"	7	0	81785
+"All Counties"	"Public Guardian-Property"	8	0	73048.5
+"All Counties"	"Public Health-Vital Statistics"	4	41	55110.5
+"All Counties"	"Public Health Admin"	12	0	70647
+"All Counties"	"Public Health Laboratory"	17	0	39598
+"All Counties"	"Public Health Nutrition"	41	0	43680
+"All Counties"	"Public Information"	2	0	14432.5
+"All Counties"	"Purchasing"	9	0	68080
+"All Counties"	"Quality Assurance & Planning"	5	0	86562
+"All Counties"	"Quality Control"	4	115	56780.5
+"All Counties"	"Quality Insurance"	8	0	88620.5
+"All Counties"	"R. Robinson Senior Care Center"	29	0	50143
+"All Counties"	"Radio Services"	12	1660.5	99992
+"All Counties"	"Radiology"	33	3474	80056
+"All Counties"	"Real Property Services"	5	0	72045
+"All Counties"	"Realignment And Reentry Admin"	5	0	97132
+"All Counties"	"Receiving Home"	23	777	47422
+"All Counties"	"Records-Sheriff"	23	1714	52889
+"All Counties"	"Records Center"	6	0	48307.5
+"All Counties"	"Recreational Therapy"	6	60	59618
+"All Counties"	"Reimbursement Services"	6	0	27305.5
+"All Counties"	"Relationship Management"	2	0	85999
+"All Counties"	"Residential Asstnce Energy Pro"	3	0	21421
+"All Counties"	"Resource Management"	15	0	65248
+"All Counties"	"Respiratory Therapy"	16	1082	60128.5
+"All Counties"	"Ret-Human Resources & Payroll"	23	0	77694
+"All Counties"	"Revenue Services"	27	0	56046
+"All Counties"	"Risk Management"	9	0	85815
+"All Counties"	"Road Services Administration"	4	0	51923.5
+"All Counties"	"Road Services Operations"	8	0	79817
+"All Counties"	"Rttac"	8	47	70068.5
+"All Counties"	"Rwc Court Investigation"	15	0	80567
+"All Counties"	"Rwc Domestic Violence"	2	159	80239
+"All Counties"	"Rwc Intensive Supv-Adult"	5	0	81853
+"All Counties"	"San Bruno Mtn Park"	2	326	39833
+"All Counties"	"San Carlos Branch Library"	32	0	8228.5
+"All Counties"	"San Carlos Bureau"	34	15422.5	136558
+"All Counties"	"San Pedro Valley Park"	8	259.5	39638.5
+"All Counties"	"Search And Rescue"	6	7255	100410.5
+"All Counties"	"Sequoia Teen Wellness Center"	10	0	35925
+"All Counties"	"Sex Offender Supervision"	3	0	84588
+"All Counties"	"Sheriff'S Coastside Substation"	24	30032.5	157252
+"All Counties"	"Sheriff's Community Program"	11	0	7972
+"All Counties"	"Sheriff'S Fiscal Services"	10	0	59853.5
+"All Counties"	"Sheriff'S Relief Unit"	11	6774	103892
+"All Counties"	"Sheriff'S Work Program"	12	1568.5	85412
+"All Counties"	"Shf-Administration"	7	0	130769
+"All Counties"	"Shf-Fair Oaks Patrol"	1	41842	174626
+"All Counties"	"Shf-General Investigation"	11	23172	147934
+"All Counties"	"Shf-No County Investigation"	6	15584	146761
+"All Counties"	"Shf-School Resources"	6	18682	123602.5
+"All Counties"	"Shf-Shop Program"	1	19140	134019
+"All Counties"	"Smc Works"	1	0	29139
+"All Counties"	"So San Francisco Clinic"	20	0	54963
+"All Counties"	"South County Health Center"	106	121	52510
+"All Counties"	"Special Districts Admin"	12	0	69942.5
+"All Counties"	"Special Emphasis Grant"	2	0	59599
+"All Counties"	"Special Forensics"	5	0	62088
+"All Counties"	"Special Grants"	1	0	70065
+"All Counties"	"Special Investigations"	12	31539.5	156676.5
+"All Counties"	"Specialty Clinic"	41	45	49186
+"All Counties"	"Speech Therapy"	2	460.5	52379.5
+"All Counties"	"Ssf Court Investigation"	6	0	82540
+"All Counties"	"Ssf Domestic Violence"	3	0	83934
+"All Counties"	"Ssf Intensive Supervision"	8	0	84609
+"All Counties"	"Staff-Clerical"	1	0	50256
+"All Counties"	"Staff-Coroner"	6	0	47720.5
+"All Counties"	"Staff-Program"	3	0	48744
+"All Counties"	"STD Control"	4	156	66933
+"All Counties"	"Sterile Processing"	5	3676	52218
+"All Counties"	"Summer Job For Youth"	4	0	52171
+"All Counties"	"Supervision Services Admin"	6	0	90106
+"All Counties"	"Supervision Services Clerical"	12	0	55511.5
+"All Counties"	"Support Services"	3	0	44832
+"All Counties"	"Support Services Admin"	1	0	173280
+"All Counties"	"Surgery"	16	5861.5	76125
+"All Counties"	"Surplus Property"	1	0	62164
+"All Counties"	"Switchboard"	1	451	25820
+"All Counties"	"Tax-Administration"	16	0	54035
+"All Counties"	"Technical Services"	5	2703	103528
+"All Counties"	"Telephone Services"	5	3206	108989
+"All Counties"	"Telephone/Voice Services"	1	0	145
+"All Counties"	"Tobacco Prevention"	4	0	18031.5
+"All Counties"	"Traffic"	2	77	36169
+"All Counties"	"Training"	11	0	53650
+"All Counties"	"Training-Sheriff"	5	5333	139236
+"All Counties"	"Transit Operations"	13	32995	150550
+"All Counties"	"Transportation"	9	1917	39086
+"All Counties"	"Transportation Officers"	5	0	50991
+"All Counties"	"Transportation Planning"	6	0	85082.5
+"All Counties"	"Treasurer-Administration"	15	0	55135
+"All Counties"	"Uc Cooperative Extension"	1	0	42832
+"All Counties"	"Vehicle Theft Trust Fund"	3	11045	122327
+"All Counties"	"Veterans Services"	2	852	43570
+"All Counties"	"Victim Witness Grant"	7	0	61230
+"All Counties"	"Violent Offender Supervision"	1	528	91844
+"All Counties"	"Volunteers"	2	1144.5	80123.5
+"All Counties"	"Vrs-Mental Health Counseling"	9	0	61323
+"All Counties"	"Vrs Admin Clerical"	2	0	82842
+"All Counties"	"Vrs Other Services"	1	0	9964
+"All Counties"	"Vrs Rehab-Ss Counseling"	3	0	77853
+"All Counties"	"Vrs Rehab-State Grants"	8	0	58244.5
+"All Counties"	"Vrs Workcenter Program"	10	0	59856.5
+"All Counties"	"Wia Clerical S&B"	1	1345	65876
+"All Counties"	"Wia Management S&B"	1	0	67291
+"All Counties"	"Wia Program Staff S&B"	18	0	59198.5
+"All Counties"	"Willow Clinic"	6	0	89385.5
+"All Counties"	"Women'S Correctional Facility"	24	16343.5	119442
+"All Counties"	"Women'S Transitional Facility"	2	19492.5	116752
+"All Counties"	"Woodside Branch Library"	10	0	29653
+"All Counties"	"Woodside Traffic"	2	58565.5	175966.5
+"All Counties"	"Workcenter Food Services"	4	30	46898.5
+"All Counties"	"Workcenter Recycling"	2	21884	63293
+"All Counties"	"Wrap Around"	2	0	80985.5
+"All Counties"	"Y & Fs Management"	8	0	110499
+"All Counties"	"Youth-Fam And Literacy"	2	0	81288.5
+"All Counties"	"Youth-Healthy Step/Pre3/Partne"	19	0	60992
+"All Counties"	"Youth Services"	2	349.5	51930
+"All Counties"	"Youth Services-Cpa 2000"	1	49	68667
+"All Counties"	"Youth Services Center - Cfs"	23	304	16568
+"All Counties"	"Youth Services Center Medical"	7	5987	139657
+"All Counties"	"Youth Services Cntr Security"	2	912	63150
+"All Counties"	"Youth Svcs-Wraparound Pilot"	1	0	46455
+"All Counties"	"Youth Svcs Central/So County"	11	0	48322
+"All Counties"	"Ysc Court Investigation"	10	0	83116
+"All Counties"	"Ysc Field Supervision"	3	0	87963
+"All Counties"	"Ysc Intensive Supervision"	2	0	82310.5
+"All Counties"	"Ysc Juvenile Hall"	114	1347	66565.5
+"All Counties"	"Agricultural Commissioner/W&M"	34	0	57779
+"All Counties"	"Alcohol, Drug, & Mental health Svcs"	387	0	57627
+"All Counties"	"Auditor-Controller"	69	0	66524
+"All Counties"	"Board of Supervisors"	27	0	65127
+"All Counties"	"Child Support Services"	86	42.5	55939
+"All Counties"	"Clerk-Recorder-Assessor"	114	0	61362
+"All Counties"	"Community Services"	4	0	104660.5
+"All Counties"	"County Counsel"	41	0	79997
+"All Counties"	"County Executive Office"	48	0	64000
+"All Counties"	"District Attorney"	148	0	67818
+"All Counties"	"Fire"	264	25316.5	117057
+"All Counties"	"First 5, Children & Families"	15	0	70520
+"All Counties"	"General County Programs"	6	0	3955
+"All Counties"	"General Services"	132	0	62993
+"All Counties"	"Housing/Community Development"	12	0	71211
+"All Counties"	"Human Resources"	32	0	67957.5
+"All Counties"	"Parks"	143	0	15316
+"All Counties"	"Planning & Development"	125	0	68305
+"All Counties"	"Probation"	398	18.5	63942.5
+"All Counties"	"Public Defender"	77	0	73319
+"All Counties"	"Public Health"	594	0	50272
+"All Counties"	"Public Works"	303	0	60371
+"All Counties"	"Sheriff"	747	4397	80929
+"All Counties"	"Social Services"	1041	0	43044
+"All Counties"	"Treasurer-Tax Collector-Public"	42	0	64568.5
+"All Counties"	"Agriculture & Environ Mgmt."	97	0	54781.08
+"All Counties"	"Airports"	13	4573.07	58589.3
+"All Counties"	"Alcohol And Drug"	189	0	55636.82
+"All Counties"	"Assessor"	281	0	57687.16
+"All Counties"	"Clerk Of The Board"	34	0	52029.545
+"All Counties"	"Communications"	101	4576.14	91152.57
+"All Counties"	"Community Health Services"	98	560.045	55497.46
+"All Counties"	"Controller"	89	0	70231.39
+"All Counties"	"County Counsel"	146	0	81420.51
+"All Counties"	"County Executive"	110	0	73283.25
+"All Counties"	"County Library"	401	0	26298.26
+"All Counties"	"County Parks & Recreation"	302	300.9	54530.215
+"All Counties"	"County Recorder"	68	50.745	52729.805
+"All Counties"	"Custody Health Services"	286	1417.43	66584.745
+"All Counties"	"Department Of Correction"	309	435.5	52431.45
+"All Counties"	"Department Of Revenue"	88	0	50980.04
+"All Counties"	"Dept. Of Child Support Servs"	294	0	65821.68
+"All Counties"	"Dept. Of Environmental Health"	119	0	89711.81
+"All Counties"	"Dept. Of Planning & Development"	83	0	87282.04
+"All Counties"	"District Attorney"	590	0	83873.71
+"All Counties"	"Employee Services Agency"	221	0	59901.96
+"All Counties"	"Facilities"	233	0	55929.8
+"All Counties"	"Fleet Services"	58	244.515	68465.485
+"All Counties"	"Information Services"	213	0	97206.71
+"All Counties"	"Local Area Formation Comm"	3	0	99730.27
+"All Counties"	"Medical Examiner-Coroner"	23	158.28	73661.55
+"All Counties"	"Mental Health"	486	0	52609.74
+"All Counties"	"Office Of Affordable Housing"	8	0	61752.415
+"All Counties"	"Pre-Trial Services"	53	0	59809.44
+"All Counties"	"Probation"	970	0	80926.345
+"All Counties"	"Procurement Department"	35	0	81288.68
+"All Counties"	"Public Defender"	275	0	94585.87
+"All Counties"	"Public Health"	485	0	59158.86
+"All Counties"	"Registrar Of Voters"	111	441.56	12488.31
+"All Counties"	"Roads Operations"	264	0	62614.48
+"All Counties"	"Scc Fire District"	313	10013.44	140975.08
+"All Counties"	"Sheriff-DOC Contract"	672	12375.02	100595.435
+"All Counties"	"Sheriff Services"	818	1530.06	97761.405
+"All Counties"	"Social Services Agency"	2571	128.3	63261.7
+"All Counties"	"SSA Nutrition Services"	11	0	67239.26
+"All Counties"	"Supervisorial District 1"	9	0	69535.78
+"All Counties"	"Supervisorial District 2"	17	0	20085.52
+"All Counties"	"Supervisorial District 3"	11	0	68629.6
+"All Counties"	"Supervisorial District 4"	7	0	90568.35
+"All Counties"	"Supervisorial District 5"	15	0	46348.17
+"All Counties"	"Tax Collector"	92	0	41059.825
+"All Counties"	"Valley Health Plan/Mgdcare"	89	0	64864.33
+"All Counties"	"Valley Medical Center"	6974	634.31	58071.725
+"All Counties"	"Vector Control District"	42	504.745	59196.8
+"All Counties"	"Agricultural Commission"	30	364.5	50914
+"All Counties"	"Agricultural Extension Services"	1	0	51303
+"All Counties"	"Assessor"	25	1361.5	55619
+"All Counties"	"Auditor-Controller"	27	155	57981
+"All Counties"	"Board Of Supervisors"	23	0	66239
+"All Counties"	"Child Support Services"	63	541	56992
+"All Counties"	"County Administrative Office"	18	197	61129.5
+"All Counties"	"County Clerk"	40	76.5	3045.5
+"All Counties"	"County Counsel"	19	152	138580
+"All Counties"	"Custodial Funds"	1	0	5766
+"All Counties"	"District Attorney"	92	4629	72251.5
+"All Counties"	"Emergency Services"	1	0	104653
+"All Counties"	"General Services"	55	955	46085
+"All Counties"	"Health Services Agency"	550	706	62092.5
+"All Counties"	"Human Services Department"	506	3061	57649
+"All Counties"	"Info Services"	58	1285	77627.5
+"All Counties"	"Info Services - Radio Shop"	7	475	53678
+"All Counties"	"Parks And Recreation"	146	235.5	7115.5
+"All Counties"	"Personnel"	36	830.5	58154.5
+"All Counties"	"Planning"	63	276	76495
+"All Counties"	"Probation"	155	795	58771
+"All Counties"	"Public Works"	259	1511	63892
+"All Counties"	"Recorder"	11	550.5	48476
+"All Counties"	"Redevelopment Agency"	1	0	103653
+"All Counties"	"Sheriff - Coroner"	346	7575	85054
+"All Counties"	"Treasurer - Tax Collector"	14	2000	52214.5
+"All Counties"	"Ag Commissioner/Sealer Of Weigh"	18	0	38421
+"All Counties"	"Ag Extension Service"	2	0	32892.5
+"All Counties"	"Assessor"	40	0	50119
+"All Counties"	"Auditor Controller"	29	0	35599
+"All Counties"	"Board Of Supervisors"	5	0	54278
+"All Counties"	"Burney Substation"	10	21728	86019
+"All Counties"	"CAO-Personnel"	14	0	34956
+"All Counties"	"CAO-Purchasing"	2	13	12857
+"All Counties"	"CAO-Risk Management"	10	0	43274.5
+"All Counties"	"Clerk Of The Board"	3	0	42839
+"All Counties"	"Community Action Agency"	3	0	46477
+"All Counties"	"County Administrative Office"	7	0	79375
+"All Counties"	"County Clerk"	2	342	66697
+"All Counties"	"County Counsel"	12	0	95149.5
+"All Counties"	"DA-Victim Witness"	10	0	40380
+"All Counties"	"Dept. Of Child Support Services"	95	0	33650
+"All Counties"	"Detention Annex"	6	6752.5	51819.5
+"All Counties"	"District Attorney"	70	0	40133
+"All Counties"	"Election Admin & Registration"	41	0	2970
+"All Counties"	"Farm Advisor-Joint Lassen"	1	0	17436
+"All Counties"	"Fire Protection Administration"	2	6859.5	52148.5
+"All Counties"	"Health Services-HHSA"	94	0	39129.5
+"All Counties"	"Health Services-MH Combined"	14	0	43295.5
+"All Counties"	"Health Services-MHSA"	68	13.5	25546.5
+"All Counties"	"Health Services-PH-CCSS"	19	0	40525
+"All Counties"	"Housing & Comm Action Program"	8	0	36654
+"All Counties"	"Housing Cal Home"	1	0	10152
+"All Counties"	"Housing Rehabilitation"	1	0	45080
+"All Counties"	"IHSS - Public Authority"	3	0	28123
+"All Counties"	"Information Technology"	44	64	47960
+"All Counties"	"Intermountain Fair"	19	0	1029
+"All Counties"	"Mental Health"	96	7	44527
+"All Counties"	"Opportunity Center Clients"	233	0	1983
+"All Counties"	"Probation"	96	0	37020.5
+"All Counties"	"Probation-Juvenile Hall"	46	2322	34865
+"All Counties"	"Public Defender"	34	0	54182
+"All Counties"	"Public Health"	170	0	28432.5
+"All Counties"	"Public Works-County Serv Area"	11	811	40921
+"All Counties"	"Public Works-Facilities Mgmt."	39	0	32487
+"All Counties"	"Public Works-Fleet Management"	6	0	42271
+"All Counties"	"Public Works-Roads"	121	72	42211
+"All Counties"	"Recorder"	10	0	32897
+"All Counties"	"Res Mgmt.-Air Quality"	7	0	57310
+"All Counties"	"Res Mgmt.-Building Division"	15	0	28268
+"All Counties"	"Res Mgmt.-Environmental Health"	16	0	42650.5
+"All Counties"	"Res Mgmt.-Planning"	9	0	52521
+"All Counties"	"Sheriff"	134	2039	45309.5
+"All Counties"	"Sheriff'S Civil Unit"	6	0	30433
+"All Counties"	"Sheriff-Boating Safety"	15	904	15207
+"All Counties"	"Sheriff-Coroner"	8	3645.5	62535
+"All Counties"	"Sheriff-County Jail"	99	7221	46744
+"All Counties"	"Sheriff - Animal Shelter"	5	270	25685
+"All Counties"	"Social Services-Opp Center"	57	471	24360
+"All Counties"	"Social Services & Ben Admin"	531	44	31156
+"All Counties"	"Substance Abuse-Perinatal"	14	0	28034.5
+"All Counties"	"Treasurer-Tax Collector"	17	0	36882
+"All Counties"	"Veterans Service Office"	10	0	16919
+"All Counties"	"Assessor"	5	0	41461
+"All Counties"	"Assistant Treasurer"	1	0	60821
+"All Counties"	"Auditor"	3	0	50319
+"All Counties"	"Auditor/Treasurer-Tax Collector"	1	0	110257
+"All Counties"	"Board of Supervisors"	5	0	25265
+"All Counties"	"Building"	4	0	35474
+"All Counties"	"Clerk"	3	0	37284
+"All Counties"	"D.A."	1	0	38123
+"All Counties"	"District Attorney"	1	0	106841
+"All Counties"	"Health Department"	15	0	5095
+"All Counties"	"Human Services"	4	0	46165.37
+"All Counties"	"IS"	1	0	56706
+"All Counties"	"IS Help"	1	0	63187
+"All Counties"	"Mental Health"	24	0	4820
+"All Counties"	"Parks"	1	0	12011
+"All Counties"	"Planning"	4	0	46884
+"All Counties"	"Plant Maintenance"	3	0	21999
+"All Counties"	"Plant Manager"	1	0	47193
+"All Counties"	"Probation"	3	0	58656
+"All Counties"	"Public Works"	1	0	57334
+"All Counties"	"Road"	6	6.31	39296.31
+"All Counties"	"Road Department"	14	20.635	28616.905
+"All Counties"	"Sheriff"	20	1955.785	52504.375
+"All Counties"	"Social Services"	13	0	41113
+"All Counties"	"Solid Waste"	11	0	9431
+"All Counties"	"Transportation"	1	0	127630
+"All Counties"	"Treasurer"	1	0	32653
+"All Counties"	"Victim Witness"	1	0	44006
+"All Counties"	"Agriculture Commissioner/Sealer"	26	0	14244.5
+"All Counties"	"Air Pollution Control District"	3	0	51689
+"All Counties"	"Animal Control"	3	0	33167
+"All Counties"	"Assessor"	22	0	38459.5
+"All Counties"	"Auditor-Controller"	16	12	36544
+"All Counties"	"Automotive Service"	3	26	38478
+"All Counties"	"Bailiff - Court Services"	1	2329	61933
+"All Counties"	"Behavioral Health"	64	0	27599
+"All Counties"	"Behavioral Health - Local MHSA"	22	184.5	44025
+"All Counties"	"Board Of Supervisors"	6	0	34835.5
+"All Counties"	"Building Department"	4	0	54176.5
+"All Counties"	"Clerk"	3	0	68150
+"All Counties"	"Comm Corrections Performance Incntv"	1	79	40648
+"All Counties"	"Communications"	3	0	59840
+"All Counties"	"County Administrator"	5	0	55835
+"All Counties"	"County Counsel"	7	0	58235
+"All Counties"	"County Jail"	42	3293.5	52046
+"All Counties"	"County Library"	5	0	32439
+"All Counties"	"Courthouse & Grounds"	3	157	38389
+"All Counties"	"Dept. Of Child Support Services"	25	6	40585
+"All Counties"	"District Attorney-Public Admin"	26	0	37726.5
+"All Counties"	"Drug & Alcohol Program"	7	0	12552
+"All Counties"	"Elections & Registrations"	16	0	408
+"All Counties"	"Emergency Services"	2	480	40562.5
+"All Counties"	"Environmental Health"	9	0	64502
+"All Counties"	"Hammond Ranch Fire"	4	0	3270
+"All Counties"	"Human Services Administration"	128	0	35182.5
+"All Counties"	"Inmate Health Program"	6	991	27124
+"All Counties"	"Juvenile Hall"	27	296	23213
+"All Counties"	"Local Community Corrections"	11	30	33685
+"All Counties"	"Natural Resources"	1	0	59743
+"All Counties"	"Perinatal Substance Abuse"	3	0	9309
+"All Counties"	"Ph - Personal Health"	17	0	47331
+"All Counties"	"Planning"	7	0	33921
+"All Counties"	"Predatory Animal Control"	1	1778	36664
+"All Counties"	"Probation"	22	124	39968.5
+"All Counties"	"Public Defender"	8	0	69583.5
+"All Counties"	"Public Guardian"	2	0	21118
+"All Counties"	"Public Health Administration"	7	0	41182
+"All Counties"	"Recorder"	5	0	23589
+"All Counties"	"Road Construction & Maintenance"	95	408	43126
+"All Counties"	"Sheriff-Coroner"	76	2471	58599.5
+"All Counties"	"Siskiyou Co Flood Control & Water"	2	0	20553
+"All Counties"	"Siskiyou County Museum"	1	0	13866
+"All Counties"	"Siskiyou Narc Task Force- Asset For"	2	51	19466.5
+"All Counties"	"Siskiyou Transit And General Expres"	28	168.5	23140
+"All Counties"	"Solid Waste Disposal"	6	112	36690
+"All Counties"	"Surveyor"	1	0	28044
+"All Counties"	"Treasurer-Tax Collector"	7	0	48146
+"All Counties"	"Tulelake Farm Adviser"	2	0	8374
+"All Counties"	"Veterans Service Office"	3	110	20239
+"All Counties"	"Women, Infants & Children"	7	0	19659
+"All Counties"	"Yreka Farm Adviser"	2	0	13748
+"All Counties"	"Agriculture Dept."	29	0	49323
+"All Counties"	"Assr/Recorder Dept."	54	0	57394
+"All Counties"	"Auditor/Controller Department"	36	170.5	64060.5
+"All Counties"	"Board of Supervisors"	15	0	59012
+"All Counties"	"Cooperative Extension-UC"	2	0	44119.5
+"All Counties"	"County Administrator's Office"	19	0	94579
+"All Counties"	"County Counsel Dept."	21	0	118779
+"All Counties"	"Dept. of Child Support Services"	108	0	58201.5
+"All Counties"	"Dept. of Information Technology"	65	0	75759
+"All Counties"	"District Attorney Dept"	135	0	66839
+"All Counties"	"Fouts Springs Youth Facility"	1	0	49518
+"All Counties"	"General Services"	97	0	52236
+"All Counties"	"Health & Social Services Dept"	1207	0	54730
+"All Counties"	"Human Resources Dept."	36	0	52133
+"All Counties"	"Library Dept"	283	0	8560
+"All Counties"	"Probation Dept"	214	0	65489.5
+"All Counties"	"Public Defender Dept"	89	0	78090
+"All Counties"	"Res Mgmt-Deta Water Act"	1	0	106370
+"All Counties"	"Res Mgmt-Public Works"	64	0	58731.5
+"All Counties"	"Resource Management"	70	0	66781
+"All Counties"	"Sheriff's EMPG Grants"	1	0	25252
+"All Counties"	"Sheriff's Office Dept."	501	5052	74777
+"All Counties"	"Treasurer-Tax Collector-Co Clk"	15	1210	50585
+"All Counties"	"Veterans Services"	5	0	50069
+"All Counties"	"Agricultural-Commissioners Office"	60	0	36593.5
+"All Counties"	"Auditor-Controller"	107	0	60257
+"All Counties"	"Board of Supervisors"	34	0	25463.5
+"All Counties"	"Clerk Recorder Assessor"	130	0	54257
+"All Counties"	"Community Development Commission"	36	0	58937.5
+"All Counties"	"County Administrator's Office"	31	0	45654
+"All Counties"	"County Counsel"	45	0	94633
+"All Counties"	"Cu Cooperative Extension"	8	0	34111.5
+"All Counties"	"Department Of Child Support Services"	99	0	58359
+"All Counties"	"Department Of Health Services"	772	0	51455.5
+"All Counties"	"District Attorneys Office"	136	0	66282.5
+"All Counties"	"Economic Development Board"	27	0	19005
+"All Counties"	"Fire And Emergency Services Department"	61	0	7507
+"All Counties"	"General Services Department"	170	0	49186
+"All Counties"	"Human Resources Department"	74	0	57040
+"All Counties"	"Human Services Department"	969	0	50580
+"All Counties"	"Information Systems Department"	114	0	85476.5
+"All Counties"	"Permit Resource Management Department"	123	0	67861
+"All Counties"	"Probation Department"	353	81	63721
+"All Counties"	"Public Defender's Office"	67	0	85013
+"All Counties"	"Regional Parks Department"	213	377	20080
+"All Counties"	"Retirement"	22	0	61768
+"All Counties"	"Sheriff"	742	9209	91091.5
+"All Counties"	"Transportation and Public Works"	228	1403.5	59798.5
+"All Counties"	"Water Agency"	319	83	69011
+"All Counties"	"Aging & Veterans Services"	22	0	44231
+"All Counties"	"Agricultural Commissioner"	51	0	37369
+"All Counties"	"Alliance WorkNet"	82	0	45401.5
+"All Counties"	"Animal Services"	28	134.5	39097
+"All Counties"	"Assessor"	53	0	54634
+"All Counties"	"Auditor Controller"	36	0	52130.5
+"All Counties"	"Behavioral Health & Recov Svs"	432	0	45292.5
+"All Counties"	"Board of Supervisors"	8	0	74542
+"All Counties"	"Chief Executive Office"	63	0	61412
+"All Counties"	"Child Support Services"	149	0	42788
+"All Counties"	"Childrens & Families Com"	4	0	51479
+"All Counties"	"Clerk/Recorder"	55	0	35714
+"All Counties"	"Community Services Agency"	916	228.5	42737.5
+"All Counties"	"Cooperative Extension"	4	0	37091
+"All Counties"	"County Counsel"	14	0	73408.5
+"All Counties"	"District Attorney"	128	0	52522
+"All Counties"	"Environmental Resources"	85	0	53002
+"All Counties"	"General Services Agency"	50	0	44284
+"All Counties"	"Health Services Agency"	543	0	34633
+"All Counties"	"Law Library"	4	0	17173
+"All Counties"	"Library"	141	0	19281
+"All Counties"	"Local Agency Formation Comm."	3	0	77867
+"All Counties"	"Parks & Recreation"	38	0	31722
+"All Counties"	"Planning & Community Develop"	27	0	63511
+"All Counties"	"Probation"	239	515	50655
+"All Counties"	"Public Defender"	37	0	81634
+"All Counties"	"Public Works"	100	0	52556.5
+"All Counties"	"Retirement Board"	12	0	55491.5
+"All Counties"	"Sheriff"	619	4433	57246
+"All Counties"	"Stanislaus Regional 911"	59	3597	67658
+"All Counties"	"Strategic Business Technology"	24	0	77787
+"All Counties"	"Treasurer"	27	0	43491
+"All Counties"	"Agricultural Commissioner"	22	0	57811
+"All Counties"	"Animal Control"	13	0	17167
+"All Counties"	"Assessor"	24	0	47083.5
+"All Counties"	"Auditor-Controller"	13	0	42697
+"All Counties"	"Bi-County Farm Advisor"	2	0	41553
+"All Counties"	"Board Of Supervisors"	6	0	33912.5
+"All Counties"	"Boat Patrol Reserves"	1	0	234
+"All Counties"	"Building Inspection"	1	0	56821
+"All Counties"	"Building Maintenance"	30	41.5	37150.5
+"All Counties"	"Child Support Services"	33	0	44788
+"All Counties"	"Clerk Of The Board"	3	0	18999
+"All Counties"	"Community Memorial Museum"	5	0	961
+"All Counties"	"County Administrator"	7	0	87580
+"All Counties"	"County Airport"	1	0	2941
+"All Counties"	"County Clerk"	1	0	80203
+"All Counties"	"County Counsel"	7	0	116073
+"All Counties"	"County Jail"	57	6683	56470
+"All Counties"	"County Library"	21	0	34372
+"All Counties"	"County Service Area F"	17	4118	68051
+"All Counties"	"Development Services Admin"	10	0	52790.5
+"All Counties"	"District Attorney"	31	0	61424
+"All Counties"	"Elections"	10	0	36117
+"All Counties"	"Emergency Services"	1	0	85854
+"All Counties"	"Engineering Services"	9	0	94509
+"All Counties"	"Environmental Health"	7	0	68559
+"All Counties"	"Fire Administration Services"	1	0	128961
+"All Counties"	"Fleet Management ISF"	5	0	53757
+"All Counties"	"General Services Department"	7	0	50203
+"All Counties"	"Human Resources"	8	0	60594
+"All Counties"	"Human Services Administration"	4	0	64871
+"All Counties"	"Information Technology ISF"	17	0	76968
+"All Counties"	"Jail Medical"	27	0	21462
+"All Counties"	"Jail Reserves"	14	0	876
+"All Counties"	"Mash-Mental Health Serv Act"	1	0	18352
+"All Counties"	"Mental Health Services"	167	0	40589
+"All Counties"	"Mhsa-Mental Health Serv Act"	46	0	58647
+"All Counties"	"Net 5 Sheriff"	1	0	44444
+"All Counties"	"Off Of Revenue Collection"	4	0	28472.5
+"All Counties"	"Patrol Reserves"	25	0	776
+"All Counties"	"Planning & Building"	22	0	13266
+"All Counties"	"Probation"	52	0	60941
+"All Counties"	"Public Defender"	1	0	91926
+"All Counties"	"Public Guardian & Conservator"	4	0	23795
+"All Counties"	"Recorder"	5	0	40653
+"All Counties"	"Road"	24	489.5	43606
+"All Counties"	"Sheriff's Court Bailiffs"	6	3324.5	60187
+"All Counties"	"Sheriff-Communications"	22	297	52261
+"All Counties"	"Sheriff-Coroner"	46	4367.5	70342.5
+"All Counties"	"Sheriff Boat Patrol"	3	14556	76787
+"All Counties"	"Sheriff Inmate Welfare"	1	2092	53912
+"All Counties"	"Sheriff Live Oak Contract"	11	3585	60508
+"All Counties"	"Sutter County Health"	56	0	41906.5
+"All Counties"	"Treasurer-Tax Collector"	8	0	43063
+"All Counties"	"Water Resources"	4	731.5	59923.5
+"All Counties"	"Welfare Administration"	184	0	40798
+"All Counties"	"Workers' Comp INS-ISF"	2	0	69551.5
+"All Counties"	"Agriculture Commissioner"	12	0	53647
+"All Counties"	"Agriculture Extension"	2	0	41003.5
+"All Counties"	"Air Pollution District"	6	0	34568
+"All Counties"	"Assessor"	19	0	39341
+"All Counties"	"Auditor Controller"	12	0	41215.5
+"All Counties"	"Bailiff"	6	1428	52349
+"All Counties"	"Board of Supervisors"	14	0	32752.5
+"All Counties"	"Building and Safety"	8	0	32944
+"All Counties"	"Camp Tehama"	1	0	7541
+"All Counties"	"Child Support Services"	22	0	35309.5
+"All Counties"	"Clerk-Recorder"	7	0	35189
+"All Counties"	"Clinic Services"	15	0	32549
+"All Counties"	"Community Action Agency"	17	0	15079
+"All Counties"	"Corning Veteran's Hall"	1	0	8750
+"All Counties"	"County Counsel"	10	0	42776.5
+"All Counties"	"Day Reporting Center"	13	3680	49848
+"All Counties"	"District Attorney"	21	0	56186
+"All Counties"	"District Attorney's Early Welfare Fraud"	1	587	58135
+"All Counties"	"District Attorney's Welfare Fraud"	2	267	60466
+"All Counties"	"District Attorney Victim/Witness"	5	0	33913
+"All Counties"	"District Attorney Welfare Fraud"	1	310	74892
+"All Counties"	"Division of Animal Services"	11	0	11219
+"All Counties"	"Drug & Alcohol"	28	0	29003
+"All Counties"	"Elections"	12	0	728
+"All Counties"	"Environmental Health"	9	0	56645
+"All Counties"	"Facilities Maintenance"	11	0	41096
+"All Counties"	"Fire"	5	1531	43668
+"All Counties"	"Jail"	44	5050.5	51010
+"All Counties"	"Jail Nursing Service"	1	0	29748
+"All Counties"	"Juvenile Detention Facility"	37	0	28359
+"All Counties"	"Law Library"	2	0	3887
+"All Counties"	"Library"	12	0	15044.5
+"All Counties"	"Mental Health"	106	0	35409.5
+"All Counties"	"Personnel"	4	0	45551.5
+"All Counties"	"Planning  Department"	2	0	6155
+"All Counties"	"Planning Department"	10	0	4592
+"All Counties"	"Probation First Offender"	2	0	35213
+"All Counties"	"Probation Office"	36	0	37612.5
+"All Counties"	"Public Guardian/Public  Administration"	6	0	34047
+"All Counties"	"Public Health"	42	0	34282
+"All Counties"	"Purchasing"	1	106	27429
+"All Counties"	"Risk Management"	3	0	38146
+"All Counties"	"Road Department"	71	113	41527
+"All Counties"	"Sheriff"	64	2121	52614.5
+"All Counties"	"Sheriff - Coroner"	2	7429	82380.5
+"All Counties"	"Sheriff Animal Regulation"	3	1077	36624
+"All Counties"	"Sheriff/Court Security"	1	0	49567
+"All Counties"	"Social Services Administration"	202	0	34477.5
+"All Counties"	"Tax Collector"	2	0	32760.5
+"All Counties"	"Tehama County Child & Families Commission"	2	0	48902.5
+"All Counties"	"Tehama County In Home Social Services Public Authority"	2	0	26963.5
+"All Counties"	"Treasurer"	4	0	63802
+"All Counties"	"Administration"	5	0	42028
+"All Counties"	"Animal Control"	6	0	4412
+"All Counties"	"Auditor"	7	0	38619
+"All Counties"	"Beh Health"	1	0	22996
+"All Counties"	"Behavioral Health"	33	0	35476
+"All Counties"	"Bldg. Dev"	4	0	56821
+"All Counties"	"Board of Supervisor"	5	0	25710
+"All Counties"	"Child Support"	8	0	41052
+"All Counties"	"Clerk/Recorder/Assessor"	6	0	19261.5
+"All Counties"	"Cu Davis"	1	0	1806
+"All Counties"	"Da"	12	0	42770.5
+"All Counties"	"General Services"	8	0	25869
+"All Counties"	"Grants"	3	0	8820
+"All Counties"	"Health"	9	0	24622
+"All Counties"	"Human Services"	58	50	29515
+"All Counties"	"It"	3	0	62197
+"All Counties"	"Jail"	20	2834.5	34489
+"All Counties"	"Library"	4	0	7555.5
+"All Counties"	"Planning"	8	0	600
+"All Counties"	"Probation"	26	0	43513.5
+"All Counties"	"Road"	50	0	34122
+"All Counties"	"Sheriff"	27	2070	59612
+"All Counties"	"Solid Waste"	30	0	24213
+"All Counties"	"Transit"	12	0	6298
+"All Counties"	"Treas/Tax"	3	0	26394
+"All Counties"	"Veterans"	1	0	16922
+"All Counties"	"Welfare"	2	633	13912
+"All Counties"	"WIC"	3	0	33497
+"All Counties"	"Ag Commissioner/Sealer"	63	1647	48492
+"All Counties"	"Assessor Clerk-Recorder"	96	0	42250
+"All Counties"	"Auditor-Controller"	66	0	36320.5
+"All Counties"	"Board of Supervisors"	7	0	113002
+"All Counties"	"Capital Projects"	8	0	50219.5
+"All Counties"	"Child Support Services Dept"	200	0	36179.5
+"All Counties"	"Cooperative Extension"	8	0	29555.5
+"All Counties"	"County Administration Office"	17	0	48341
+"All Counties"	"County Counsel"	63	0	49029
+"All Counties"	"District Attorney"	212	0	47764
+"All Counties"	"Fire Dept"	131	1531	60029
+"All Counties"	"General Services"	80	0	30590.5
+"All Counties"	"Health and Human Services"	3920	0	36698
+"All Counties"	"Human Resources & Development"	29	0	34892
+"All Counties"	"Information Technology"	156	0	57450
+"All Counties"	"Law Library"	2	0	48562.5
+"All Counties"	"Library"	42	0	31927
+"All Counties"	"Probation"	425	0	39592
+"All Counties"	"Public Defender"	107	0	37520
+"All Counties"	"Purchasing"	10	0	25530
+"All Counties"	"Resource Management Agency"	320	0	41625
+"All Counties"	"Retirement"	9	0	46205
+"All Counties"	"Sheriff"	799	2183.5	57901
+"All Counties"	"Workforce Investment Board"	18	0	54571
+"All Counties"	"Administration"	5	0	108862.59
+"All Counties"	"Agriculture Comm/Weights & Measurement"	4	0	56193.575
+"All Counties"	"Air Pollution Control"	2	84.895	80150.28
+"All Counties"	"Ambulance"	4	0	28212.37
+"All Counties"	"Animal Control"	14	7.8	29198.36
+"All Counties"	"Archives"	1	0	72020.24
+"All Counties"	"Assessor - Recorder"	15	0	46597.7
+"All Counties"	"Auditor - Controller"	16	0	42365.73
+"All Counties"	"Behavioral Health"	80	0	32651.33
+"All Counties"	"Board of Supervisors"	8	0	41275.935
+"All Counties"	"Boat Patrol"	3	5122.67	66980.44
+"All Counties"	"Columbia Airport"	5	0	40064.79
+"All Counties"	"Community Resources Agency"	26	0	59822.075
+"All Counties"	"County Counsel"	5	0	111113.25
+"All Counties"	"Court Security"	6	927.37	66918.355
+"All Counties"	"DA Victim Witness"	3	0	40544.02
+"All Counties"	"DAVW Statutory Rape Prosecute"	1	0	63107.71
+"All Counties"	"District Attorney"	17	0	51328.82
+"All Counties"	"Elections"	1	0	27527.39
+"All Counties"	"Facilities Management"	22	48.505	34177.68
+"All Counties"	"Fire"	23	0	1670.67
+"All Counties"	"Fleet Services"	8	670.99	46286.935
+"All Counties"	"Health"	36	0	22155.97
+"All Counties"	"Health- Van"	3	0	7134.7
+"All Counties"	"Human Resources - Risk Mgmt."	5	0	57258.8
+"All Counties"	"Information  Technology"	15	44.59	66714.72
+"All Counties"	"Jail"	47	4853.79	60470.88
+"All Counties"	"Library"	22	0	12081.14
+"All Counties"	"Probation"	55	0	39198.26
+"All Counties"	"Public Defender"	8	0	60126.035
+"All Counties"	"Public Power Agency"	1	0	28583.84
+"All Counties"	"Public Works - Road Fund"	31	951.93	43834.13
+"All Counties"	"Public Works Administration"	12	0	59556.055
+"All Counties"	"Public Works Spec Dist Admin"	1	0	44964.43
+"All Counties"	"Purchasing"	2	0	37874.24
+"All Counties"	"Radio/Communications"	1	2018.58	43525.14
+"All Counties"	"Recreation"	69	0	1919.34
+"All Counties"	"Revenue Recovery"	8	0	32330.14
+"All Counties"	"Sheriff - Communications"	14	6594.18	62032.385
+"All Counties"	"Sheriff - Coroner"	74	4647.38	73533.98
+"All Counties"	"Social Services"	145	0	35525.45
+"All Counties"	"Solid Waste"	3	0	53597.71
+"All Counties"	"Standard Park"	15	0	3051.94
+"All Counties"	"Tobacco Control Program"	2	0	42502.995
+"All Counties"	"Treasurer - Tax Collector"	6	12.2	38702.75
+"All Counties"	"Tuolumne Narcotics Team"	3	14048.36	92989.35
+"All Counties"	"Veterans Services"	4	0	18695.615
+"All Counties"	"Women Infants & Children(WIC)"	14	0	8444.54
+"All Counties"	"Youth Centers"	10	0	5338.285
+"All Counties"	"Agricultural Commissioner"	71	5	27333
+"All Counties"	"Animal Services"	72	1009	34881
+"All Counties"	"Area Agency on Aging"	28	0	42837.5
+"All Counties"	"Assessor"	135	0	52092
+"All Counties"	"Auditor-Controller"	76	0	51754
+"All Counties"	"Board of Supervisors"	29	0	73321
+"All Counties"	"County Clerk-Recorder"	68	150	42681.5
+"All Counties"	"County Counsel"	38	0	107204
+"All Counties"	"County Executive Office"	109	0	71109
+"All Counties"	"Department of Airports"	32	184.5	45062
+"All Counties"	"District Attorney"	278	0	72345.5
+"All Counties"	"Farm Advisor"	3	0	43399
+"All Counties"	"General Services Agency"	295	11	42398
+"All Counties"	"Harbor Administration"	78	0	7666.5
+"All Counties"	"Health Care Agency"	2979	73	45614
+"All Counties"	"Human Services Agency"	1269	34	45738
+"All Counties"	"Information Technology Services"	183	0	83146
+"All Counties"	"Local Agency Formation Comm"	3	0	118179
+"All Counties"	"Probation Agency"	479	63	63273
+"All Counties"	"Public Defender"	107	0	92924
+"All Counties"	"Public Works Agency"	428	0	53669.5
+"All Counties"	"Resource Management Agency"	183	0	70686
+"All Counties"	"Sheriff's Department"	1354	6298.5	85534
+"All Counties"	"Treasurer - Tax Collector"	38	0	41307.5
+"All Counties"	"VC Dept. Child Support Services"	227	0	50780
+"All Counties"	"VC Employees' Retirement Associate"	25	0	64187
+"All Counties"	"VC Fire Protection District"	592	30992	115042.5
+"All Counties"	"Ventura County Library"	154	0	11957.5
+"All Counties"	"Agriculture"	18	0	67543
+"All Counties"	"Animal Services"	21	1860	42198
+"All Counties"	"Assessor"	25	0	58410
+"All Counties"	"Auditor-Controller"	26	0	51529.5
+"All Counties"	"Board of Supervisors"	18	0	73665.5
+"All Counties"	"Child Support Services"	61	0	47574
+"All Counties"	"Children & Families Commission"	5	0	87373
+"All Counties"	"Co Facilities - Buildings"	13	1295	64997
+"All Counties"	"Community Dev Block Grants"	1	0	99994
+"All Counties"	"Community Development-Planning"	8	0	83258
+"All Counties"	"Cooperative Extension Service"	3	0	47961
+"All Counties"	"Coroner"	12	0	4980.5
+"All Counties"	"County Administrator"	21	0	74545
+"All Counties"	"County Clerk-Administration"	6	0	90926
+"All Counties"	"County Clerk-Recorder"	11	19	45189
+"All Counties"	"County Clerk - Elections"	22	0	3871
+"All Counties"	"County Counsel"	11	0	95473
+"All Counties"	"DA-Consumer & Env Protection"	3	0	72820
+"All Counties"	"District Attorney"	86	0	44519.5
+"All Counties"	"District Attorney-Child Abduct"	4	350	107938
+"All Counties"	"District Attorney-Crim Grants"	12	0	105103
+"All Counties"	"District Attorney-Grants"	4	0	63191.5
+"All Counties"	"District Attorney-MDIC"	3	0	33658
+"All Counties"	"District Attorney-Spec Invest"	1	259	59916
+"All Counties"	"District Attorney-Victim Wit"	5	0	47263
+"All Counties"	"Fleet Services"	2	0	78770.5
+"All Counties"	"Graphics"	3	0	614
+"All Counties"	"Human Resources"	13	0	70736
+"All Counties"	"Information Technology"	27	0	87932
+"All Counties"	"Law Library"	4	0	12021.5
+"All Counties"	"Library"	130	0	8774
+"All Counties"	"Library-Archives"	3	0	15915
+"All Counties"	"Library-YoloLink"	1	0	40753
+"All Counties"	"Local Agency Formation Comm"	3	0	63401
+"All Counties"	"Mental Health Services"	87	0	51239
+"All Counties"	"Office of Emergency Services"	1	0	81357
+"All Counties"	"Parks - Cache Creek"	1	0	43418
+"All Counties"	"Parks & Resources"	9	0	48763
+"All Counties"	"Planning and Public Works"	51	0	51720
+"All Counties"	"Probation-Administration"	14	0	44726
+"All Counties"	"Probation-Care of Court Wards"	1	280	63737
+"All Counties"	"Probation-COPS Juv. Justice"	6	75.5	62710.5
+"All Counties"	"Probation-Detention"	71	947	58031
+"All Counties"	"Probation-Service Unit"	13	0	57439
+"All Counties"	"Probation - AB109"	26	0	61370.5
+"All Counties"	"Probation - Comm Corrections"	12	0	61566
+"All Counties"	"Probation - Youth Offender"	5	297	65535
+"All Counties"	"Public Defender"	33	0	112927
+"All Counties"	"Public Guardian/Administrator"	6	0	52463.5
+"All Counties"	"Public Health"	58	0	39600
+"All Counties"	"Public Health-Child Disability"	14	0	70298
+"All Counties"	"Public Health-Environmental"	26	0	73967
+"All Counties"	"Public Works-Integrated Waste"	27	15	53496
+"All Counties"	"Purchasing"	3	0	56816
+"All Counties"	"Risk Management"	1	0	21283
+"All Counties"	"Sheriff-AB109"	28	3855.5	58877.5
+"All Counties"	"Sheriff-Bailiffs"	26	423	75573
+"All Counties"	"Sheriff-Boat Patrol"	2	9114	102229.5
+"All Counties"	"Sheriff-Civil"	6	413.5	56950
+"All Counties"	"Sheriff-Coroner"	17	0	56039
+"All Counties"	"Sheriff-Detention"	126	3865	66293.5
+"All Counties"	"Sheriff-Patrol"	40	4026	81822
+"All Counties"	"Sheriff-Training"	1	0	87976
+"All Counties"	"Social Services"	347	624	52166
+"All Counties"	"Telecommunications"	3	439	69316
+"All Counties"	"Veterans Service Office"	2	0	68843.5
 "Alameda"	"AC Central Collections"	36	0	59558
 "Alameda"	"ACERA"	89	0	74838
 "Alameda"	"Adult and Aging Services"	512	0	56461

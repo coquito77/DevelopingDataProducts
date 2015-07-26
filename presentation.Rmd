@@ -60,18 +60,16 @@ highestWagesOT <- tbl_df(dataset) %>%
 
 library(xtable)
 
-print(xtable(prettyNum(highestTotalWages,
-                       big.mark=",",
-                       preserve.width="none"),
+print(xtable(highestTotalWages,
              digits=0, 
              caption = "Top three total wage paying departments, excludes departments with fewer than 30 employeees",  
-             label="tblFinalReg", 
-             align = "rl{4cm}r{3cm}r{3cm}"
-), 
+             label="tblTopTotalWages", 
+             align = "rl{4cm}r{3cm}r{3cm}"), 
 caption.placement = "bottom", 
 include.rownames=FALSE, 
 # table.placement="t", 
 type='html',
+format.args = list(big.mark = ",", decimal.mark = "."),
 comment=FALSE)
 
 ```
@@ -81,18 +79,20 @@ comment=FALSE)
 
 ```{r results='asis', echo=FALSE}
 
-print(xtable(prettyNum(highestWagesOT,
-                       big.mark=",",
-                       preserve.width="none"),
+
+
+print(xtable(highestWagesOT,
              digits=0, 
              caption = "Top three overtime paying departments, excludes departments with fewer than 30 employeees",  
-             label="tblFinalReg", 
-             align = "rl{4cm}r{3cm}r{3cm}"
-), 
+             label="tblTopOTwages", 
+             align = "rl{4cm}r{3cm}r{3cm}"), 
 caption.placement = "bottom", 
 include.rownames=FALSE, 
 # table.placement="t", 
 type='html',
+format.args = list(big.mark = ",", decimal.mark = "."),
 comment=FALSE)
+
+
 
 ```
